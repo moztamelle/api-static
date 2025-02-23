@@ -1,6 +1,6 @@
 [
   {
     "nome": "Biblia",
-    "url": "https://gitlab.com/FranciscoTamele/datastatic/-/raw/v2-desktop/quizdesktop/v2/biblia.json?ref_type=heads"
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biblia.json"
   }
 ]
