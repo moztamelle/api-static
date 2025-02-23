@@ -1,0 +1,1751 @@
+{
+  "easy": [
+    {
+      "questao": "Que animal falou com Balaão?",
+      "respostas": [
+        {
+          "res": "jumenta",
+          "status": true
+        },
+        {
+          "res": "camelo",
+          "status": false
+        },
+        {
+          "res": "cordeiro",
+          "status": false
+        },
+        {
+          "res": "pomba",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Enquanto pastor de ovelhas, Davi protegeu seu rebanho de dois animais perigosos. Quais?",
+      "respostas": [
+        {
+          "res": "urso e leão",
+          "status": true
+        },
+        {
+          "res": "serpente e dromedário",
+          "status": false
+        },
+        {
+          "res": "cobra e lobo",
+          "status": false
+        },
+        {
+          "res": "urso e escorpião",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quantos eram os discípulos mais próximos de Jesus?",
+      "respostas": [
+        {
+          "res": "12",
+          "status": true
+        },
+        {
+          "res": "11",
+          "status": false
+        },
+        {
+          "res": "6",
+          "status": false
+        },
+        {
+          "res": "10",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em quais livros da Bíblia é narrada a história do nascimento de Jesus?",
+      "respostas": [
+        {
+          "res": "Mateus e Lucas",
+          "status": true
+        },
+        {
+          "res": "Hebreus e Apocalipse",
+          "status": false
+        },
+        {
+          "res": "Mateus e Marcos",
+          "status": false
+        },
+        {
+          "res": "Gênesis e Salmos",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual dos discípulos negou a Jesus?",
+      "respostas": [
+        {
+          "res": "Judas Iscariotes",
+          "status": true
+        },
+        {
+          "res": "João",
+          "status": false
+        },
+        {
+          "res": "Pedro",
+          "status": false
+        },
+        {
+          "res": "Bartolomeu",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o nome da cidade fundada por Caim, depois que saiu da presença de Deus?",
+      "respostas": [
+        {
+          "res": "Enoque",
+          "status": true
+        },
+        {
+          "res": "Sodoma",
+          "status": false
+        },
+        {
+          "res": "Gomora",
+          "status": false
+        },
+        {
+          "res": "Canaã",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem eram os dois irmãos de Moisés?",
+      "respostas": [
+        {
+          "res": "Miriã e Arão",
+          "status": true
+        },
+        {
+          "res": "Esaú e Jacó",
+          "status": false
+        },
+        {
+          "res": "Josué e Calebe",
+          "status": false
+        },
+        {
+          "res": "Priscila e Áquila",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi o juiz hebreu que uma Mulher seduziu para entregar ao exército filisteu?",
+      "respostas": [
+        {
+          "res": "Sansão",
+          "status": true
+        },
+        {
+          "res": "Salomão",
+          "status": false
+        },
+        {
+          "res": "Samuel",
+          "status": false
+        },
+        {
+          "res": "Saul",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A Bíblia é composta por quantos livros?",
+      "respostas": [
+        {
+          "res": "66 livros",
+          "status": true
+        },
+        {
+          "res": "67 livros",
+          "status": false
+        },
+        {
+          "res": "68 livros",
+          "status": false
+        },
+        {
+          "res": "65 livros",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Com que idade Jesus começou seu ministério?",
+      "respostas": [
+        {
+          "res": "30 Anos",
+          "status": true
+        },
+        {
+          "res": "12 Anos",
+          "status": false
+        },
+        {
+          "res": "33 Anos",
+          "status": false
+        },
+        {
+          "res": "Nascimento",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Sobre Jesus é ERRADO dizer:",
+      "respostas": [
+        {
+          "res": "Jesus pecou em poucas situações.",
+          "status": true
+        },
+        {
+          "res": "Jesus Cristo é Deus.",
+          "status": false
+        },
+        {
+          "res": "Jesus foi 100% humano.",
+          "status": false
+        },
+        {
+          "res": "Jesus ressuscitou ao 3º dia.",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Jesus ensinou várias parábolas para ilustrar o Reino de Deus. Dessas, qual fala sobre o perdão de Deus?",
+      "respostas": [
+        {
+          "res": "Parábola do Filho Pródigo",
+          "status": true
+        },
+        {
+          "res": "Parábola do Bom Samaritano",
+          "status": false
+        },
+        {
+          "res": "Parábola do Semeador",
+          "status": false
+        },
+        {
+          "res": "arábola do Joio e do trigo",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual mulher foi tida por bêbada enquanto orava pedindo um filho ao Senhor?",
+      "respostas": [
+        {
+          "res": "Ana",
+          "status": true
+        },
+        {
+          "res": "Abigail",
+          "status": false
+        },
+        {
+          "res": "Sara",
+          "status": false
+        },
+        {
+          "res": "Raquel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual instrumento Davi gostava de tocar?",
+      "respostas": [
+        {
+          "res": "Harpa",
+          "status": true
+        },
+        {
+          "res": "Flauta",
+          "status": false
+        },
+        {
+          "res": "Tamborim",
+          "status": false
+        },
+        {
+          "res": "Cítara",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quando Jesus nasceu, onde Ele foi colocado?",
+      "respostas": [
+        {
+          "res": "Foi colocado numa manjedoura.",
+          "status": true
+        },
+        {
+          "res": "Foi colocado num trono.",
+          "status": false
+        },
+        {
+          "res": "Foi colocado num altar.",
+          "status": false
+        },
+        {
+          "res": "Foi colocado num cesto.",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Jesus comparou o Reino de Deus a qual semente?",
+      "respostas": [
+        {
+          "res": "Ao grão de mostarda.",
+          "status": true
+        },
+        {
+          "res": "Ao grão de trigo.",
+          "status": false
+        },
+        {
+          "res": "Ao grão de cevada.",
+          "status": false
+        },
+        {
+          "res": "Ao grão de milho.",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi o 'assistente' do profeta Elias?",
+      "respostas": [
+        {
+          "res": "Eliseu",
+          "status": true
+        },
+        {
+          "res": "Jeremias",
+          "status": false
+        },
+        {
+          "res": "Isaías",
+          "status": false
+        },
+        {
+          "res": "Ezequiel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o nome do anjo que apareceu a Maria, mãe de Jesus?",
+      "respostas": [
+        {
+          "res": "Gabriel",
+          "status": true
+        },
+        {
+          "res": "Miguel",
+          "status": false
+        },
+        {
+          "res": "Rafael",
+          "status": false
+        },
+        {
+          "res": "Uriel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quantos pães e peixes Jesus utilizou para multiplicar e alimentar a multidão?",
+      "respostas": [
+        {
+          "res": "5 Pães e 2 Peixes",
+          "status": true
+        },
+        {
+          "res": "2 Pães e 5 Peixes",
+          "status": false
+        },
+        {
+          "res": "3 Pães e 7 Peixes",
+          "status": false
+        },
+        {
+          "res": "7 Pães e 3 Peixe",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem ajudou Jesus a carregar a cruz?",
+      "respostas": [
+        {
+          "res": "Simão Cirineu",
+          "status": true
+        },
+        {
+          "res": "João",
+          "status": false
+        },
+        {
+          "res": "Pedro",
+          "status": false
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em que cidade nasceu Jesus?",
+      "respostas": [
+        {
+          "res": "Belém",
+          "status": true
+        },
+        {
+          "res": "Jerusalém",
+          "status": false
+        },
+        {
+          "res": "Nazareth",
+          "status": false
+        },
+        {
+          "res": "Capernaum",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem subiu na árvore para ver Jesus passar?",
+      "respostas": [
+        {
+          "res": "Zaqueu",
+          "status": true
+        },
+        {
+          "res": "Nicodemos",
+          "status": false
+        },
+        {
+          "res": "Mateus",
+          "status": false
+        },
+        {
+          "res": "Simão",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem cantava na prisão com Paulo antes do terremoto?",
+      "respostas": [
+        {
+          "res": "Nenhum dos citados",
+          "status": true
+        },
+        {
+          "res": "João",
+          "status": false
+        },
+        {
+          "res": "Saulo",
+          "status": false
+        },
+        {
+          "res": "Simião",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem entrou na cidade dançando com a arca da aliança?",
+      "respostas": [
+        {
+          "res": "Davi",
+          "status": true
+        },
+        {
+          "res": "Salomão",
+          "status": false
+        },
+        {
+          "res": "Saul",
+          "status": false
+        },
+        {
+          "res": "Josué",
+          "status": false
+        }
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "questao": "Quem disse: 'Quem creu em nossa pregação?'",
+      "respostas": [
+        {
+          "res": "Isaías",
+          "status": true
+        },
+        {
+          "res": "Jeremias",
+          "status": false
+        },
+        {
+          "res": "Ezequiel",
+          "status": false
+        },
+        {
+          "res": "Daniel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi que substituiu Judas Iscariotes como apóstolo?",
+      "respostas": [
+        {
+          "res": "Matias",
+          "status": true
+        },
+        {
+          "res": "Simão",
+          "status": false
+        },
+        {
+          "res": "Barnabé",
+          "status": false
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A quem Jesus chamou de verdadeiro israelita?",
+      "respostas": [
+        {
+          "res": "Natanael",
+          "status": true
+        },
+        {
+          "res": "Filipe",
+          "status": false
+        },
+        {
+          "res": "João",
+          "status": false
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "(Segundo Mateus 5) Jesus ensinou o sermão da montanha...",
+      "respostas": [
+        {
+          "res": "na montanha",
+          "status": true
+        },
+        {
+          "res": "na rua com multidão",
+          "status": false
+        },
+        {
+          "res": "no templo de Jerusalém",
+          "status": false
+        },
+        {
+          "res": "na Sinagoga",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi o primeiro ser humano a nascer na terra?",
+      "respostas": [
+        {
+          "res": "Caim",
+          "status": true
+        },
+        {
+          "res": "Adão",
+          "status": false
+        },
+        {
+          "res": "Sete",
+          "status": false
+        },
+        {
+          "res": "Abel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi a única mulher citada na Bíblia a ter o status de juíza e líder de Israel?",
+      "respostas": [
+        {
+          "res": "Débora",
+          "status": true
+        },
+        {
+          "res": "Miriã",
+          "status": false
+        },
+        {
+          "res": "Esther",
+          "status": false
+        },
+        {
+          "res": "Raquel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Que animal mordeu a mão do Apóstolo Paulo?",
+      "respostas": [
+        {
+          "res": "Víbora",
+          "status": true
+        },
+        {
+          "res": "Leão",
+          "status": false
+        },
+        {
+          "res": "Lagarto",
+          "status": false
+        },
+        {
+          "res": "Escorpião",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi a mulher sensata que impediu Davi de destruir Nabal, seu marido e sua casa?",
+      "respostas": [
+        {
+          "res": "Abigail",
+          "status": true
+        },
+        {
+          "res": "Merabe",
+          "status": false
+        },
+        {
+          "res": "Bate-Seba",
+          "status": false
+        },
+        {
+          "res": "Mical",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em Lucas 9, Jesus enviou seus 12 discípulos em missão. Em Lucas 10, quantos foram comissionados?",
+      "respostas": [
+        {
+          "res": "70 discípulos",
+          "status": true
+        },
+        {
+          "res": "40 discípulos",
+          "status": false
+        },
+        {
+          "res": "10 discípulos",
+          "status": false
+        },
+        {
+          "res": "3 discípulos - Pedro, Tiago e João",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual destes livros NÃO foi escrito pelo apóstolo Paulo?",
+      "respostas": [
+        {
+          "res": "Tiago",
+          "status": true
+        },
+        {
+          "res": "Tito",
+          "status": false
+        },
+        {
+          "res": "Timóteo",
+          "status": false
+        },
+        {
+          "res": "Filemon",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o nome e a idade da pessoa mais velha mencionada na Bíblia?",
+      "respostas": [
+        {
+          "res": "Matusalém, viveu 969 anos",
+          "status": true
+        },
+        {
+          "res": "Enos, viveu 905 anos",
+          "status": false
+        },
+        {
+          "res": "Noé, viveu 990 anos",
+          "status": false
+        },
+        {
+          "res": "Rainha Ester, viveu 859 anos",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual desses não teve o seu nome mudado na Bíblia?",
+      "respostas": [
+        {
+          "res": "Davi",
+          "status": true
+        },
+        {
+          "res": "Sara",
+          "status": false
+        },
+        {
+          "res": "Jacó",
+          "status": false
+        },
+        {
+          "res": "Abraão",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Na transfiguração, quem apareceu ao lado de Jesus?",
+      "respostas": [
+        {
+          "res": "Elias e Moisés",
+          "status": true
+        },
+        {
+          "res": "Abraão e Moisés",
+          "status": false
+        },
+        {
+          "res": "Moisés e Eliseu",
+          "status": false
+        },
+        {
+          "res": "Abraão e Jacó",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o último capítulo da Bíblia?",
+      "respostas": [
+        {
+          "res": "Apocalipse 22",
+          "status": true
+        },
+        {
+          "res": "Apocalipse 21",
+          "status": false
+        },
+        {
+          "res": "Gênesis 50",
+          "status": false
+        },
+        {
+          "res": "Mateus 28",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem era a mãe de Samuel?",
+      "respostas": [
+        {
+          "res": "Ana",
+          "status": true
+        },
+        {
+          "res": "Isabel",
+          "status": false
+        },
+        {
+          "res": "Maria",
+          "status": false
+        },
+        {
+          "res": "Rebeca",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem a Bíblia diz que foi pior que todos os reis de Israel?",
+      "respostas": [
+        {
+          "res": "Acabe",
+          "status": true
+        },
+        {
+          "res": "Saul",
+          "status": false
+        },
+        {
+          "res": "Jeroboão",
+          "status": false
+        },
+        {
+          "res": "Manassés",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi jogado na fornalha de fogo?",
+      "respostas": [
+        {
+          "res": "Sadraque, Mesaque e Abednego",
+          "status": true
+        },
+        {
+          "res": "Sadraque, Isaque e Abednego",
+          "status": false
+        },
+        {
+          "res": "Sadraque, Mesaque e Abel",
+          "status": false
+        },
+        {
+          "res": "Ibraque, Mesaque e Abednego",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem escreveu o livro de Lamentações?",
+      "respostas": [
+        {
+          "res": "Jeremias",
+          "status": true
+        },
+        {
+          "res": "Isaías",
+          "status": false
+        },
+        {
+          "res": "Ezequiel",
+          "status": false
+        },
+        {
+          "res": "Daniel",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que quer dizer 'Rabi'?",
+      "respostas": [
+        {
+          "res": "Mestre",
+          "status": true
+        },
+        {
+          "res": "Pai",
+          "status": false
+        },
+        {
+          "res": "Senhor",
+          "status": false
+        },
+        {
+          "res": "Rei",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem escreveu o livro de Apocalipse?",
+      "respostas": [
+        {
+          "res": "João",
+          "status": true
+        },
+        {
+          "res": "Pedro",
+          "status": false
+        },
+        {
+          "res": "Paulo",
+          "status": false
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi arrebatado por Deus e não viu a morte?",
+      "respostas": [
+        {
+          "res": "Jesus",
+          "status": true
+        },
+        {
+          "res": "Eliseu",
+          "status": false
+        },
+        {
+          "res": "Nenhum dos citados",
+          "status": false
+        },
+        {
+          "res": "Moisés",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Jesus curou 10 leprosos. Quantos voltaram para agradecer?",
+      "respostas": [
+        {
+          "res": "1",
+          "status": true
+        },
+        {
+          "res": "3",
+          "status": false
+        },
+        {
+          "res": "7",
+          "status": false
+        },
+        {
+          "res": "10",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem entrou na Terra Prometida?",
+      "respostas": [
+        {
+          "res": "Josué",
+          "status": true
+        },
+        {
+          "res": "Moisés",
+          "status": false
+        },
+        {
+          "res": "Josué e Moisés",
+          "status": false
+        },
+        {
+          "res": "Todo povo que saiu do Egipto",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foi companheiro de batalhas de Josué?",
+      "respostas": [
+        {
+          "res": "Calebe",
+          "status": true
+        },
+        {
+          "res": "Jóse",
+          "status": false
+        },
+        {
+          "res": "Miriã",
+          "status": false
+        },
+        {
+          "res": "Nenhum dos citados",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem subiu aos céus em uma carruagem de fogo?",
+      "respostas": [
+        {
+          "res": "Elias",
+          "status": true
+        },
+        {
+          "res": "Nenhum dos citados",
+          "status": false
+        },
+        {
+          "res": "Moisés",
+          "status": false
+        },
+        {
+          "res": "Enoque",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A quem o Apóstolo Paulo chamou de 'médico amado'?",
+      "respostas": [
+        {
+          "res": "Lucas",
+          "status": true
+        },
+        {
+          "res": "Timóteo",
+          "status": false
+        },
+        {
+          "res": "Tito",
+          "status": false
+        },
+        {
+          "res": "Barnabé",
+          "status": false
+        }
+      ]
+    }
+  ],
+  "dificult": [
+    {
+      "questao": "Quais discípulos perguntaram a Jesus se podiam fazer descer fogo do céu?",
+      "respostas": [
+        {
+          "res": "João e Tiago",
+          "status": true
+        },
+        {
+          "res": "Pedro e João",
+          "status": false
+        },
+        {
+          "res": "Pedro e Tiago",
+          "status": false
+        },
+        {
+          "res": "Felipe e Bartolomeu",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": " Quantos anos viveu Sara? ",
+      "respostas": [
+        {
+          "res": "127 anos ",
+          "status": true
+        },
+        {
+          "res": "156 anos ",
+          "status": false
+        },
+        {
+          "res": "107 anos ",
+          "status": false
+        },
+        {
+          "res": "116 anos",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Segundo Efésios 6:16-18, devemos ter a fé como...",
+      "respostas": [
+        {
+          "res": "Escudo",
+          "status": true
+        },
+        {
+          "res": "Espada",
+          "status": false
+        },
+        {
+          "res": "Capacete",
+          "status": false
+        },
+        {
+          "res": "Salvação",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Completa: (Segundo Tiago 1:3) Sabendo que a prova da vossa fé opera ________.",
+      "respostas": [
+        {
+          "res": "a paciência",
+          "status": true
+        },
+        {
+          "res": "o amor",
+          "status": false
+        },
+        {
+          "res": "a fortaleza",
+          "status": false
+        },
+        {
+          "res": "a sabedoria",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "André era irmão de qual apóstolo?",
+      "respostas": [
+        {
+          "res": "Pedro",
+          "status": true
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        },
+        {
+          "res": "João",
+          "status": false
+        },
+        {
+          "res": "Felipe",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o menor versículo da Bíblia?",
+      "respostas": [
+        {
+          "res": "Jó 3:2",
+          "status": true
+        },
+        {
+          "res": "João 11:35",
+          "status": false
+        },
+        {
+          "res": "Ester 8:9",
+          "status": false
+        },
+        {
+          "res": "Êxodo 20:13",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem era rei e sacerdote no período de Abraão?",
+      "respostas": [
+        {
+          "res": "Melquisedeque",
+          "status": true
+        },
+        {
+          "res": "Nabucodonosor",
+          "status": false
+        },
+        {
+          "res": "Azalias",
+          "status": false
+        },
+        {
+          "res": "Zedequias",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A quem Paulo chamou de 'meu companheiro de lutas'?",
+      "respostas": [
+        {
+          "res": "Arquipo",
+          "status": true
+        },
+        {
+          "res": "Timóteo",
+          "status": false
+        },
+        {
+          "res": "Áfia",
+          "status": false
+        },
+        {
+          "res": "Apolo",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Completa : (Segundo Colossenses 3:14) Acima de tudo, porém, revistam-se _________________, que é o elo perfeito.",
+      "respostas": [
+        {
+          "res": "do amor",
+          "status": true
+        },
+        {
+          "res": "do temor ao Senhor",
+          "status": false
+        },
+        {
+          "res": "da benignidade",
+          "status": false
+        },
+        {
+          "res": "da fé",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O verso 'Tudo posso naquele que me fortalece.' esta escrito em ...",
+      "respostas": [
+        {
+          "res": "Filipenses 4:13",
+          "status": true
+        },
+        {
+          "res": "Filipenses 13:4",
+          "status": false
+        },
+        {
+          "res": "Filipenses 4:3",
+          "status": false
+        },
+        {
+          "res": "Filipenses 3:4",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em que livro está o verso 'Escondi a tua palavra no meu coração, para eu não pecar contra ti.'?",
+      "respostas": [
+        {
+          "res": "Salmos",
+          "status": true
+        },
+        {
+          "res": "Provérbios",
+          "status": false
+        },
+        {
+          "res": "Eclesiaste",
+          "status": false
+        },
+        {
+          "res": "Não existe esse verso",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Completa : (Segundo 1 Coríntios 13:7) O amor tudo __________, tudo crê, tudo ___________, tudo ___________. ",
+      "respostas": [
+        {
+          "res": "sofre - espera - suporta",
+          "status": true
+        },
+        {
+          "res": "espera - sofre - suporta",
+          "status": false
+        },
+        {
+          "res": "espera - suporta - sofre",
+          "status": false
+        },
+        {
+          "res": "Depende da versão da Biblia",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em que Livro e capitulo esta o verso 'Mais vale o cão vivo do que leão morto!'?",
+      "respostas": [
+        {
+          "res": "Eclesiastes Cap. 9",
+          "status": true
+        },
+        {
+          "res": "Eclesiastes Cap. 14",
+          "status": false
+        },
+        {
+          "res": "Eclesiastes Cap. 19",
+          "status": false
+        },
+        {
+          "res": "Eclesiastes Cap. 4",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o nome da ilha onde João escreveu o livro de Apocalipse?",
+      "respostas": [
+        {
+          "res": "Ilha de Patmos",
+          "status": true
+        },
+        {
+          "res": "Ilha de Malta",
+          "status": false
+        },
+        {
+          "res": "Ilha de Creta",
+          "status": false
+        },
+        {
+          "res": "Ilha de Pérgamo",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A Bíblia foi escrita em quais línguas originais?",
+      "respostas": [
+        {
+          "res": "siríaco, hebraico e latim",
+          "status": false
+        },
+        {
+          "res": "hebraico, aramaico e grego",
+          "status": true
+        },
+        {
+          "res": "hebraico, macedônio e aramaico",
+          "status": false
+        },
+        {
+          "res": "aramaico, persa e grego",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o nome da filha mais velha de Saul prometida em casamento a Davi, mas dada a outro?",
+      "respostas": [
+        {
+          "res": "Merabe",
+          "status": true
+        },
+        {
+          "res": "Sulamita",
+          "status": false
+        },
+        {
+          "res": "Talmai",
+          "status": false
+        },
+        {
+          "res": "Mical",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Na visão profética de João, qual era o número de cavaleiros do Apocalipse?",
+      "respostas": [
+        {
+          "res": "4",
+          "status": true
+        },
+        {
+          "res": "7",
+          "status": false
+        },
+        {
+          "res": "3",
+          "status": false
+        },
+        {
+          "res": "12",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Completa : (Segundo Salmo 25:4) Faze-me _________ os teus caminhos, Senhor; ensina-me as tuas __________.",
+      "respostas": [
+        {
+          "res": "conhecer - veredas",
+          "status": true
+        },
+        {
+          "res": "desejar - veredas",
+          "status": false
+        },
+        {
+          "res": "conhecer - ordenanças",
+          "status": false
+        },
+        {
+          "res": "desejar - ordenanças",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Completa: (Segundo 1 João 5:4) Porque todo o que é nascido de Deus vence o ________; e esta é a ________ que vence o mundo: a nossa ________.",
+      "respostas": [
+        {
+          "res": "mundo - vitória - fé",
+          "status": true
+        },
+        {
+          "res": "tentação - força - fé",
+          "status": false
+        },
+        {
+          "res": "mundo - graça - esperança",
+          "status": false
+        },
+        {
+          "res": "tentação - vitória - esperança",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual era o nome babilônico de Daniel?",
+      "respostas": [
+        {
+          "res": "Beltessazar",
+          "status": true
+        },
+        {
+          "res": "Aspenaz",
+          "status": false
+        },
+        {
+          "res": "Abede-Nego",
+          "status": false
+        },
+        {
+          "res": "Nenhum dos citados",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual livro se encontra no Novo Testamento?",
+      "respostas": [
+        {
+          "res": "Filemom",
+          "status": true
+        },
+        {
+          "res": "Sofonias",
+          "status": false
+        },
+        {
+          "res": "Habacuque",
+          "status": false
+        },
+        {
+          "res": "Neemias",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em quais livros da Bíblia não encontramos a palavra 'Deus'?",
+      "respostas": [
+        {
+          "res": "Ester e Cânticos",
+          "status": true
+        },
+        {
+          "res": "Ageu e Amós",
+          "status": false
+        },
+        {
+          "res": "Cânticos e Amós",
+          "status": false
+        },
+        {
+          "res": "Ageu e Jó",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "A Morte montada em um cavalo amarelo surgiu na abertura de qual selo em Apocalipse?",
+      "respostas": [
+        {
+          "res": "4º selo",
+          "status": true
+        },
+        {
+          "res": "3º selo",
+          "status": false
+        },
+        {
+          "res": "5º selo",
+          "status": false
+        },
+        {
+          "res": "6º selo",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual era a idade de Calebe quando pediu Hebrom para Josué?",
+      "respostas": [
+        {
+          "res": "85 anos",
+          "status": true
+        },
+        {
+          "res": "80 anos",
+          "status": false
+        },
+        {
+          "res": "90 anos",
+          "status": false
+        },
+        {
+          "res": "70 anos",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem foram apelidados por Jesus de Boanerges, que significa 'Filhos do Trovão'?",
+      "respostas": [
+        {
+          "res": "João e Tiago",
+          "status": true
+        },
+        {
+          "res": "Pedro e João",
+          "status": false
+        },
+        {
+          "res": "Tiago e Judas",
+          "status": false
+        },
+        {
+          "res": "André e Filipe",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual o discípulo que acompanhou Jesus até a sua crucificação?",
+      "respostas": [
+        {
+          "res": "João",
+          "status": true
+        },
+        {
+          "res": "Pedro",
+          "status": false
+        },
+        {
+          "res": "Tiago",
+          "status": false
+        },
+        {
+          "res": "André",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quantos capítulos tem o Livro de Naum?",
+      "respostas": [
+        {
+          "res": "3",
+          "status": true
+        },
+        {
+          "res": "4",
+          "status": false
+        },
+        {
+          "res": "2",
+          "status": false
+        },
+        {
+          "res": "5",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quais foram os dois nomes indicados para substituir Judas Iscariotes?",
+      "respostas": [
+        {
+          "res": "Barsabás e Matias",
+          "status": true
+        },
+        {
+          "res": "Barsabás e Perote",
+          "status": false
+        },
+        {
+          "res": "Matias e João",
+          "status": false
+        },
+        {
+          "res": "Nenhum dos citados",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em Tessalônica, Paulo, Silas e Timóteo se refugiaram na casa de qual irmão?",
+      "respostas": [
+        {
+          "res": "Jasom",
+          "status": true
+        },
+        {
+          "res": "Lucas",
+          "status": false
+        },
+        {
+          "res": "Barnabé",
+          "status": false
+        },
+        {
+          "res": "Tito",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Em qual dia da criação foi feito o sol, a lua e as estrelas?",
+      "respostas": [
+        {
+          "res": "4º dia",
+          "status": true
+        },
+        {
+          "res": "2º dia",
+          "status": false
+        },
+        {
+          "res": "5º dia",
+          "status": false
+        },
+        {
+          "res": "3º dia",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o quinto livro do Novo Testamento?",
+      "respostas": [
+        {
+          "res": "Atos dos Apóstolos",
+          "status": true
+        },
+        {
+          "res": "Romanos",
+          "status": false
+        },
+        {
+          "res": "1 Coríntios",
+          "status": false
+        },
+        {
+          "res": "Hebreus",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quem Noé amaldiçoou após saber que foi visto em nudez?",
+      "respostas": [
+        {
+          "res": "Canaã",
+          "status": true
+        },
+        {
+          "res": "Jafé",
+          "status": false
+        },
+        {
+          "res": "Sem",
+          "status": false
+        },
+        {
+          "res": "Ham",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Quais os 2 homens que o Apóstolo Paulo disse que naufragaram na fé?",
+      "respostas": [
+        {
+          "res": "Himeneu e Alexandre",
+          "status": true
+        },
+        {
+          "res": "Himeneu e Tito",
+          "status": false
+        },
+        {
+          "res": "Pedro e João",
+          "status": false
+        },
+        {
+          "res": "João e Alexandre",
+          "status": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcd508e4-8826-4e7e-8360-25e8315ade23" name="Default Changelist" comment="" />
+    <list default="true" id="fcd508e4-8826-4e7e-8360-25e8315ade23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wintelquiz/perguntas/biblia.json" beforeDir="false" afterPath="$PROJECT_DIR$/wintelquiz/perguntas/biblia.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1740225867085" duration="398000" />
       <workItem from="1740243288898" duration="679000" />
       <workItem from="1740311958061" duration="264000" />
-      <workItem from="1740342061304" duration="822000" />
+      <workItem from="1740342061304" duration="2317000" />
     </task>
     <servers />
   </component>
