@@ -1746,6 +1746,384 @@
           "status": false
         }
       ]
+    },
+    {
+      "questao": "Como o STP evita a criação de loops na rede?",
+      "respostas": [
+        {
+          "res": "Desabilitando portas automaticamente",
+          "status": false
+        },
+        {
+          "res": "Limitando o número de dispositivos por porta",
+          "status": false
+        },
+        {
+          "res": "Convertendo a rede física em uma topologia de árvore livre de loops",
+          "status": true
+        },
+        {
+          "res": "Usando um firewall para bloquear tráfego suspeito",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que é VLAN (Virtual Local Area Network)?",
+      "respostas": [
+        {
+          "res": "Uma porta de segurança para dispositivos",
+          "status": false
+        },
+        {
+          "res": "Uma rede independente física",
+          "status": true
+        },
+        {
+          "res": "Um protocolo para descoberta de dispositivos Cisco",
+          "status": false
+        },
+        {
+          "res": "Um método de autenticação de portas tronco",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual a finalidade do comando 'switchport mode trunk'?",
+      "respostas": [
+        {
+          "res": "Ativar o modo de aprendizado de endereços MAC",
+          "status": false
+        },
+        {
+          "res": "Configurar uma porta como uma porta de acesso",
+          "status": false
+        },
+        {
+          "res": "Ativar o modo tronco em uma interface",
+          "status": true
+        },
+        {
+          "res": "Desabilitar completamente uma porta",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Como o EtherChannel contribui para a rede?",
+      "respostas": [
+        {
+          "res": "Reduz a largura de banda entre switches",
+          "status": false
+        },
+        {
+          "res": "Elimina restrições de largura de banda ao agrupar vários links físicos",
+          "status": true
+        },
+        {
+          "res": "Aumenta o número de VLANs disponíveis",
+          "status": false
+        },
+        {
+          "res": "Fornece criptografia de dados entre switches",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que significa OSPF em termos de protocolos de roteamento?",
+      "respostas": [
+        {
+          "res": "Open Shortest Path First",
+          "status": true
+        },
+        {
+          "res": "Overlapping Secure Path Forwarding",
+          "status": false
+        },
+        {
+          "res": "Optimized Secure Pathfinding",
+          "status": false
+        },
+        {
+          "res": "Operational System Path Finder",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que acontece quando o modo 'Shutdown' é acionado no Port Security?",
+      "respostas": [
+        {
+          "res": "A porta apenas restringe o tráfego, mas não a desativa",
+          "status": false
+        },
+        {
+          "res": "A porta envia notificações informativas, mas não é desativada",
+          "status": false
+        },
+        {
+          "res": "A porta é desativada após uma violação de segurança",
+          "status": true
+        },
+        {
+          "res": "A porta continua a funcionar normalmente",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que é DTP (Dynamic Trunk Protocol)?",
+      "respostas": [
+        {
+          "res": "Um protocolo de segurança para portas",
+          "status": false
+        },
+        {
+          "res": "Uma ferramenta de troubleshooting de VLANs",
+          "status": false
+        },
+        {
+          "res": "Um protocolo proprietário da Cisco para negociação automática de portas tronco",
+          "status": true
+        },
+        {
+          "res": "Uma técnica de criação automática de VLANs",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o benefício do uso de NAT (Network Address Translation)?",
+      "respostas": [
+        {
+          "res": "Permite o uso de endereços privados em redes internas.",
+          "status": true
+        },
+        {
+          "res": "Aumenta a complexidade da rede.",
+          "status": false
+        },
+        {
+          "res": "Facilita ataques de negação de serviço (DoS).",
+          "status": false
+        },
+        {
+          "res": "Reduz a segurança da rede.",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que é PAgP (Port Aggregation Control Protocol)?",
+      "respostas": [
+        {
+          "res": "Um protocolo de segurança para portas",
+          "status": false
+        },
+        {
+          "res": "Um método de configuração manual do EtherChannel",
+          "status": false
+        },
+        {
+          "res": "Um protocolo proprietário da Cisco para criação automática de links EtherChannel",
+          "status": true
+        },
+        {
+          "res": "Uma ferramenta de descoberta de dispositivos Cisco",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Como o protocolo LACP (Link Aggregation Control Protocol) contribui para o EtherChannel?",
+      "respostas": [
+        {
+          "res": "Permite a criação automática de links EtherChannel",
+          "status": false
+        },
+        {
+          "res": "Negocia a criação e manutenção de EtherChannel",
+          "status": true
+        },
+        {
+          "res": "Notifica mudanças na topologia da rede",
+          "status": false
+        },
+        {
+          "res": "Elimina restrições de largura de banda",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que significa a sigla VPN?",
+      "respostas": [
+        {
+          "res": "Virtual Private Network, uma rede privada virtual",
+          "status": true
+        },
+        {
+          "res": "Very Personal Network, uma rede muito pessoal",
+          "status": false
+        },
+        {
+          "res": "Virtual Public Network, uma rede pública virtual",
+          "status": false
+        },
+        {
+          "res": "Visual Processing Node, um nó de processamento visual",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é a função de um roteador em uma rede?",
+      "respostas": [
+        {
+          "res": "Encaminhar pacotes de dados entre diferentes redes",
+          "status": true
+        },
+        {
+          "res": "Filtrar spam em e-mails",
+          "status": false
+        },
+        {
+          "res": "Armazenar dados em nuvem",
+          "status": false
+        },
+        {
+          "res": "Conectar dispositivos Bluetooth",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que é o modo de configuração 'Trunk' em uma porta de switch?",
+      "respostas": [
+        {
+          "res": "Permite a conexão de vários dispositivos",
+          "status": false
+        },
+        {
+          "res": "Ativa a Port Security para proteger a porta",
+          "status": false
+        },
+        {
+          "res": "Facilita o gerenciamento remoto do switch",
+          "status": false
+        },
+        {
+          "res": "Transporta tráfego de várias VLANs sobre um único cabo",
+          "status": true
+        }
+      ]
+    },
+    {
+      "questao": "Onde uma ACL de entrada processa os pacotes?",
+      "respostas": [
+        {
+          "res": "No Router diretamente conectado à rede de origem do pacote.",
+          "status": true
+        },
+        {
+          "res": "No Router diretamente conectado à rede de destino do pacote.",
+          "status": false
+        },
+        {
+          "res": "No switch na origem do pacote.",
+          "status": false
+        },
+        {
+          "res": "No switch no destino do pacote.",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que o Port Security faz em caso de violação de uma porta?",
+      "respostas": [
+        {
+          "res": "Envia um aviso ao administrador e continua permitindo o tráfego",
+          "status": false
+        },
+        {
+          "res": "Desativa a porta e envia mensagens informativas",
+          "status": true
+        },
+        {
+          "res": "Aumenta o número máximo de dispositivos permitidos na porta",
+          "status": false
+        },
+        {
+          "res": "Ignora a violação e permite o tráfego normalmente",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que significa STP em relação a redes?",
+      "respostas": [
+        {
+          "res": "Segurança de Tráfego Padrão",
+          "status": false
+        },
+        {
+          "res": "Switching Technology Protocol",
+          "status": false
+        },
+        {
+          "res": "Spanning Tree Protocol",
+          "status": true
+        },
+        {
+          "res": "Sistema de Transferência de Pacotes",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "O que é um ataque de negação de serviço (DDoS)?",
+      "respostas": [
+        {
+          "res": "Uma tentativa de sobrecarregar um sistema online, tornando-o inacessível",
+          "status": true
+        },
+        {
+          "res": "Um método de compressão de arquivos",
+          "status": false
+        },
+        {
+          "res": "Um tipo de vírus de computador",
+          "status": false
+        },
+        {
+          "res": "Um protocolo de segurança para redes",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é a função do protocolo STP?",
+      "respostas": [
+        {
+          "res": "Criar VLANs automaticamente",
+          "status": false
+        },
+        {
+          "res": "Garantir que não sejam criados loops na rede",
+          "status": true
+        },
+        {
+          "res": "Configurar automaticamente as portas do switch",
+          "status": false
+        },
+        {
+          "res": "Realizar a autenticação de dispositivos na rede",
+          "status": false
+        }
+      ]
     }
   ]
 }
