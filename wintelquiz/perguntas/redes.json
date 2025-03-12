@@ -1,43 +1,43 @@
 {
   "easy": [
     {
-      "questao": "Quais são os benefícios do uso de listas de acesso (ACLs) em uma rede?",
+      "questao": "Benefício do uso de listas de acesso (ACLs) em redes.",
       "respostas": [
         {
-          "res": "Redução significativa da carga dos dispositivos de rede, especialmente Routers, através da filtragem de pacotes.",
+          "res": "Filtragem de pacotes",
           "status": true
         },
         {
-          "res": "Aumento da complexidade da rede.",
+          "res": "Aumento da complexidade",
           "status": false
         },
         {
-          "res": "Facilitação de ataques de negação de serviço (DoS).",
+          "res": "Facilitação de ataques",
           "status": false
         },
         {
-          "res": "Diminuição da segurança da rede.",
+          "res": "Redução da segurança",
           "status": false
         }
       ]
     },
     {
-      "questao": "O que é um roteador?",
+      "questao": "Dispositivo que encaminha pacotes de dados entre redes distintas.",
       "respostas": [
         {
-          "res": "Dispositivo para interligar redes",
-          "status": false
-        },
-        {
-          "res": "Switch com funcionalidades de roteamento da camada 3",
-          "status": false
-        },
-        {
-          "res": "Dispositivo que encaminha pacotes de dados entre diferentes redes",
+          "res": "Roteador",
           "status": true
         },
         {
-          "res": "Dispositivo de segurança baseado em hardware",
+          "res": "Switch",
+          "status": false
+        },
+        {
+          "res": "Firewall",
+          "status": false
+        },
+        {
+          "res": "Modem",
           "status": false
         }
       ]
@@ -64,64 +64,64 @@
       ]
     },
     {
-      "questao": "O que é Port Security?",
+      "questao": "Funcionalidade que aumenta a segurança das portas de switch.",
       "respostas": [
         {
-          "res": "Um protocolo de segurança na Internet",
-          "status": false
-        },
-        {
-          "res": "Uma tecnologia para aumentar a robustez da rede",
+          "res": "Port Security",
           "status": true
         },
         {
-          "res": "Um tipo de firewall",
+          "res": "Firewall",
           "status": false
         },
         {
-          "res": "Um sistema de detecção de intrusão",
+          "res": "IDS",
+          "status": false
+        },
+        {
+          "res": "VPN",
           "status": false
         }
       ]
     },
     {
-      "questao": "O que é uma ACL de acesso IP padrão (Normal)?",
+      "questao": "Função de uma ACL de acesso IP padrão.",
       "respostas": [
         {
-          "res": "Verifica os endereços de origem dos pacotes que podem ser encaminhados.",
+          "res": "Filtra pelo endereço de origem",
           "status": true
         },
         {
-          "res": "Verifica os endereços de destino dos pacotes.",
+          "res": "Filtra pelo endereço de destino",
           "status": false
         },
         {
-          "res": "Implementada próximo ao destino.",
+          "res": "Implementada próximo ao destino",
           "status": false
         },
         {
-          "res": "Bloqueia a comunicação em ambos os sentidos.",
+          "res": "Bloqueia ambos os sentidos",
           "status": false
         }
       ]
     },
     {
-      "questao": "O que é um cabo de par trançado?",
+      "questao": "Cabo com fios entrelaçados para reduzir interferências.",
       "respostas": [
         {
-          "res": "Tipo de cabo para transmissão de dados a longas distâncias",
-          "status": false
-        },
-        {
-          "res": "Cabo com blindagem para proteção contra interferências eletromagnéticas",
-          "status": false
-        },
-        {
-          "res": "Cabo que possui pares de fios entrelaçados para cancelar interferências eletromagnéticas",
+          "res": "Par trançado",
           "status": true
         },
         {
-          "res": "Cabo utilizado exclusivamente em redes sem fio",
+          "res": "Fibra óptica",
+          "status": false
+        },
+        {
+          "res": "Coaxial",
+          "status": false
+        },
+        {
+          "res": "Cabo de rede sem fio",
           "status": false
         }
       ]
@@ -148,22 +148,22 @@
       ]
     },
     {
-      "questao": "Qual é a diferença entre TCP e UDP?",
+      "questao": "Diferença entre TCP e UDP.",
       "respostas": [
         {
-          "res": "TCP é orientado à conexão e UDP é não orientado à conexão",
+          "res": "TCP é orientado à conexão",
           "status": true
         },
         {
-          "res": "TCP é mais rápido que UDP",
+          "res": "TCP é mais rápido",
           "status": false
         },
         {
-          "res": "UDP é mais seguro que TCP",
+          "res": "UDP é mais seguro",
           "status": false
         },
         {
-          "res": "TCP é usado apenas para streaming de vídeo",
+          "res": "TCP é só para streaming",
           "status": false
         }
       ]
@@ -190,89 +190,71 @@
       ]
     },
     {
-      "questao": "O que o modo 'Auto' no Dynamic Trunk Protocol (DTP) faz?",
+      "questao": "Função do modo 'Auto' no DTP.",
       "respostas": [
         {
-          "res": "Inicia a negociação de portas tronco com outros switches",
-          "status": false
-        },
-        {
-          "res": "Desativa a negociação automática de portas tronco",
-          "status": false
-        },
-        {
-          "res": "Forma um tronco baseado nos pedidos DTP pelo switch vizinho",
+          "res": "Aceita pedidos de tronco",
           "status": true
         },
         {
-          "res": "Comunica com switches vizinhos usando DTP",
+          "res": "Inicia negociação de tronco",
+          "status": false
+        },
+        {
+          "res": "Desativa DTP",
+          "status": false
+        },
+        {
+          "res": "Usa DTP para comunicação",
           "status": false
         }
       ]
-    },
+    }
+    ,
     {
-      "questao": "Como o protocolo CDP (Cisco Discovery Protocol) é usado na rede?",
+      "questao": "Uso do protocolo CDP na rede.",
       "respostas": [
         {
-          "res": "Para autenticar dispositivos na rede",
-          "status": false
-        },
-        {
-          "res": "Para detectar e obter informações sobre dispositivos Cisco diretamente conectados",
+          "res": "Descobrir dispositivos Cisco",
           "status": true
         },
         {
-          "res": "Para criar conexões seguras entre switches",
+          "res": "Autenticar dispositivos",
           "status": false
         },
         {
-          "res": "Para configurar automaticamente os endereços IP dos dispositivos",
+          "res": "Criar conexões seguras",
+          "status": false
+        },
+        {
+          "res": "Configurar IPs automaticamente",
           "status": false
         }
       ]
-    },
+    }
+    ,
     {
-      "questao": "O que é necessário considerar ao criar uma lista de acesso (ACL)?",
+      "questao": "Fator importante ao criar uma ACL.",
       "respostas": [
         {
-          "res": "Ser o mais específico possível nos primeiros comandos, pois a lista é executada de cima para baixo.",
+          "res": "Comandos mais específicos primeiro",
           "status": true
         },
         {
-          "res": "Adicionar novos comandos automaticamente no início da lista.",
+          "res": "Adicionar comandos no início",
           "status": false
         },
         {
-          "res": "Remover comandos individualmente sem afetar os demais.",
+          "res": "Remover comandos sem impacto",
           "status": false
         },
         {
-          "res": "Permitir múltiplas ACLs por interface, protocolo e direção.",
+          "res": "Múltiplas ACLs por direção",
           "status": false
         }
       ]
-    },
-    {
-      "questao": "O que é EtherChannel?",
-      "respostas": [
-        {
-          "res": "Um protocolo de roteamento da Cisco",
-          "status": false
-        },
-        {
-          "res": "Uma tecnologia que elimina restrições de largura de banda",
-          "status": true
-        },
-        {
-          "res": "Um método de criptografia de dados",
-          "status": false
-        },
-        {
-          "res": "Um tipo de VLAN",
-          "status": false
-        }
-      ]
-    },
+    }
+    ,
     {
       "questao": "Como as listas de acesso (ACLs) são identificadas e referenciadas?",
       "respostas": [
@@ -316,131 +298,115 @@
       ]
     },
     {
-      "questao": "O que é o CDP (Cisco Discovery Protocol) utilizado para fazer?",
+      "questao": "Definição de endereço MAC.",
       "respostas": [
         {
-          "res": "Controlar a redundância em links de rede",
-          "status": false
-        },
-        {
-          "res": "Detectar eletrodomésticos conectados à rede",
-          "status": false
-        },
-        {
-          "res": "Coletar informações sobre dispositivos Cisco diretamente conectados",
+          "res": "Endereço físico da interface",
           "status": true
         },
         {
-          "res": "Configurar portas tronco dinamicamente",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é um endereço MAC?",
-      "respostas": [
-        {
-          "res": "Endereço lógico associado a cada interface de comunicação",
+          "res": "Endereço lógico",
           "status": false
         },
         {
-          "res": "Número que identifica uma sessão de comunicação",
+          "res": "Identificador de sessão",
           "status": false
         },
         {
-          "res": "Endereço físico associado a cada interface de comunicação",
-          "status": true
-        },
-        {
-          "res": "Código de verificação de integridade dos dados",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que o modo 'Desirable' no Dynamic Trunk Protocol (DTP) faz?",
-      "respostas": [
-        {
-          "res": "Inicia a negociação de portas tronco com outros switches",
-          "status": true
-        },
-        {
-          "res": "Ativa automaticamente o modo tronco em uma interface",
-          "status": false
-        },
-        {
-          "res": "Desativa a negociação automática de portas tronco",
-          "status": false
-        },
-        {
-          "res": "Configura a porta como uma VLAN desejável",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é roteamento?",
-      "respostas": [
-        {
-          "res": "O processo de encaminhar pacotes entre diferentes redes",
-          "status": true
-        },
-        {
-          "res": "Uma forma de organizar cabos em uma rede",
-          "status": false
-        },
-        {
-          "res": "Uma técnica de compressão de dados",
-          "status": false
-        },
-        {
-          "res": "Um protocolo de segurança na camada de transporte",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que acontece no modo 'shutdown' do Port Security em caso de violação?",
-      "respostas": [
-        {
-          "res": "A porta é desativada e uma mensagem é enviada ao administrador",
-          "status": true
-        },
-        {
-          "res": "A porta continua permitindo o tráfego, mas em modo restrito",
-          "status": false
-        },
-        {
-          "res": "O switch envia um sinal de alerta, mas a porta permanece ativa",
-          "status": false
-        },
-        {
-          "res": "A porta é protegida, permitindo apenas tráfego essencial",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Qual é a finalidade do comando 'show port-security'?",
-      "respostas": [
-        {
-          "res": "Exibir informações sobre portas tronco",
-          "status": false
-        },
-        {
-          "res": "Mostrar detalhes sobre a configuração de VLANs",
-          "status": false
-        },
-        {
-          "res": "Apresentar informações sobre a segurança de porta configurada",
-          "status": true
-        },
-        {
-          "res": "Exibir a tabela MAC do switch",
+          "res": "Código de verificação",
           "status": false
         }
       ]
     }
+    ,
+    {
+      "questao": "Função do modo 'Desirable' no DTP.",
+      "respostas": [
+        {
+          "res": "Inicia negociação de tronco",
+          "status": true
+        },
+        {
+          "res": "Ativa tronco automaticamente",
+          "status": false
+        },
+        {
+          "res": "Desativa DTP",
+          "status": false
+        },
+        {
+          "res": "Configura VLAN desejável",
+          "status": false
+        }
+      ]
+    }
+    ,
+    {
+      "questao": "Definição de roteamento.",
+      "respostas": [
+        {
+          "res": "Encaminhar pacotes entre redes",
+          "status": true
+        },
+        {
+          "res": "Organizar cabos",
+          "status": false
+        },
+        {
+          "res": "Comprimir dados",
+          "status": false
+        },
+        {
+          "res": "Protocolo de segurança",
+          "status": false
+        }
+      ]
+    }
+    ,
+    {
+      "questao": "Ação do modo 'shutdown' do Port Security em violação.",
+      "respostas": [
+        {
+          "res": "Desativa a porta e alerta",
+          "status": true
+        },
+        {
+          "res": "Mantém tráfego em modo restrito",
+          "status": false
+        },
+        {
+          "res": "Envia alerta, mas mantém ativa",
+          "status": false
+        },
+        {
+          "res": "Permite apenas tráfego essencial",
+          "status": false
+        }
+      ]
+    }
+    ,
+    {
+      "questao": "Finalidade do comando 'show port-security'.",
+      "respostas": [
+        {
+          "res": "Exibir segurança de porta",
+          "status": true
+        },
+        {
+          "res": "Mostrar portas tronco",
+          "status": false
+        },
+        {
+          "res": "Detalhar configuração de VLANs",
+          "status": false
+        },
+        {
+          "res": "Exibir tabela MAC",
+          "status": false
+        }
+      ]
+    }
+    
   ],
   "medium": [
     {
@@ -465,26 +431,26 @@
       ]
     },
     {
-      "questao": "Qual é a limitação do EtherChannel?",
+      "questao": "Limitação do EtherChannel.",
       "respostas": [
         {
-          "res": "Pode agrupar portas de diferentes switches",
-          "status": false
-        },
-        {
-          "res": "Todas as portas físicas no grupo de agregação devem residir no mesmo switch",
+          "res": "Portas devem estar no mesmo switch",
           "status": true
         },
         {
-          "res": "Não suporta negociação automática",
+          "res": "Agrupa portas de switches diferentes",
           "status": false
         },
         {
-          "res": "Não oferece redundância na rede",
+          "res": "Sem negociação automática",
+          "status": false
+        },
+        {
+          "res": "Sem redundância",
           "status": false
         }
       ]
-    },
+    },    
     {
       "questao": "Quais são os modos de configuração possíveis para o PAgP (Port Aggregation Control Protocol)?",
       "respostas": [
