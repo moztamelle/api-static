@@ -1,28 +1,7 @@
 {
   "easy": [
     {
-      "questao": "Benefício do uso de listas de acesso (ACLs) em redes.",
-      "respostas": [
-        {
-          "res": "Filtragem de pacotes",
-          "status": true
-        },
-        {
-          "res": "Aumento da complexidade",
-          "status": false
-        },
-        {
-          "res": "Facilitação de ataques",
-          "status": false
-        },
-        {
-          "res": "Redução da segurança",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Dispositivo que encaminha pacotes de dados entre redes distintas.",
+      "questao": "Qual é o dispositivo que encaminha pacotes de dados entre redes distintas?",
       "respostas": [
         {
           "res": "Roteador",
@@ -43,1249 +22,2466 @@
       ]
     },
     {
-      "questao": "Quais são os possíveis modos de ação em caso de violação de segurança de porta no Port Security?",
+      "questao": "Qual tipo de cabo é mais utilizado em redes domésticas e possui baixo custo?",
       "respostas": [
         {
-          "res": "Protect, Disconnect, Ignore",
-          "status": false
-        },
-        {
-          "res": "Shutdown, Restrict, Protect",
+          "res": "UTP (Unshielded Twisted Pair)",
           "status": true
         },
         {
-          "res": "Block, Allow, Permit",
+          "res": "STP (Shielded Twisted Pair)",
           "status": false
         },
         {
-          "res": "Enable, Disable, Ignore",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Funcionalidade que aumenta a segurança das portas de switch.",
-      "respostas": [
-        {
-          "res": "Port Security",
-          "status": true
-        },
-        {
-          "res": "Firewall",
-          "status": false
-        },
-        {
-          "res": "IDS",
-          "status": false
-        },
-        {
-          "res": "VPN",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Função de uma ACL de acesso IP padrão.",
-      "respostas": [
-        {
-          "res": "Filtra pelo endereço de origem",
-          "status": true
-        },
-        {
-          "res": "Filtra pelo endereço de destino",
-          "status": false
-        },
-        {
-          "res": "Implementada próximo ao destino",
-          "status": false
-        },
-        {
-          "res": "Bloqueia ambos os sentidos",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Cabo com fios entrelaçados para reduzir interferências.",
-      "respostas": [
-        {
-          "res": "Par trançado",
-          "status": true
-        },
-        {
-          "res": "Fibra óptica",
+          "res": "Fibra Óptica",
           "status": false
         },
         {
           "res": "Coaxial",
           "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o protocolo da camada de transporte que é orientado à conexão e garante a entrega de dados?",
+      "respostas": [
+        {
+          "res": "TCP",
+          "status": true
         },
         {
-          "res": "Cabo de rede sem fio",
+          "res": "UDP",
+          "status": false
+        },
+        {
+          "res": "IP",
+          "status": false
+        },
+        {
+          "res": "HTTP",
           "status": false
         }
       ]
     },
     {
-      "questao": "Como uma ACL estendida é implementada em relação ao tráfego?",
+      "questao": "Qual é o endereço físico único associado a cada interface de comunicação em uma rede?",
       "respostas": [
         {
-          "res": "Próxima à origem do tráfego.",
+          "res": "Endereço MAC",
           "status": true
         },
         {
-          "res": "Próxima ao destino do tráfego.",
+          "res": "Endereço IP",
           "status": false
         },
         {
-          "res": "No início da rede.",
+          "res": "Endereço DNS",
           "status": false
         },
         {
-          "res": "No final da rede.",
+          "res": "Endereço HTTP",
           "status": false
         }
       ]
     },
     {
-      "questao": "Diferença entre TCP e UDP.",
+      "questao": "Qual camada do modelo OSI é responsável por converter dados em pulsos elétricos, ondas de rádio ou feixes de luz?",
       "respostas": [
         {
-          "res": "TCP é orientado à conexão",
+          "res": "Camada Física",
           "status": true
         },
         {
-          "res": "TCP é mais rápido",
+          "res": "Camada de Enlace",
           "status": false
         },
         {
-          "res": "UDP é mais seguro",
+          "res": "Camada de Rede",
           "status": false
         },
         {
-          "res": "TCP é só para streaming",
+          "res": "Camada de Transporte",
           "status": false
         }
       ]
     },
     {
-      "questao": "O que significa a sigla 'DTP' no contexto de redes CISCO?",
+      "questao": "Qual dispositivo de rede é responsável por regenerar sinais elétricos para interligar redes idênticas?",
       "respostas": [
         {
-          "res": "Data Transfer Protocol",
-          "status": false
-        },
-        {
-          "res": "Dynamic Trunking Protocol",
+          "res": "Repetidor",
           "status": true
         },
         {
-          "res": "Device Testing Procedure",
+          "res": "Switch",
           "status": false
         },
         {
-          "res": "Data Transmission Path",
+          "res": "Roteador",
+          "status": false
+        },
+        {
+          "res": "Hub",
           "status": false
         }
       ]
     },
     {
-      "questao": "Função do modo 'Auto' no DTP.",
+      "questao": "Qual tipo de rede cobre uma grande área geográfica e é normalmente gerida por um operador de telecomunicações?",
       "respostas": [
         {
-          "res": "Aceita pedidos de tronco",
+          "res": "WAN",
           "status": true
         },
         {
-          "res": "Inicia negociação de tronco",
+          "res": "LAN",
           "status": false
         },
         {
-          "res": "Desativa DTP",
+          "res": "MAN",
           "status": false
         },
         {
-          "res": "Usa DTP para comunicação",
+          "res": "PAN",
           "status": false
         }
       ]
     },
     {
-      "questao": "Uso do protocolo CDP na rede.",
+      "questao": "Qual protocolo da camada de transporte é não confiável e não orientado a conexão?",
       "respostas": [
         {
-          "res": "Descobrir dispositivos Cisco",
+          "res": "UDP",
           "status": true
         },
         {
-          "res": "Autenticar dispositivos",
+          "res": "TCP",
           "status": false
         },
         {
-          "res": "Criar conexões seguras",
+          "res": "IP",
           "status": false
         },
         {
-          "res": "Configurar IPs automaticamente",
+          "res": "HTTP",
           "status": false
         }
       ]
     },
     {
-      "questao": "Fator importante ao criar uma ACL.",
+      "questao": "Qual dispositivo de rede distribui informações recebidas em uma porta para todas as outras portas?",
       "respostas": [
         {
-          "res": "Comandos mais específicos primeiro",
+          "res": "Hub",
           "status": true
         },
         {
-          "res": "Adicionar comandos no início",
+          "res": "Switch",
           "status": false
         },
         {
-          "res": "Remover comandos sem impacto",
+          "res": "Roteador",
           "status": false
         },
         {
-          "res": "Múltiplas ACLs por direção",
+          "res": "Bridge",
           "status": false
         }
       ]
     },
     {
-      "questao": "Como as listas de acesso (ACLs) são identificadas e referenciadas?",
+      "questao": "Qual camada do modelo OSI é responsável por gerenciar sessões de comunicação entre dispositivos?",
       "respostas": [
         {
-          "res": "Por um nome ou por um número.",
+          "res": "Camada de Sessão",
           "status": true
         },
         {
-          "res": "Por endereços IP exclusivos.",
+          "res": "Camada de Transporte",
           "status": false
         },
         {
-          "res": "Por números de porta TCP.",
+          "res": "Camada de Rede",
           "status": false
         },
         {
-          "res": "Por endereços MAC.",
+          "res": "Camada de Apresentação",
           "status": false
         }
       ]
     },
     {
-      "questao": "Qual é a principal diferença entre os modelos OSI e TCP/IP?",
+      "questao": "Qual é o tipo de cabo que utiliza pares de fios trançados para cancelar interferências eletromagnéticas?",
       "respostas": [
         {
-          "res": "Número de camadas",
+          "res": "Cabo de Par Trançado",
           "status": true
         },
         {
-          "res": "Nomes dos protocolos",
+          "res": "Cabo de Fibra Óptica",
           "status": false
         },
         {
-          "res": "Funções das camadas",
+          "res": "Cabo Coaxial",
           "status": false
         },
         {
-          "res": "Tamanho dos datagramas",
+          "res": "Cabo USB",
           "status": false
         }
       ]
     },
     {
-      "questao": "Definição de endereço MAC.",
+      "questao": "Qual é o protocolo utilizado para acesso a páginas web?",
       "respostas": [
         {
-          "res": "Endereço físico da interface",
+          "res": "HTTP",
           "status": true
         },
         {
-          "res": "Endereço lógico",
+          "res": "FTP",
           "status": false
         },
         {
-          "res": "Identificador de sessão",
+          "res": "SMTP",
           "status": false
         },
         {
-          "res": "Código de verificação",
+          "res": "DNS",
           "status": false
         }
       ]
     },
     {
-      "questao": "Função do modo 'Desirable' no DTP.",
+      "questao": "Qual dispositivo de rede é responsável por converter sinais ópticos em elétricos?",
       "respostas": [
         {
-          "res": "Inicia negociação de tronco",
+          "res": "Transceiver",
           "status": true
         },
         {
-          "res": "Ativa tronco automaticamente",
+          "res": "Switch",
           "status": false
         },
         {
-          "res": "Desativa DTP",
+          "res": "Roteador",
           "status": false
         },
         {
-          "res": "Configura VLAN desejável",
+          "res": "Modem",
           "status": false
         }
       ]
     },
     {
-      "questao": "Definição de roteamento.",
+      "questao": "Qual é o protocolo da camada de transporte que não garante a entrega de dados?",
       "respostas": [
         {
-          "res": "Encaminhar pacotes entre redes",
+          "res": "UDP",
           "status": true
         },
         {
-          "res": "Organizar cabos",
+          "res": "TCP",
           "status": false
         },
         {
-          "res": "Comprimir dados",
+          "res": "IP",
           "status": false
         },
         {
-          "res": "Protocolo de segurança",
+          "res": "HTTP",
           "status": false
         }
       ]
     },
     {
-      "questao": "Ação do modo 'shutdown' do Port Security em violação.",
+      "questao": "Qual é o tipo de rede que cobre uma área geográfica limitada, como um escritório ou casa?",
       "respostas": [
         {
-          "res": "Desativa a porta e alerta",
+          "res": "LAN",
           "status": true
         },
         {
-          "res": "Mantém tráfego em modo restrito",
+          "res": "WAN",
           "status": false
         },
         {
-          "res": "Envia alerta, mas mantém ativa",
+          "res": "MAN",
           "status": false
         },
         {
-          "res": "Permite apenas tráfego essencial",
+          "res": "PAN",
           "status": false
         }
       ]
     },
     {
-      "questao": "Finalidade do comando 'show port-security'.",
+      "questao": "Qual é o dispositivo de rede que atua como uma barreira de segurança, filtrando o tráfego de dados?",
       "respostas": [
         {
-          "res": "Exibir segurança de porta",
+          "res": "Firewall",
           "status": true
         },
         {
-          "res": "Mostrar portas tronco",
+          "res": "Switch",
           "status": false
         },
         {
-          "res": "Detalhar configuração de VLANs",
+          "res": "Roteador",
           "status": false
         },
         {
-          "res": "Exibir tabela MAC",
+          "res": "Hub",
           "status": false
         }
       ]
-    }
+    },
+    {
+      "questao": "Qual é o protocolo utilizado para enviar e-mails?",
+      "respostas": [
+        {
+          "res": "SMTP",
+          "status": true
+        },
+        {
+          "res": "HTTP",
+          "status": false
+        },
+        {
+          "res": "FTP",
+          "status": false
+        },
+        {
+          "res": "DNS",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o tipo de cabo que permite transmissões de dados a velocidades muito altas e é imune a interferências eletromagnéticas?",
+      "respostas": [
+        {
+          "res": "Cabo de Fibra Óptica",
+          "status": true
+        },
+        {
+          "res": "Cabo de Par Trançado",
+          "status": false
+        },
+        {
+          "res": "Cabo Coaxial",
+          "status": false
+        },
+        {
+          "res": "Cabo USB",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o protocolo utilizado para traduzir nomes de domínio em endereços IP?",
+      "respostas": [
+        {
+          "res": "DNS",
+          "status": true
+        },
+        {
+          "res": "HTTP",
+          "status": false
+        },
+        {
+          "res": "FTP",
+          "status": false
+        },
+        {
+          "res": "SMTP",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual é o tipo de rede que utiliza ondas de rádio para transmissão de dados?",
+      "respostas": [
+        {
+          "res": "WLAN",
+          "status": true
+        },
+        {
+          "res": "LAN",
+          "status": false
+        },
+        {
+          "res": "MAN",
+          "status": false
+        },
+        {
+          "res": "WAN",
+          "status": false
+        }
+      ]
+    },
+    {
+      "questao": "Qual comando é usado para ativar o modo privilegiado em um switch Cisco?",
+      "respostas": [
+          {
+              "res": "enable",
+              "status": true
+          },
+          {
+              "res": "configure terminal",
+              "status": false
+          },
+          {
+              "res": "hostname",
+              "status": false
+          },
+          {
+              "res": "show running-config",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para atribuir um nome a um dispositivo Cisco?",
+      "respostas": [
+          {
+              "res": "hostname <nome>",
+              "status": true
+          },
+          {
+              "res": "host name <nome>",
+              "status": false
+          },
+          {
+              "res": "configure terminal",
+              "status": false
+          },
+          {
+              "res": "name <nome>",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o protocolo usado para transportar múltiplas VLANs sobre um único cabo entre dois dispositivos?",
+      "respostas": [
+          {
+              "res": "IEEE 802.1Q",
+              "status": true
+          },
+          {
+              "res": "STP",
+              "status": false
+          },
+          {
+              "res": "PAgP",
+              "status": false
+          },
+          {
+              "res": "LACP",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para configurar uma porta como tronco em um switch Cisco?",
+      "respostas": [
+          {
+              "res": "switchport mode trunk",
+              "status": true
+          },
+          {
+              "res": "switchport mode access",
+              "status": false
+          },
+          {
+              "res": "switchport nonegotiate",
+              "status": false
+          },
+          {
+              "res": "switchport access vlan",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o protocolo proprietário da Cisco usado para negociação automática de portas tronco?",
+      "respostas": [
+          {
+              "res": "DTP",
+              "status": true
+          },
+          {
+              "res": "PAgP",
+              "status": false
+          },
+          {
+              "res": "LACP",
+              "status": false
+          },
+          {
+              "res": "STP",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para verificar as VLANs configuradas em um switch?",
+      "respostas": [
+          {
+              "res": "show vlan brief",
+              "status": true
+          },
+          {
+              "res": "show running-config",
+              "status": false
+          },
+          {
+              "res": "show brief vlan",
+              "status": false
+          },
+          {
+              "res": "show vlans",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o protocolo usado para evitar loops em redes com caminhos redundantes?",
+      "respostas": [
+          {
+              "res": "STP",
+              "status": true
+          },
+          {
+              "res": "DTP",
+              "status": false
+          },
+          {
+              "res": "PAgP",
+              "status": false
+          },
+          {
+              "res": "LACP",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para configurar o Port Security em uma interface de switch?",
+      "respostas": [
+          {
+              "res": "switchport port-security",
+              "status": true
+          },
+          {
+              "res": "switchport mode access",
+              "status": false
+          },
+          {
+              "res": "switchport security-port",
+              "status": false
+          },
+          {
+              "res": "switchport nonegotiate",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o protocolo usado para agrupar várias portas físicas em um único canal lógico?",
+      "respostas": [
+          {
+              "res": "EtherChannel",
+              "status": true
+          },
+          {
+              "res": "STP",
+              "status": false
+          },
+          {
+              "res": "DTP",
+              "status": false
+          },
+          {
+              "res": "PAgP",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para verificar os vizinhos diretamente conectados em um switch Cisco?",
+      "respostas": [
+          {
+              "res": "show cdp neighbor",
+              "status": true
+          },
+          {
+              "res": "show vlan brief",
+              "status": false
+          },
+          {
+              "res": "show dcp neighbor",
+              "status": false
+          },
+          {
+              "res": "show mac-address-table",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o estado de uma porta STP que está aprendendo endereços MAC?",
+      "respostas": [
+          {
+              "res": "Learning",
+              "status": true
+          },
+          {
+              "res": "Blocking",
+              "status": false
+          },
+          {
+              "res": "Listening",
+              "status": false
+          },
+          {
+              "res": "Forwarding",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o comando usado para configurar uma porta como acesso em um switch Cisco?",
+      "respostas": [
+          {
+              "res": "switchport mode access",
+              "status": true
+          },
+          {
+              "res": "switchport mode trunk",
+              "status": false
+          },
+          {
+              "res": "switchport access mode",
+              "status": false
+          },
+          {
+              "res": "switchport access port",
+              "status": false
+          }
+      ]
+  },
+  {
+      "questao": "Qual é o protocolo usado para agrupar portas físicas em um canal lógico, seguindo o padrão IEEE 802.3ad?",
+      "respostas": [
+          {
+              "res": "LACP",
+              "status": true
+          },
+          {
+              "res": "PAgP",
+              "status": false
+          },
+          {
+              "res": "DTP",
+              "status": false
+          },
+          {
+              "res": "STP",
+              "status": false
+          }
+      ]
+  }
   ],
   "medium": [
     {
-      "questao": "Quais são os protocolos da camada de transporte?",
-      "respostas": [
-        {
-          "res": "TCP, UDP, IP",
-          "status": false
-        },
-        {
-          "res": "PPP, SLIP, L2TP",
-          "status": true
-        },
-        {
-          "res": "RIP, OSPF, IGRP",
-          "status": false
-        },
-        {
-          "res": "HTTP, FTP, SMTP",
-          "status": false
-        }
-      ]
+        "questao": "O que é uma tabela de roteamento?",
+        "respostas": [
+            {
+                "res": "Lista de redes conhecidas",
+                "status": true
+            },
+            {
+                "res": "Lista de endereços MAC",
+                "status": false
+            },
+            {
+                "res": "Regras para VLANs",
+                "status": false
+            },
+            {
+                "res": "Protocolo de roteamento",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Limitação do EtherChannel.",
-      "respostas": [
-        {
-          "res": "Portas devem estar no mesmo switch",
-          "status": true
-        },
-        {
-          "res": "Agrupa portas de switches diferentes",
-          "status": false
-        },
-        {
-          "res": "Sem negociação automática",
-          "status": false
-        },
-        {
-          "res": "Sem redundância",
-          "status": false
-        }
-      ]
+        "questao": "Qual é a distância administrativa padrão de uma rota estática?",
+        "respostas": [
+            {
+                "res": "1",
+                "status": true
+            },
+            {
+                "res": "0",
+                "status": false
+            },
+            {
+                "res": "90",
+                "status": false
+            },
+            {
+                "res": "110",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Quais são os modos de configuração possíveis para o PAgP (Port Aggregation Control Protocol)?",
-      "respostas": [
-        {
-          "res": "On, Active, Passive",
-          "status": true
-        },
-        {
-          "res": "Secure, Restricted, Protected",
-          "status": false
-        },
-        {
-          "res": "Trunk, Access, Dynamic",
-          "status": false
-        },
-        {
-          "res": "FastEthernet, GigabitEthernet, TenGigabitEthernet",
-          "status": false
-        }
-      ]
+        "questao": "Qual protocolo tem distância administrativa 110?",
+        "respostas": [
+            {
+                "res": "OSPF",
+                "status": true
+            },
+            {
+                "res": "EIGRP",
+                "status": false
+            },
+            {
+                "res": "RIP",
+                "status": false
+            },
+            {
+                "res": "BGP",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é um datagrama IP?",
-      "respostas": [
-        {
-          "res": "Unidade básica de dados no nível IP",
-          "status": true
-        },
-        {
-          "res": "Dispositivo de interligação de redes",
-          "status": false
-        },
-        {
-          "res": "Endereço físico associado a cada interface de comunicação",
-          "status": false
-        },
-        {
-          "res": "Segmento de dados em uma conexão TCP",
-          "status": false
-        }
-      ]
+        "questao": "O que é uma métrica em roteamento?",
+        "respostas": [
+            {
+                "res": "Medida de desejabilidade de um caminho",
+                "status": true
+            },
+            {
+                "res": "Número de saltos",
+                "status": false
+            },
+            {
+                "res": "Largura de banda",
+                "status": false
+            },
+            {
+                "res": "Tempo de atraso",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual é o principal propósito da tecnologia Port Security em um switch?",
-      "respostas": [
-        {
-          "res": "Aumentar a largura de banda das portas do switch",
-          "status": false
-        },
-        {
-          "res": "Proteger contra ameaças de segurança na rede",
-          "status": true
-        },
-        {
-          "res": "Facilitar a configuração de VLANs",
-          "status": false
-        },
-        {
-          "res": "Automatizar a detecção de dispositivos na rede",
-          "status": false
-        }
-      ]
+        "questao": "Qual é a função do DHCP?",
+        "respostas": [
+            {
+                "res": "Atribuir IPs dinamicamente",
+                "status": true
+            },
+            {
+                "res": "Configurar rotas estáticas",
+                "status": false
+            },
+            {
+                "res": "Gerir tabelas de roteamento",
+                "status": false
+            },
+            {
+                "res": "Configurar dhcp dos nós",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual é a principal vantagem da tecnologia EtherChannel?",
-      "respostas": [
-        {
-          "res": "Aumento da largura de banda de uma única porta",
-          "status": false
-        },
-        {
-          "res": "Permite criar links lógicos com vários links físicos",
-          "status": true
-        },
-        {
-          "res": "Reduz a complexidade da configuração de VLANs",
-          "status": false
-        },
-        {
-          "res": "Elimina completamente os loops na rede",
-          "status": false
-        }
-      ]
+        "questao": "Qual comando configura uma rota estática?",
+        "respostas": [
+            {
+                "res": "ip route",
+                "status": true
+            },
+            {
+                "res": "route static",
+                "status": false
+            },
+            {
+                "res": "configure route",
+                "status": false
+            },
+            {
+                "res": "static ip route",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual é a principal função de um switch em uma rede?",
-      "respostas": [
-        {
-          "res": "Criar uma WAN",
-          "status": false
-        },
-        {
-          "res": "Interligar computadores de uma rede e reencaminhar pacotes",
-          "status": true
-        },
-        {
-          "res": "Encaminhar pacotes entre diferentes redes",
-          "status": false
-        },
-        {
-          "res": "Criar uma PAN",
-          "status": false
-        }
-      ]
+        "questao": "O que é uma rota padrão?",
+        "respostas": [
+            {
+                "res": "Rota usada quando não há rota específica",
+                "status": true
+            },
+            {
+                "res": "Rota estática manual",
+                "status": false
+            },
+            {
+                "res": "Rota dinâmica",
+                "status": false
+            },
+            {
+                "res": "Rota local",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que uma VLAN representa em uma rede?",
-      "respostas": [
-        {
-          "res": "Um tipo de endereço IP",
-          "status": false
-        },
-        {
-          "res": "Uma rede local física",
-          "status": false
-        },
-        {
-          "res": "Um domínio lógico de broadcast",
-          "status": true
-        },
-        {
-          "res": "Uma conexão ponto a ponto",
-          "status": false
-        }
-      ]
+        "questao": "Qual comando habilita uma interface?",
+        "respostas": [
+            {
+                "res": "no shutdown",
+                "status": true
+            },
+            {
+                "res": "enable interface",
+                "status": false
+            },
+            {
+                "res": "start interface",
+                "status": false
+            },
+            {
+                "res": "activate interface",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Como o EIGRP difere de outros protocolos de roteamento?",
-      "respostas": [
-        {
-          "res": "É baseado no algoritmo de vetor de distância avançado",
-          "status": false
-        },
-        {
-          "res": "Não suporta convergência rápida",
-          "status": false
-        },
-        {
-          "res": "Combina vantagens de protocolos link-state e vetor de distância",
-          "status": true
-        },
-        {
-          "res": "Funciona apenas em redes pequenas",
-          "status": false
-        }
-      ]
+        "questao": "O que é uma SVI?",
+        "respostas": [
+            {
+                "res": "Interface virtual para VLANs",
+                "status": true
+            },
+            {
+                "res": "Interface física Virtual",
+                "status": false
+            },
+            {
+                "res": "Protocolo de roteamento",
+                "status": false
+            },
+            {
+                "res": "Interface para roteadores",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é uma ACL de acesso IP estendida?",
-      "respostas": [
-        {
-          "resposta": "Verifica endereços de origem e destino, protocolos e portas.",
-          "correta": true
-        },
-        {
-          "resposta": "Verifica apenas endereços de origem.",
-          "correta": false
-        },
-        {
-          "resposta": "Bloqueia a comunicação em ambos os sentidos.",
-          "correta": false
-        },
-        {
-          "resposta": "Implementada próximo à origem.",
-          "correta": false
-        }
-      ]
-    },    
-    {
-      "questao": "O que é necessário ao criar uma ACL estendida?",
-      "respostas": [
-        {
-          "resposta": "Ser específico nos primeiros comandos.",
-          "correta": true
-        },
-        {
-          "resposta": "Adicionar comandos no final.",
-          "correta": false
-        },
-        {
-          "resposta": "Remover comandos sem afetar os demais.",
-          "correta": false
-        },
-        {
-          "resposta": "Permitir múltiplas ACLs por interface.",
-          "correta": false
-        }
-      ]
-    },    
-    {
-      "questao": "Como é feita a eleição do Root Bridge no Spanning Tree Protocol (STP)?",
-      "respostas": [
-        {
-          "res": "Por meio de votação entre os switches",
-          "status": false
-        },
-        {
-          "res": "O switch com o maior número MAC é escolhido como Root Bridge",
-          "status": false
-        },
-        {
-          "res": "Os switches enviam BPDUs e o switch com o menor BID se torna o Root Bridge",
-          "status": true
-        },
-        {
-          "res": "O administrador de rede escolhe manualmente o Root Bridge",
-          "status": false
-        }
-      ]
+        "questao": "O que é uma rota estática flutuante?",
+        "respostas": [
+            {
+                "res": "Rota de backup",
+                "status": true
+            },
+            {
+                "res": "Rota dinâmica",
+                "status": false
+            },
+            {
+                "res": "Rota local",
+                "status": false
+            },
+            {
+                "res": "Rota manual",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual a principal vantagem do uso do cabo UTP?",
-      "respostas": [
-        {
-          "res": "Alcance de transmissão ilimitado",
-          "status": false
-        },
-        {
-          "res": "Maior velocidade de transmissão",
-          "status": false
-        },
-        {
-          "res": "Imunidade a interferências eletromagnéticas",
-          "status": false
-        },
-        {
-          "res": "Baixo custo e facilidade de instalação",
-          "status": true
-        }
-      ]
+        "questao": "Qual comando mostra a tabela de roteamento?",
+        "respostas": [
+            {
+                "res": "show ip route",
+                "status": true
+            },
+            {
+                "res": "display route table",
+                "status": false
+            },
+            {
+                "res": "show routing table",
+                "status": false
+            },
+            {
+                "res": "route display",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Quais são os dois níveis de configuração da linha de comando?",
-      "respostas": [
-        {
-          "resposta": "Modo Global e Específica.",
-          "correta": true
-        },
-        {
-          "resposta": "Modo Básica e Avançada.",
-          "correta": false
-        },
-        {
-          "resposta": "Modo de Rede e de Segurança.",
-          "correta": false
-        },
-        {
-          "resposta": "Modo de Usuário e Administrador.",
-          "correta": false
-        }
-      ]
+        "questao": "O que é um Autonomous System (AS)?",
+        "respostas": [
+            {
+                "res": "Conjunto de redes sob uma administração",
+                "status": true
+            },
+            {
+                "res": "Protocolo de roteamento",
+                "status": false
+            },
+            {
+                "res": "Sistemas Autonomos",
+                "status": false
+            },
+            {
+                "res": "Sistema de VLANs",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual comando configura um IP em uma interface?",
+        "respostas": [
+            {
+                "res": "ip address",
+                "status": true
+            },
+            {
+                "res": "set ip address",
+                "status": false
+            },
+            {
+                "res": "configure ip",
+                "status": false
+            },
+            {
+                "res": "interface ip",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é o BGP?",
+        "respostas": [
+            {
+                "res": "Protocolo de roteamento entre AS",
+                "status": true
+            },
+            {
+                "res": "Protocolo interno",
+                "status": false
+            },
+            {
+                "res": "Protocolo de VLANs",
+                "status": false
+            },
+            {
+                "res": "Protocolo para redes pequenas",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual comando configura uma subinterface?",
+        "respostas": [
+            {
+                "res": "interface fastethernet #/#.#",
+                "status": true
+            },
+            {
+                "res": "subinterface fastethernet #/#/#",
+                "status": false
+            },
+            {
+                "res": "configure subinterface",
+                "status": false
+            },
+            {
+                "res": "enable subinterface",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma VLAN?",
+        "respostas": [
+            {
+                "res": "Rede lógica ",
+                "status": true
+            },
+            {
+                "res": "Tipo de cabo",
+                "status": false
+            },
+            {
+                "res": "Protocolo de roteamento",
+                "status": false
+            },
+            {
+                "res": "Tipo de roteador",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual comando configura o DHCP?",
+        "respostas": [
+            {
+                "res": "ip dhcp pool",
+                "status": true
+            },
+            {
+                "res": "configure dhcp",
+                "status": false
+            },
+            {
+                "res": "dhcp enable",
+                "status": false
+            },
+            {
+                "res": "set dhcp pool",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para verificar o resumo do EtherChannel em um switch?",
+        "respostas": [
+            {
+                "res": "show etherchannel summary",
+                "status": true
+            },
+            {
+                "res": "show all etherchannel summary",
+                "status": false
+            },
+            {
+                "res": "etherchannel summary",
+                "status": false
+            },
+            {
+                "res": "show mac-address-table",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para configurar o modo 'sticky' no Port Security?",
+        "respostas": [
+            {
+                "res": "switchport port-security mac-address sticky",
+                "status": true
+            },
+            {
+                "res": "switchport port-security maximum",
+                "status": false
+            },
+            {
+                "res": "switchport port-security violation",
+                "status": false
+            },
+            {
+                "res": "switchport mode access",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para reiniciar um dispositivo Cisco?",
+        "respostas": [
+            {
+                "res": "reload",
+                "status": true
+            },
+            {
+                "res": "erase startup-config",
+                "status": false
+            },
+            {
+                "res": "show running-config",
+                "status": false
+            },
+            {
+                "res": "configure terminal",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para apagar as configurações iniciais de um dispositivo Cisco?",
+        "respostas": [
+            {
+                "res": "erase startup-config",
+                "status": true
+            },
+            {
+                "res": "reload",
+                "status": false
+            },
+            {
+                "res": "show running-config",
+                "status": false
+            },
+            {
+                "res": "configure terminal",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para verificar a tabela de endereços MAC em um switch?",
+        "respostas": [
+            {
+                "res": "show mac-address-table",
+                "status": true
+            },
+            {
+                "res": "show vlan brief",
+                "status": false
+            },
+            {
+                "res": "show mac table",
+                "status": false
+            },
+            {
+                "res": "show mac-neighbor-table",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando usado para configurar uma VLAN em um switch Cisco?",
+        "respostas": [
+            {
+                "res": "vlan <número>",
+                "status": true
+            },
+            {
+                "res": "<numero> vlan",
+                "status": false
+            },
+            {
+                "res": "create vlan <numero>",
+                "status": false
+            },
+            {
+                "res": "vlan create <numero>",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual protocolo é usado para acesso remoto?",
+        "respostas": [
+            {
+                "res": "Telnet",
+                "status": true
+            },
+            {
+                "res": "FTP",
+                "status": false
+            },
+            {
+                "res": "HTTP",
+                "status": false
+            },
+            {
+                "res": "DNS",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual camada do modelo OSI lida com o roteamento?",
+        "respostas": [
+            {
+                "res": "Rede",
+                "status": true
+            },
+            {
+                "res": "Transporte",
+                "status": false
+            },
+            {
+                "res": "Enlace",
+                "status": false
+            },
+            {
+                "res": "Aplicação",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para visualizar as configurações ativas na RAM?",
+        "respostas": [
+            {
+                "res": "show running-config",
+                "status": true
+            },
+            {
+                "res": "show startup-config",
+                "status": false
+            },
+            {
+                "res": "show flash",
+                "status": false
+            },
+            {
+                "res": "show ip route",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma rota padrão (default route)?",
+        "respostas": [
+            {
+                "res": "Rota usada quando não há rota específica",
+                "status": true
+            },
+            {
+                "res": "Rota estática manual",
+                "status": false
+            },
+            {
+                "res": "Rota dinâmica",
+                "status": false
+            },
+            {
+                "res": "Rota local",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para configurar uma senha de console?",
+        "respostas": [
+            {
+                "res": "line console 0",
+                "status": true
+            },
+            {
+                "res": "enable password",
+                "status": false
+            },
+            {
+                "res": "line vty 0 4",
+                "status": false
+            },
+            {
+                "res": "configure terminal",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é o comando 'encapsulation dot1Q' usado para?",
+        "respostas": [
+            {
+                "res": "Configurar VLANs em uma interface tronco",
+                "status": true
+            },
+            {
+                "res": "Configurar IP em uma interface",
+                "status": false
+            },
+            {
+                "res": "Configurar uma rota estática",
+                "status": false
+            },
+            {
+                "res": "Configurar DHCP",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "'clock rate' esta relacionado a ...?",
+        "respostas": [
+            {
+                "res": "a taxa de sincronização",
+                "status": true
+            },
+            {
+                "res": "configurar o IP em uma interface",
+                "status": false
+            },
+            {
+                "res": "configurar uma rota estática",
+                "status": false
+            },
+            {
+                "res": "configurar DHCP",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para configurar uma subinterface?",
+        "respostas": [
+            {
+                "res": "interface fastethernet #/#.#",
+                "status": true
+            },
+            {
+                "res": "interface vlan #",
+                "status": false
+            },
+            {
+                "res": "interface serial #/#",
+                "status": false
+            },
+            {
+                "res": "interface loopback",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é o comando 'ip dhcp excluded-address' usado para?",
+        "respostas": [
+            {
+                "res": "Excluir endereços IP do pool DHCP",
+                "status": true
+            },
+            {
+                "res": "Configurar uma rota estática",
+                "status": false
+            },
+            {
+                "res": "Configurar uma interface",
+                "status": false
+            },
+            {
+                "res": "Configurar VLANs",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para visualizar os conflitos de IP no DHCP?",
+        "respostas": [
+            {
+                "res": "show ip dhcp conflict",
+                "status": true
+            },
+            {
+                "res": "show ip conflict dhcp",
+                "status": false
+            },
+            {
+                "res": "show ip dhcp binding",
+                "status": false
+            },
+            {
+                "res": "show running-config",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é o comando 'ip route 0.0.0.0 0.0.0.0' usado para?",
+        "respostas": [
+            {
+                "res": "Configurar uma rota padrão",
+                "status": true
+            },
+            {
+                "res": "Configurar uma rota estática",
+                "status": false
+            },
+            {
+                "res": "Configurar uma rota flutuante",
+                "status": false
+            },
+            {
+                "res": "Configurar uma rota dinâmica",
+                "status": false
+            }
+        ]
     }
-    ,
-    {
-      "questao": "Qual é o principal objetivo do Spanning Tree Protocol (STP)?",
-      "respostas": [
-        {
-          "resposta": "Evitar loops em redes com caminhos redundantes.",
-          "correta": true
-        },
-        {
-          "resposta": "Criar loops em redes com caminhos redundantes.",
-          "correta": false
-        },
-        {
-          "resposta": "Notificar mudanças na topologia.",
-          "correta": false
-        },
-        {
-          "resposta": "Agrupar links para aumentar largura de banda.",
-          "correta": false
-        }
-      ]
-    }
-    ,
-    {
-      "questao": "O que o comando 'switchport port-security maximum #' faz?",
-      "respostas": [
-        {
-          "resposta": "Define a VLAN máxima permitida em uma porta.",
-          "correta": false
-        },
-        {
-          "resposta": "Configura a quantidade máxima de endereços MAC permitidos.",
-          "correta": true
-        },
-        {
-          "resposta": "Estabelece o número máximo de portas em um trunk.",
-          "correta": false
-        },
-        {
-          "resposta": "Ativa o modo de segurança de porta.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "Como o Spanning Tree Protocol (STP) determina o switch raiz em uma rede?",
-      "respostas": [
-        {
-          "res": "Através da contagem de switches conectados",
-          "status": false
-        },
-        {
-          "res": "Pelo número de portas disponíveis",
-          "status": false
-        },
-        {
-          "res": "Comparando Bridge IDs em mensagens BPDU",
-          "status": true
-        },
-        {
-          "res": "Avaliando a largura de banda disponível",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Qual é a função de um repetidor em uma rede?",
-      "respostas": [
-        {
-          "resposta": "Criar uma LAN.",
-          "correta": false
-        },
-        {
-          "resposta": "Interligar redes idênticas e regenerar sinais.",
-          "correta": true
-        },
-        {
-          "resposta": "Encaminhar pacotes entre diferentes redes.",
-          "correta": false
-        },
-        {
-          "resposta": "Criar uma PAN.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "Quais são os serviços específicos associados às portas 21/TCP, 80/TCP e 25/TCP?",
-      "respostas": [
-        {
-          "res": "FTP, HTTP, SMTP",
-          "status": true
-        },
-        {
-          "res": "SSH, DNS, POP3",
-          "status": false
-        },
-        {
-          "res": "Telnet, HTTPS, SNMP",
-          "status": false
-        },
-        {
-          "res": "UDP, TCP, IP",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é um transceiver?",
-      "respostas": [
-        {
-          "res": "Dispositivo para interligar redes",
-          "status": false
-        },
-        {
-          "res": "Dispositivo de segurança baseado em hardware",
-          "status": false
-        },
-        {
-          "res": "Dispositivo de rede que converte sinal óptico em sinal elétrico",
-          "status": true
-        },
-        {
-          "res": "Protocolo de comunicação",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Quais são os modos de configuração do Port Security?",
-      "respostas": [
-        {
-          "res": "Ativo e Passivo",
-          "status": false
-        },
-        {
-          "res": "Manual e Automático",
-          "status": true
-        },
-        {
-          "res": "Seguro e Restrito",
-          "status": false
-        },
-        {
-          "res": "Primário e Secundário",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "Qual é a principal finalidade do protocolo CDP (Cisco Discovery Protocol)?",
-      "respostas": [
-        {
-          "res": "Configurar automaticamente VLANs",
-          "status": false
-        },
-        {
-          "res": "Notificar mudanças na topologia da rede",
-          "status": false
-        },
-        {
-          "res": "Obter informações sobre dispositivos Cisco diretamente conectados",
-          "status": true
-        },
-        {
-          "res": "Negociar a criação de links EtherChannel",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é VLAN?",
-      "respostas": [
-        {
-          "res": "Um tipo de cabo de rede",
-          "status": false
-        },
-        {
-          "res": "Uma rede LAN independente",
-          "status": true
-        },
-        {
-          "res": "Um protocolo de roteamento",
-          "status": false
-        },
-        {
-          "res": "Um tipo de endereço IP",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é um firewall?",
-      "respostas": [
-        {
-          "resposta": "Converte sinais ópticos em sinais elétricos.",
-          "correta": false
-        },
-        {
-          "resposta": "Dispositivo de rede que cria uma LAN.",
-          "correta": false
-        },
-        {
-          "resposta": "Solução de segurança que analisa o tráfego de rede.",
-          "correta": true
-        },
-        {
-          "resposta": "Protocolo de comunicação.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é o Cisco IOS Software?",
-      "respostas": [
-        {
-          "res": "Um protocolo de comunicação na Internet",
-          "status": false
-        },
-        {
-          "res": "Um sistema operacional de computador multi-tarefa",
-          "status": true
-        },
-        {
-          "res": "Um tipo de cabo de rede",
-          "status": false
-        },
-        {
-          "res": "Um dispositivo de armazenamento de dados",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que significa UTP em relação a cabos de par trançado?",
-      "respostas": [
-        {
-          "res": "Universal Transfer Protocol",
-          "status": false
-        },
-        {
-          "res": "Unshielded Twisted Pair",
-          "status": true
-        },
-        {
-          "res": "Ultra Thin Par",
-          "status": false
-        },
-        {
-          "res": "Unlimited Transmission Power",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que são ACLs?",
-      "respostas": [
-        {
-          "resposta": "Listas de Controle de Acesso para filtragem de pacotes.",
-          "correta": true
-        },
-        {
-          "resposta": "Roteadores com controle de acesso.",
-          "correta": false
-        },
-        {
-          "resposta": "Protocolo de autenticação para dispositivos de rede.",
-          "correta": false
-        },
-        {
-          "resposta": "Amplitude de Controle Lógico.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é necessário para configurar o Port Security em uma porta?",
-      "respostas": [
-        {
-          "resposta": "Apenas uma senha de autenticação.",
-          "correta": false
-        },
-        {
-          "resposta": "Apenas o número máximo de endereços MAC permitidos.",
-          "correta": false
-        },
-        {
-          "resposta": "Apenas o modo da interface como 'switchport port-security'.",
-          "correta": false
-        },
-        {
-          "resposta": "O endereço MAC do dispositivo permitido.",
-          "correta": true
-        }
-      ]
-    },
-    {
-      "questao": "Qual é a função dos protocolos de roteamento dinâmicos?",
-      "respostas": [
-        {
-          "res": "Definir manualmente as rotas disponíveis",
-          "status": false
-        },
-        {
-          "res": "Manter a tabela de roteamento dinamicamente",
-          "status": true
-        },
-        {
-          "res": "Criar uma rede local física",
-          "status": false
-        },
-        {
-          "res": "Comprimir dados para transmissão eficiente",
-          "status": false
-        }
-      ]
-    },
-    {
-      "questao": "O que é um cabo cruzado (crossover)?",
-      "respostas": [
-        {
-          "resposta": "Usado em redes sem fio.",
-          "correta": false
-        },
-        {
-          "resposta": "Conecta dois computadores sem um concentrador.",
-          "correta": true
-        },
-        {
-          "resposta": "Possui blindagem contra interferência.",
-          "correta": false
-        },
-        {
-          "resposta": "Usado para longas distâncias.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "O que significa uma ACL de entrada única com apenas uma entrada de negação?",
-      "respostas": [
-        {
-          "resposta": "Nega todo o tráfego devido à negação implícita.",
-          "correta": true
-        },
-        {
-          "resposta": "Permite todo o tráfego.",
-          "correta": false
-        },
-        {
-          "resposta": "Bloqueia tráfego de saída.",
-          "correta": false
-        },
-        {
-          "resposta": "Permite tráfego de saída.",
-          "correta": false
-        }
-      ]
-    },
-    {
-      "questao": "O que o comando 'show cdp neighbor' faz?",
-      "respostas": [
-        {
-          "resposta": "Exibe a tabela MAC do switch.",
-          "correta": false
-        },
-        {
-          "resposta": "Mostra dispositivos Cisco conectados.",
-          "correta": true
-        },
-        {
-          "resposta": "Exibe portas configuradas como tronco.",
-          "correta": false
-        },
-        {
-          "resposta": "Mostra detalhes do protocolo de agregação de enlaces.",
-          "correta": false
-        }
-      ]
-    }
-  ],
+],
   "dificult": [
     {
-      "questao": "O que é um cabo de fibra óptica?",
-      "respostas": [
-        {
-          "resposta": "Cabo com transmissões de dados lentas.",
-          "correta": false
-        },
-        {
-          "resposta": "Cabo comum em redes domésticas.",
-          "correta": false
-        },
-        {
-          "resposta": "Cabo que usa ondas de rádio.",
-          "correta": false
-        },
-        {
-          "resposta": "Cabo com altas velocidades e imune a interferências.",
-          "correta": true
-        }
-      ]
+        "questao": "Qual é a diferença entre IGP e EGP?",
+        "respostas": [
+            {
+                "res": "IGP opera dentro de um AS, EGP conecta diferentes AS",
+                "status": true
+            },
+            {
+                "res": "IGP é usado na Internet, EGP é usado em redes locais",
+                "status": false
+            },
+            {
+                "res": "IGP é um protocolo de roteamento dinâmico, EGP é estático",
+                "status": false
+            },
+            {
+                "res": "IGP usa métricas, EGP não usa métricas",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que acontece no modo 'protect' do Port Security em caso de violação?",
-      "respostas": [
-        {
-          "resposta": "A porta é desativada e envia mensagem.",
-          "correta": false
-        },
-        {
-          "resposta": "A porta permite tráfego restrito.",
-          "correta": false
-        },
-        {
-          "resposta": "O switch descarta tráfego adicional.",
-          "correta": true
-        },
-        {
-          "resposta": "A porta permite apenas tráfego essencial.",
-          "correta": false
-        }
-      ]
+        "questao": "Qual é o algoritmo usado pelo OSPF para calcular o melhor caminho?",
+        "respostas": [
+            {
+                "res": "Algoritmo Shortest Path First",
+                "status": true
+            },
+            {
+                "res": "Algoritmo de Bellman-Ford",
+                "status": false
+            },
+            {
+                "res": "Algoritmo de Dijkstra",
+                "status": false
+            },
+            {
+                "res": "Algoritmo de Floyd-Warshall",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é um endereço IP?",
-      "respostas": [
-        {
-          "resposta": "Endereço físico da interface.",
-          "correta": false
-        },
-        {
-          "resposta": "Endereço lógico da interface.",
-          "correta": true
-        },
-        {
-          "resposta": "Número que identifica uma sessão.",
-          "correta": false
-        },
-        {
-          "resposta": "Código de verificação dos dados.",
-          "correta": false
-        }
-      ]
+        "questao": "Qual é o comando para habilitar o OSPF em um roteador?",
+        "respostas": [
+            {
+                "res": "router ospf <process_id>",
+                "status": true
+            },
+            {
+                "res": "enable ospf <process_id>",
+                "status": false
+            },
+            {
+                "res": "ospf enable <process_id>",
+                "status": false
+            },
+            {
+                "res": "configure ospf <process_id>",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual é a função do CDP (Cisco Discovery Protocol)?",
-      "respostas": [
-        {
-          "res": "Criar VLANs automaticamente",
-          "status": false
-        },
-        {
-          "res": "Descobrir dispositivos Cisco diretamente conectados",
-          "status": true
-        },
-        {
-          "res": "Garantir a segurança das portas do switch",
-          "status": false
-        },
-        {
-          "res": "Roteamento dinâmico entre switches",
-          "status": false
-        }
-      ]
+        "questao": "Qual é o endereço multicast usado pelo OSPF para enviar pacotes Hello?",
+        "respostas": [
+            {
+                "res": "224.0.0.5",
+                "status": true
+            },
+            {
+                "res": "224.0.0.1",
+                "status": false
+            },
+            {
+                "res": "224.0.0.10",
+                "status": false
+            },
+            {
+                "res": "224.0.0.6",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é um EtherChannel?",
-      "respostas": [
-        {
-          "resposta": "Um tipo de VLAN.",
-          "correta": false
-        },
-        {
-          "resposta": "Protocolo de segurança para links de rede.",
-          "correta": false
-        },
-        {
-          "resposta": "Tecnologia para agregar links físicos em um canal lógico.",
-          "correta": true
-        },
-        {
-          "resposta": "Modo de configuração específica do Cisco IOS.",
-          "correta": false
-        }
-      ]
+        "questao": "O que é o DUAL no EIGRP?",
+        "respostas": [
+            {
+                "res": "Um algoritmo de convergência que evita loops",
+                "status": true
+            },
+            {
+                "res": "Um protocolo de roteamento externo",
+                "status": false
+            },
+            {
+                "res": "Um tipo de métrica usada no OSPF",
+                "status": false
+            },
+            {
+                "res": "Um comando para configurar rotas estáticas",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é um switch Layer 3?",
-      "respostas": [
-        {
-          "res": "Dispositivo para interligar redes",
-          "status": false
-        },
-        {
-          "res": "Switch com suporte a VLANs",
-          "status": false
-        },
-        {
-          "res": "Switch com funcionalidades de roteamento da camada 3",
-          "status": true
-        },
-        {
-          "res": "Dispositivo de segurança baseado em hardware",
-          "status": false
-        }
-      ]
+        "questao": "Qual é o comando para visualizar os vizinhos EIGRP?",
+        "respostas": [
+            {
+                "res": "show ip eigrp neighbors",
+                "status": true
+            },
+            {
+                "res": "show eigrp neighbors",
+                "status": false
+            },
+            {
+                "res": "show neighbors eigrp",
+                "status": false
+            },
+            {
+                "res": "show ip ospf neighbors",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é o protocolo STP (Spanning Tree Protocol) destinado a evitar?",
-      "respostas": [
-        {
-          "res": "Aumentar a largura de banda da rede",
-          "status": false
-        },
-        {
-          "res": "Prevenir loops em uma rede redundante",
-          "status": true
-        },
-        {
-          "res": "Estabelecer comunicação direta entre dispositivos",
-          "status": false
-        },
-        {
-          "res": "Configurar automaticamente os endereços IP dos dispositivos",
-          "status": false
-        }
-      ]
+        "questao": "O que é o Feasible Distance (FD) no EIGRP?",
+        "respostas": [
+            {
+                "res": "A métrica total para alcançar uma rede remota",
+                "status": true
+            },
+            {
+                "res": "A distância administrativa de uma rota",
+                "status": false
+            },
+            {
+                "res": "O número de saltos para uma rede",
+                "status": false
+            },
+            {
+                "res": "O custo de uma interface",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é um modem?",
-      "respostas": [
-        {
-          "res": "Dispositivo para interligar redes",
-          "status": false
-        },
-        {
-          "res": "Dispositivo que realiza modulação e demodulação de sinais",
-          "status": true
-        },
-        {
-          "res": "Dispositivo de segurança baseado em hardware",
-          "status": false
-        },
-        {
-          "res": "Protocolo de comunicação",
-          "status": false
-        }
-      ]
+        "questao": "Qual é o comando para configurar o EIGRP em um roteador?",
+        "respostas": [
+            {
+                "res": "router eigrp <as_number>",
+                "status": true
+            },
+            {
+                "res": "enable eigrp <as_number>",
+                "status": false
+            },
+            {
+                "res": "eigrp enable <as_number>",
+                "status": false
+            },
+            {
+                "res": "configure eigrp <as_number>",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "O que é DNS?",
-      "respostas": [
-        {
-          "resposta": "Sistema de tradução de IP para nomes de domínio.",
-          "correta": true
-        },
-        {
-          "resposta": "Serviço de rede dinâmico.",
-          "correta": false
-        },
-        {
-          "resposta": "Sistema de armazenamento distribuído.",
-          "correta": false
-        },
-        {
-          "resposta": "Medida de segurança para redes.",
-          "correta": false
-        }
-      ]
+        "questao": "Qual é o comando para visualizar a tabela de roteamento OSPF?",
+        "respostas": [
+            {
+                "res": "show ip route",
+                "status": true
+            },
+            {
+                "res": "show ospf route",
+                "status": false
+            },
+            {
+                "res": "show route ospf",
+                "status": false
+            },
+            {
+                "res": "show ip ospf route",
+                "status": false
+            }
+        ]
     },
     {
-      "questao": "Qual é a função do comando 'switchport port-security violation'?",
-      "respostas": [
-        {
-          "resposta": "Desativa uma porta.",
-          "correta": false
-        },
-        {
-          "resposta": "Permite tráfego em caso de violação.",
-          "correta": false
-        },
-        {
-          "resposta": "Define a ação em caso de violação de segurança.",
-          "correta": true
-        },
-        {
-          "resposta": "Configura o número máximo de endereços MAC permitidos.",
-          "correta": false
-        }
-      ]
-    }
-  ]
+        "questao": "Qual é a principal função de uma ACL?",
+        "respostas": [
+            {
+                "res": "Filtrar tráfego",
+                "status": true
+            },
+            {
+                "res": "Configurar VLANs",
+                "status": false
+            },
+            {
+                "res": "Gerenciar tabelas de roteamento",
+                "status": false
+            },
+            {
+                "res": "Autenticar usuários",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que uma ACL padrão filtra?",
+        "respostas": [
+            {
+                "res": "Endereço IP de origem",
+                "status": true
+            },
+            {
+                "res": "Endereço IP de destino",
+                "status": false
+            },
+            {
+                "res": "Portas TCP/UDP",
+                "status": false
+            },
+            {
+                "res": "Endereços MAC",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o intervalo de números para ACLs padrão?",
+        "respostas": [
+            {
+                "res": "1-99 e 1300-1999",
+                "status": true
+            },
+            {
+                "res": "100-199 e 2000-2699",
+                "status": false
+            },
+            {
+                "res": "200-299 e 3000-3999",
+                "status": false
+            },
+            {
+                "res": "500-599 e 4000-4999",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que uma ACL estendida pode filtrar?",
+        "respostas": [
+            {
+                "res": "Endereços IP e portas",
+                "status": true
+            },
+            {
+                "res": "Apenas endereços IP",
+                "status": false
+            },
+            {
+                "res": "Apenas endereços MAC",
+                "status": false
+            },
+            {
+                "res": "Apenas protocolos de roteamento",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o intervalo de números para ACLs estendidas?",
+        "respostas": [
+            {
+                "res": "100-199 e 2000-2699",
+                "status": true
+            },
+            {
+                "res": "1-99 e 1300-1999",
+                "status": false
+            },
+            {
+                "res": "300-399 e 4000-4999",
+                "status": false
+            },
+            {
+                "res": "500-599 e 6000-6999",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'ip access-group' faz?",
+        "respostas": [
+            {
+                "res": "Aplica uma ACL a uma interface",
+                "status": true
+            },
+            {
+                "res": "Cria uma ACL",
+                "status": false
+            },
+            {
+                "res": "Remove uma ACL",
+                "status": false
+            },
+            {
+                "res": "Visualiza ACLs",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é NAT?",
+        "respostas": [
+            {
+                "res": "Tradução de endereços IP",
+                "status": true
+            },
+            {
+                "res": "Filtragem de pacotes",
+                "status": false
+            },
+            {
+                "res": "Configuração de VLANs",
+                "status": false
+            },
+            {
+                "res": "Autenticação de usuários",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para configurar NAT estático?",
+        "respostas": [
+            {
+                "res": "ip nat inside source static",
+                "status": true
+            },
+            {
+                "res": "ip nat outside source dynamic",
+                "status": false
+            },
+            {
+                "res": "ip nat pool static",
+                "status": false
+            },
+            {
+                "res": "ip nat inside dynamic static",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é NAT dinâmico?",
+        "respostas": [
+            {
+                "res": "Tradução de múltiplos IPs privados para públicos",
+                "status": true
+            },
+            {
+                "res": "Tradução de um IP privado para um IP público fixo",
+                "status": false
+            },
+            {
+                "res": "Tradução de IPs públicos para privados",
+                "status": false
+            },
+            {
+                "res": "Filtragem de pacotes",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para configurar NAT dinâmico?",
+        "respostas": [
+            {
+                "res": "ip nat inside source list <acl#> pool <pool_name>",
+                "status": true
+            },
+            {
+                "res": "ip nat outside source list <acl#> pool <pool_name>",
+                "status": false
+            },
+            {
+                "res": "ip nat inside source static <private_ip> <public_ip>",
+                "status": false
+            },
+            {
+                "res": "ip nat outside source static <private_ip> <public_ip>",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é PAT?",
+        "respostas": [
+            {
+                "res": "Tradução de portas e IPs",
+                "status": true
+            },
+            {
+                "res": "Tradução de IPs fixos",
+                "status": false
+            },
+            {
+                "res": "Filtragem de pacotes",
+                "status": false
+            },
+            {
+                "res": "Configuração de VLANs",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é o comando para configurar PAT?",
+        "respostas": [
+            {
+                "res": "ip nat inside source list <acl#> pool <pool_name> overload",
+                "status": true
+            },
+            {
+                "res": "ip nat outside source list <acl#> pool <pool_name> overload",
+                "status": false
+            },
+            {
+                "res": "ip nat inside source static <private_ip> <public_ip>",
+                "status": false
+            },
+            {
+                "res": "ip nat outside source static <private_ip> <public_ip>",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'show ip nat translations' faz?",
+        "respostas": [
+            {
+                "res": "Mostra traduções NAT ativas",
+                "status": true
+            },
+            {
+                "res": "Mostra ACLs configuradas",
+                "status": false
+            },
+            {
+                "res": "Mostra rotas estáticas",
+                "status": false
+            },
+            {
+                "res": "Mostra interfaces habilitadas para NAT",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'show access-lists' faz?",
+        "respostas": [
+            {
+                "res": "Mostra ACLs configuradas",
+                "status": true
+            },
+            {
+                "res": "Mostra traduções NAT ativas",
+                "status": false
+            },
+            {
+                "res": "Mostra rotas estáticas",
+                "status": false
+            },
+            {
+                "res": "Mostra interfaces habilitadas para NAT",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'ip nat inside' faz?",
+        "respostas": [
+            {
+                "res": "Marca uma interface como interna",
+                "status": true
+            },
+            {
+                "res": "Marca uma interface como externa",
+                "status": false
+            },
+            {
+                "res": "Configura uma ACL",
+                "status": false
+            },
+            {
+                "res": "Configura uma rota estática",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'ip nat outside' faz?",
+        "respostas": [
+            {
+                "res": "Marca uma interface como externa",
+                "status": true
+            },
+            {
+                "res": "Marca uma interface como interna",
+                "status": false
+            },
+            {
+                "res": "Configura uma ACL",
+                "status": false
+            },
+            {
+                "res": "Configura uma rota estática",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'access-list' faz?",
+        "respostas": [
+            {
+                "res": "Cria uma ACL",
+                "status": true
+            },
+            {
+                "res": "Aplica uma ACL",
+                "status": false
+            },
+            {
+                "res": "Remove uma ACL",
+                "status": false
+            },
+            {
+                "res": "Visualiza ACLs",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'permit any' faz em uma ACL?",
+        "respostas": [
+            {
+                "res": "Permite todo o tráfego",
+                "status": true
+            },
+            {
+                "res": "Nega todo o tráfego",
+                "status": false
+            },
+            {
+                "res": "Permite tráfego de uma rede específica",
+                "status": false
+            },
+            {
+                "res": "Nega tráfego de uma rede específica",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'deny any' faz em uma ACL?",
+        "respostas": [
+            {
+                "res": "Nega todo o tráfego",
+                "status": true
+            },
+            {
+                "res": "Permite todo o tráfego",
+                "status": false
+            },
+            {
+                "res": "Permite tráfego de uma rede específica",
+                "status": false
+            },
+            {
+                "res": "Nega tráfego de uma rede específica",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que o comando 'show ip access-lists' faz?",
+        "respostas": [
+            {
+                "res": "Mostra ACLs IP configuradas",
+                "status": true
+            },
+            {
+                "res": "Mostra traduções NAT ativas",
+                "status": false
+            },
+            {
+                "res": "Mostra rotas estáticas",
+                "status": false
+            },
+            {
+                "res": "Mostra interfaces habilitadas para NAT",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL nomeada?",
+        "respostas": [
+            {
+                "res": "Uma ACL identificada por um nome",
+                "status": true
+            },
+            {
+                "res": "Uma ACL identificada por um número",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de entrada",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de saída",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL implícita?",
+        "respostas": [
+            {
+                "res": "Uma negação no final de uma ACL",
+                "status": true
+            },
+            {
+                "res": "Uma permissão no início de uma ACL",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que não precisa ser aplicada",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de entrada",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL de entrada (inbound)?",
+        "respostas": [
+            {
+                "res": "Filtra tráfego antes de entrar no roteador",
+                "status": true
+            },
+            {
+                "res": "Filtra tráfego antes de sair do roteador",
+                "status": false
+            },
+            {
+                "res": "Filtra tráfego com base em endereços MAC",
+                "status": false
+            },
+            {
+                "res": "Filtra tráfego com base em portas TCP/UDP",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL de saída (outbound)?",
+        "respostas": [
+            {
+                "res": "Filtra tráfego antes de sair do roteador",
+                "status": true
+            },
+            {
+                "res": "Filtra tráfego antes de entrar no roteador",
+                "status": false
+            },
+            {
+                "res": "Filtra tráfego com base em endereços MAC",
+                "status": false
+            },
+            {
+                "res": "Filtra tráfego com base em portas TCP/UDP",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL baseada em tempo?",
+        "respostas": [
+            {
+                "res": "Uma ACL que funciona em horários específicos",
+                "status": true
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de entrada",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de saída",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de rede interna",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL reflexiva?",
+        "respostas": [
+            {
+                "res": "Uma ACL que filtra tráfego com base em conexões estabelecidas",
+                "status": true
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de entrada",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de saída",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de rede interna",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "O que é uma ACL dinâmica?",
+        "respostas": [
+            {
+                "res": "Uma ACL que permite tráfego temporário após autenticação",
+                "status": true
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de entrada",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de saída",
+                "status": false
+            },
+            {
+                "res": "Uma ACL que filtra apenas tráfego de rede interna",
+                "status": false
+            }
+        ]
+    },
+    
+    {
+        "questao": "O que é uma WAN?",
+        "respostas": [
+          {
+            "res": "Rede de longa distância",
+            "status": true
+          },
+          {
+            "res": "Rede local",
+            "status": false
+          },
+          {
+            "res": "Rede sem fio",
+            "status": false
+          },
+          {
+            "res": "Rede para jogos",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "Qual é a diferença entre LAN e WAN?",
+        "respostas": [
+          {
+            "res": "LAN é local, WAN é ampla",
+            "status": true
+          },
+          {
+            "res": "LAN é mais lenta",
+            "status": false
+          },
+          {
+            "res": "WAN é só para casas",
+            "status": false
+          },
+          {
+            "res": "LAN não usa roteadores",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é topologia ponto-a-ponto?",
+        "respostas": [
+          {
+            "res": "Conexão direta entre locais",
+            "status": true
+          },
+          {
+            "res": "Todos conectados a um hub",
+            "status": false
+          },
+          {
+            "res": "Rede sem fio",
+            "status": false
+          },
+          {
+            "res": "Usa só fibra ótica",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "Qual é a desvantagem do Hub-and-Spoke?",
+        "respostas": [
+          {
+            "res": "Falta de redundância",
+            "status": true
+          },
+          {
+            "res": "Custo alto",
+            "status": false
+          },
+          {
+            "res": "Complexidade",
+            "status": false
+          },
+          {
+            "res": "Incompatibilidade com LAN",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é HDLC?",
+        "respostas": [
+          {
+            "res": "Protocolo de camada 2",
+            "status": true
+          },
+          {
+            "res": "Protocolo de Emparelhamento",
+            "status": false
+          },
+          {
+            "res": "Protocolo de gestão de IP",
+            "status": false
+          },
+          {
+            "res": "Protocolo sem fio",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "Quais são os protocolos de autenticação do PPP?",
+        "respostas": [
+          {
+            "res": "PAP e CHAP",
+            "status": true
+          },
+          {
+            "res": "HDLC e Frame Relay",
+            "status": false
+          },
+          {
+            "res": "IPSec e L2TP",
+            "status": false
+          },
+          {
+            "res": "BGP e OSPF",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é CHAP?",
+        "respostas": [
+          {
+            "res": "Autenticação por handshake",
+            "status": true
+          },
+          {
+            "res": "Protocolo de roteamento",
+            "status": false
+          },
+          {
+            "res": "Protocolo de encapsulamento",
+            "status": false
+          },
+          {
+            "res": "Controle de fluxo",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é Frame Relay?",
+        "respostas": [
+          {
+            "res": "Protocolo WAN com quadros",
+            "status": true
+          },
+          {
+            "res": "Protocolo de atrasos",
+            "status": false
+          },
+          {
+            "res": "Protocolo de WAN com atrasos",
+            "status": false
+          },
+          {
+            "res": "Protocolo para LAN",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é PVC no Frame Relay?",
+        "respostas": [
+          {
+            "res": "Circuito virtual permanente",
+            "status": true
+          },
+          {
+            "res": "Circuito temporário",
+            "status": false
+          },
+          {
+            "res": "Protocolo de autenticação",
+            "status": false
+          },
+          {
+            "res": "Tipo de cabo",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é MPLS?",
+        "respostas": [
+          {
+            "res": "Encaminhamento por rótulos",
+            "status": true
+          },
+          {
+            "res": "Protocolo de PLS",
+            "status": false
+          },
+          {
+            "res": "Protocolo de roteamento",
+            "status": false
+          },
+          {
+            "res": "Tipo de Sistema IP",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é QoS?",
+        "respostas": [
+          {
+            "res": "Melhoria de desempenho da rede",
+            "status": true
+          },
+          {
+            "res": "Protocolo de Quadrinhamento",
+            "status": false
+          },
+          {
+            "res": "Tipo de Sistema Qerl",
+            "status": false
+          },
+          {
+            "res": "Protocolo de Qerl",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é uma VPN?",
+        "respostas": [
+          {
+            "res": "Conexão segura sobre rede pública",
+            "status": true
+          },
+          {
+            "res": "Rede local sem fio",
+            "status": false
+          },
+          {
+            "res": "Protocolo de roteamento",
+            "status": false
+          },
+          {
+            "res": "Tipo de cabo",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é IPSec?",
+        "respostas": [
+          {
+            "res": "Protocolo de segurança para IP",
+            "status": true
+          },
+          {
+            "res": "Protocolo de roteamento e segurança",
+            "status": false
+          },
+          {
+            "res": "Tipo de cabo para IP",
+            "status": false
+          },
+          {
+            "res": "Protocolo de autenticação - roteamento",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é BGP?",
+        "respostas": [
+          {
+            "res": "Protocolo de roteamento entre AS",
+            "status": true
+          },
+          {
+            "res": "Protocolo de autenticação",
+            "status": false
+          },
+          {
+            "res": "Protocolo de encapsulamento",
+            "status": false
+          },
+          {
+            "res": "Tipo de cabo",
+            "status": false
+          }
+        ]
+      },
+      {
+        "questao": "O que é eBGP?",
+        "respostas": [
+          {
+            "res": "Troca de rotas entre AS",
+            "status": true
+          },
+          {
+            "res": "Protocolo de autenticação",
+            "status": false
+          },
+          {
+            "res": "Protocolo de encapsulamento",
+            "status": false
+          },
+          {
+            "res": "Tipo de cabo",
+            "status": false
+          }
+        ]
+      }
+]
 }
