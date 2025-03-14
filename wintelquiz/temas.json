@@ -2,9 +2,5 @@
   {
     "nome": "Biblia",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biblia.json"
-  },
-  {
-    "nome": "Redes de Computadores",
-    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/redes.json"
   }
 ]
