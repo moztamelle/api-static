@@ -1,0 +1,1114 @@
+{
+    "easy": [
+        {
+            "questao": "O que é relevo?",
+            "respostas": [
+                {
+                    "res": "Formas da superfície terrestre",
+                    "status": true
+                },
+                {
+                    "res": "Variação da temperatura em uma região",
+                    "status": false
+                },
+                {
+                    "res": "Distribuição dos rios e lagos",
+                    "status": false
+                },
+                {
+                    "res": "Formação de nuvens e chuvas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual das seguintes é uma forma de relevo?",
+            "respostas": [
+                {
+                    "res": "Montanha",
+                    "status": true
+                },
+                {
+                    "res": "Lago",
+                    "status": false
+                },
+                {
+                    "res": "Rio",
+                    "status": false
+                },
+                {
+                    "res": "Floresta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal factor que influencia o clima?",
+            "respostas": [
+                {
+                    "res": "Latitude",
+                    "status": true
+                },
+                {
+                    "res": "Longitude",
+                    "status": false
+                },
+                {
+                    "res": "Profundidade dos oceanos",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de vegetação",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é hidrografia?",
+            "respostas": [
+                {
+                    "res": "Estudo dos recursos hídricos",
+                    "status": true
+                },
+                {
+                    "res": "Estudo dos solos e rochas",
+                    "status": false
+                },
+                {
+                    "res": "Estudo das formas de relevo",
+                    "status": false
+                },
+                {
+                    "res": "Estudo dos fenómenos climáticos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior oceano do mundo?",
+            "respostas": [
+                {
+                    "res": "Oceano Pacífico",
+                    "status": true
+                },
+                {
+                    "res": "Oceano Atlântico",
+                    "status": false
+                },
+                {
+                    "res": "Oceano Índico",
+                    "status": false
+                },
+                {
+                    "res": "Oceano Glacial Ártico",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um solo fértil?",
+            "respostas": [
+                {
+                    "res": "Solo rico em nutrientes para plantas",
+                    "status": true
+                },
+                {
+                    "res": "Solo com alta concentração de areia",
+                    "status": false
+                },
+                {
+                    "res": "Solo com muita pedra e rocha",
+                    "status": false
+                },
+                {
+                    "res": "Solo com baixa retenção de água",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal função de um rio?",
+            "respostas": [
+                {
+                    "res": "Transportar água e sedimentos",
+                    "status": true
+                },
+                {
+                    "res": "Formar montanhas e vales",
+                    "status": false
+                },
+                {
+                    "res": "Regular a temperatura global",
+                    "status": false
+                },
+                {
+                    "res": "Armazenar minerais preciosos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um lago?",
+            "respostas": [
+                {
+                    "res": "Massa de água cercada por terra",
+                    "status": true
+                },
+                {
+                    "res": "Curso de água que deságua no mar",
+                    "status": false
+                },
+                {
+                    "res": "Reservatório subterrâneo de água",
+                    "status": false
+                },
+                {
+                    "res": "Formação geológica de rochas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o tipo de solo mais comum em regiões desérticas?",
+            "respostas": [
+                {
+                    "res": "Solo arenoso",
+                    "status": true
+                },
+                {
+                    "res": "Solo argiloso",
+                    "status": false
+                },
+                {
+                    "res": "Solo humífero",
+                    "status": false
+                },
+                {
+                    "res": "Solo vulcânico",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um factor climático?",
+            "respostas": [
+                {
+                    "res": "Influencia o clima de uma região",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de rocha predominante",
+                    "status": false
+                },
+                {
+                    "res": "Formação de nuvens e chuvas",
+                    "status": false
+                },
+                {
+                    "res": "Distribuição dos rios e lagos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que significa crescimento populacional?",
+            "respostas": [
+                {
+                    "res": "Aumento do número de habitantes de uma região",
+                    "status": true
+                },
+                {
+                    "res": "Diminuição da taxa de natalidade",
+                    "status": false
+                },
+                {
+                    "res": "Migração de pessoas para o campo",
+                    "status": false
+                },
+                {
+                    "res": "Expansão das áreas urbanas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal motivo das migrações humanas?",
+            "respostas": [
+                {
+                    "res": "Busca por melhores condições de vida",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da taxa de natalidade",
+                    "status": false
+                },
+                {
+                    "res": "Expansão de áreas industriais",
+                    "status": false
+                },
+                {
+                    "res": "Diminuição da população urbana",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é densidade populacional?",
+            "respostas": [
+                {
+                    "res": "Número de habitantes por unidade de área",
+                    "status": true
+                },
+                {
+                    "res": "Taxa de crescimento da população",
+                    "status": false
+                },
+                {
+                    "res": "Distribuição de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Nível de urbanização de uma região",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é urbanização?",
+            "respostas": [
+                {
+                    "res": "Crescimento das cidades e da população urbana",
+                    "status": true
+                },
+                {
+                    "res": "Expansão das áreas rurais",
+                    "status": false
+                },
+                {
+                    "res": "Diminuição da população mundial",
+                    "status": false
+                },
+                {
+                    "res": "Distribuição equilibrada da população",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um problema comum nas grandes cidades?",
+            "respostas": [
+                {
+                    "res": "Congestionamento de trânsito",
+                    "status": true
+                },
+                {
+                    "res": "Falta de áreas industriais",
+                    "status": false
+                },
+                {
+                    "res": "Excesso de áreas verdes",
+                    "status": false
+                },
+                {
+                    "res": "Baixa densidade populacional",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal actividade económica no sector primário?",
+            "respostas": [
+                {
+                    "res": "Agricultura",
+                    "status": true
+                },
+                {
+                    "res": "Indústria",
+                    "status": false
+                },
+                {
+                    "res": "Comércio",
+                    "status": false
+                },
+                {
+                    "res": "Serviços",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que caracteriza o sector secundário?",
+            "respostas": [
+                {
+                    "res": "Transformação de matéria-prima em produtos",
+                    "status": true
+                },
+                {
+                    "res": "Exploração de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Venda de produtos ao consumidor",
+                    "status": false
+                },
+                {
+                    "res": "Prestação de serviços financeiros",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal impacto da industrialização?",
+            "respostas": [
+                {
+                    "res": "Aumento da poluição ambiental",
+                    "status": true
+                },
+                {
+                    "res": "Redução do êxodo rural",
+                    "status": false
+                },
+                {
+                    "res": "Diminuição da população urbana",
+                    "status": false
+                },
+                {
+                    "res": "Expansão das áreas agrícolas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é comércio?",
+            "respostas": [
+                {
+                    "res": "Troca de bens e serviços",
+                    "status": true
+                },
+                {
+                    "res": "Produção de matéria-prima",
+                    "status": false
+                },
+                {
+                    "res": "Transformação de produtos industriais",
+                    "status": false
+                },
+                {
+                    "res": "Prestação de serviços educacionais",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do sector terciário?",
+            "respostas": [
+                {
+                    "res": "Prestação de serviços",
+                    "status": true
+                },
+                {
+                    "res": "Exploração de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Transformação de matérias-primas",
+                    "status": false
+                },
+                {
+                    "res": "Produção de alimentos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o tipo de clima predominante em Moçambique?",
+            "respostas": [
+                {
+                    "res": "Tropical",
+                    "status": true
+                },
+                {
+                    "res": "Desértico",
+                    "status": false
+                },
+                {
+                    "res": "Polar",
+                    "status": false
+                },
+                {
+                    "res": "Mediterrâneo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o rio mais importante de Moçambique?",
+            "respostas": [
+                {
+                    "res": "Rio Zambeze",
+                    "status": true
+                },
+                {
+                    "res": "Rio Limpopo",
+                    "status": false
+                },
+                {
+                    "res": "Rio Save",
+                    "status": false
+                },
+                {
+                    "res": "Rio Rovuma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal recurso natural explorado em Moçambique?",
+            "respostas": [
+                {
+                    "res": "Carvão mineral",
+                    "status": true
+                },
+                {
+                    "res": "Petróleo",
+                    "status": false
+                },
+                {
+                    "res": "Gás natural",
+                    "status": false
+                },
+                {
+                    "res": "Ouro",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um dos principais problemas ambientais em Moçambique?",
+            "respostas": [
+                {
+                    "res": "Deforestação",
+                    "status": true
+                },
+                {
+                    "res": "Derretimento das calotas polares",
+                    "status": false
+                },
+                {
+                    "res": "Escassez de água potável",
+                    "status": false
+                },
+                {
+                    "res": "Poluição por plásticos nos oceanos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a Reserva Nacional do Niassa?",
+            "respostas": [
+                {
+                    "res": "Area de conservação da vida selvagem",
+                    "status": true
+                },
+                {
+                    "res": "Uma zona industrial",
+                    "status": false
+                },
+                {
+                    "res": "Uma cidade turística",
+                    "status": false
+                },
+                {
+                    "res": "Um parque temático",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal causa das desigualdades socioeconómicas em Moçambique?",
+            "respostas": [
+                {
+                    "res": "Distribuição desigual de recursos",
+                    "status": true
+                },
+                {
+                    "res": "Falta de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Excesso de industrialização",
+                    "status": false
+                },
+                {
+                    "res": "Baixa taxa de urbanização",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Moçambique?",
+            "respostas": [
+                {
+                    "res": "Maputo",
+                    "status": true
+                },
+                {
+                    "res": "Beira",
+                    "status": false
+                },
+                {
+                    "res": "Nampula",
+                    "status": false
+                },
+                {
+                    "res": "Quelimane",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal produto agrícola de Moçambique?",
+            "respostas": [
+                {
+                    "res": "Caju",
+                    "status": true
+                },
+                {
+                    "res": "Café",
+                    "status": false
+                },
+                {
+                    "res": "Cacau",
+                    "status": false
+                },
+                {
+                    "res": "Trigo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal desafio para o desenvolvimento regional em Moçambique?",
+            "respostas": [
+                {
+                    "res": "Falta de infraestruturas básicas",
+                    "status": true
+                },
+                {
+                    "res": "Excesso de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Alta taxa de urbanização",
+                    "status": false
+                },
+                {
+                    "res": "Falta de áreas rurais",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a região mais industrializada de Moçambique?",
+            "respostas": [
+                {
+                    "res": "Maputo e arredores",
+                    "status": true
+                },
+                {
+                    "res": "Província de Niassa",
+                    "status": false
+                },
+                {
+                    "res": "Província de Cabo Delgado",
+                    "status": false
+                },
+                {
+                    "res": "Província de Tete",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior bloco económico do mundo?",
+            "respostas": [
+                {
+                    "res": "União Europeia",
+                    "status": true
+                },
+                {
+                    "res": "Mercosul",
+                    "status": false
+                },
+                {
+                    "res": "Comunidade para o Desenvolvimento da África Austral (SADC)",
+                    "status": false
+                },
+                {
+                    "res": "Associação de Nações do Sudeste Asiático (ASEAN)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é globalização?",
+            "respostas": [
+                {
+                    "res": "Integração económica, social e cultural entre países",
+                    "status": true
+                },
+                {
+                    "res": "Expansão das áreas rurais",
+                    "status": false
+                },
+                {
+                    "res": "Isolamento político de nações",
+                    "status": false
+                },
+                {
+                    "res": "Redução do comércio internacional",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um dos principais efeitos da globalização?",
+            "respostas": [
+                {
+                    "res": "Aumento do comércio internacional",
+                    "status": true
+                },
+                {
+                    "res": "Redução da migração entre países",
+                    "status": false
+                },
+                {
+                    "res": "Diminuição da influência cultural",
+                    "status": false
+                },
+                {
+                    "res": "Isolamento económico",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal desafio ambiental global?",
+            "respostas": [
+                {
+                    "res": "Alterações climáticas",
+                    "status": true
+                },
+                {
+                    "res": "Desertificação localizada",
+                    "status": false
+                },
+                {
+                    "res": "Escassez de recursos minerais",
+                    "status": false
+                },
+                {
+                    "res": "Poluição sonora",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o Protocolo de Quioto?",
+            "respostas": [
+                {
+                    "res": "Um acordo internacional para reduzir emissões de gases de efeito estufa",
+                    "status": true
+                },
+                {
+                    "res": "Um tratado de comércio global",
+                    "status": false
+                },
+                {
+                    "res": "Uma organização ambiental regional",
+                    "status": false
+                },
+                {
+                    "res": "Um plano de desenvolvimento económico",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal causa das alterações climáticas?",
+            "respostas": [
+                {
+                    "res": "Emissões de dióxido de carbono (CO2)",
+                    "status": true
+                },
+                {
+                    "res": "Desflorestação localizada",
+                    "status": false
+                },
+                {
+                    "res": "Uso excessivo de água potável",
+                    "status": false
+                },
+                {
+                    "res": "Expansão urbana",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a região mais afetada pelo aquecimento global?",
+            "respostas": [
+                {
+                    "res": "Ártico",
+                    "status": true
+                },
+                {
+                    "res": "Deserto do Saara",
+                    "status": false
+                },
+                {
+                    "res": "Floresta Amazónica",
+                    "status": false
+                },
+                {
+                    "res": "Sudeste Asiático",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a Agenda 2030 da ONU?",
+            "respostas": [
+                {
+                    "res": "Um plano global para o desenvolvimento sustentável",
+                    "status": true
+                },
+                {
+                    "res": "Um tratado de comércio internacional",
+                    "status": false
+                },
+                {
+                    "res": "Uma organização ambiental",
+                    "status": false
+                },
+                {
+                    "res": "Um acordo militar global",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal objetivo do Acordo de Paris?",
+            "respostas": [
+                {
+                    "res": "Limitar o aquecimento global a 1,5°C",
+                    "status": true
+                },
+                {
+                    "res": "Promover o comércio internacional",
+                    "status": false
+                },
+                {
+                    "res": "Reduzir a migração entre países",
+                    "status": false
+                },
+                {
+                    "res": "Expandir áreas industriais",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+          "questao": "O que é um mapa?",
+          "respostas": [
+            { "res": "Representação gráfica de uma área", "status": true },
+            { "res": "Fotografia de satélite", "status": false },
+            { "res": "Gráfico de dados", "status": false },
+            { "res": "Desenho artístico", "status": false }
+          ]
+        },
+        {
+          "questao": "Para que serve a escala?",
+          "respostas": [
+            { "res": "Mostrar proporção entre mapa e realidade", "status": true },
+            { "res": "Indicar altitude", "status": false },
+            { "res": "Mostrar temperatura", "status": false },
+            { "res": "Identificar coordenadas", "status": false }
+          ]
+        },
+        {
+          "questao": "O que é escala numérica?",
+          "respostas": [
+            { "res": "Relação matemática mapa/realidade", "status": true },
+            { "res": "Gráfico de distâncias", "status": false },
+            { "res": "Medida de altitude", "status": false },
+            { "res": "Indicação de coordenadas", "status": false }
+          ]
+        },
+        {
+          "questao": "O que são coordenadas geográficas?",
+          "respostas": [
+            { "res": "Latitude e longitude", "status": true },
+            { "res": "Altitude e profundidade", "status": false },
+            { "res": "Distância entre cidades", "status": false },
+            { "res": "Fusos horários", "status": false }
+          ]
+        },
+        {
+          "questao": "Qual linha divide a Terra em Norte e Sul?",
+          "respostas": [
+            { "res": "Equador", "status": true },
+            { "res": "Meridiano de Greenwich", "status": false },
+            { "res": "Trópico de Câncer", "status": false },
+            { "res": "Círculo Polar Ártico", "status": false }
+          ]
+        },
+        {
+          "questao": "O que é uma projeção cartográfica?",
+          "respostas": [
+            { "res": "Método para representar a Terra em um plano", "status": true },
+            { "res": "Técnica para medir distâncias", "status": false },
+            { "res": "Ferramenta para calcular escalas", "status": false },
+            { "res": "Sistema de coordenadas", "status": false }
+          ]
+        },
+        {
+          "questao": "Qual é a distorção da projeção de Mercator?",
+          "respostas": [
+            { "res": "Tamanho das áreas polares", "status": true },
+            { "res": "Forma dos continentes", "status": false },
+            { "res": "Distância entre meridianos", "status": false },
+            { "res": "Representação de altitudes", "status": false }
+          ]
+        },
+        {
+          "questao": "O que é latitude?",
+          "respostas": [
+            { "res": "Distância em relação ao Equador", "status": true },
+            { "res": "Distância em relação ao Meridiano de Greenwich", "status": false },
+            { "res": "Medida de altitude", "status": false },
+            { "res": "Indicação de fusos horários", "status": false }
+          ]
+        },
+        {
+          "questao": "O que é longitude?",
+          "respostas": [
+            { "res": "Distância em relação ao Meridiano de Greenwich", "status": true },
+            { "res": "Distância em relação ao Equador", "status": false },
+            { "res": "Medida de altitude", "status": false },
+            { "res": "Indicação de fusos horários", "status": false }
+          ]
+        },
+        {
+          "questao": "Qual é a função de um mapa político?",
+          "respostas": [
+            { "res": "Mostrar divisões de países e estados", "status": true },
+            { "res": "Indicar relevo e altitude", "status": false },
+            { "res": "Representar clima e vegetação", "status": false },
+            { "res": "Mostrar recursos naturais", "status": false }
+          ]
+        },
+        {
+            "questao": "Qual é o principal recurso mineral explorado em Moçambique?",
+            "respostas": [
+              { "res": "Carvão", "status": true },
+              { "res": "Petróleo", "status": false },
+              { "res": "Ouro", "status": false },
+              { "res": "Diamantes", "status": false }
+            ]
+          },
+          {
+            "questao": "O que são recursos energéticos?",
+            "respostas": [
+              { "res": "Fontes de energia como carvão e gás", "status": true },
+              { "res": "Minerais usados na indústria", "status": false },
+              { "res": "Recursos hídricos", "status": false },
+              { "res": "Produtos agrícolas", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal impacto ambiental da exploração de carvão?",
+            "respostas": [
+              { "res": "Poluição do ar e da água", "status": true },
+              { "res": "Desertificação", "status": false },
+              { "res": "Aumento da temperatura global", "status": false },
+              { "res": "Extinção de espécies", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o meio de transporte mais usado para cargas pesadas em longas distâncias?",
+            "respostas": [
+              { "res": "Caminhões", "status": true },
+              { "res": "Trens", "status": false },
+              { "res": "Aviões", "status": false },
+              { "res": "Navios", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é infraestrutura de transportes?",
+            "respostas": [
+              { "res": "Vias, portos e aeroportos", "status": true },
+              { "res": "Redes de comunicação", "status": false },
+              { "res": "Usinas de energia", "status": false },
+              { "res": "Sistemas de irrigação", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal impacto económico do turismo?",
+            "respostas": [
+              { "res": "Geração de empregos e renda", "status": true },
+              { "res": "Redução da pobreza", "status": false },
+              { "res": "Aumento da inflação", "status": false },
+              { "res": "Diminuição do PIB", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é turismo sustentável?",
+            "respostas": [
+              { "res": "Turismo que preserva o ambiente e a cultura", "status": true },
+              { "res": "Turismo de luxo", "status": false },
+              { "res": "Turismo massivo", "status": false },
+              { "res": "Turismo de aventura", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal impacto ambiental do turismo?",
+            "respostas": [
+              { "res": "Degradação de ecossistemas", "status": true },
+              { "res": "Aumento da poluição sonora", "status": false },
+              { "res": "Redução da biodiversidade", "status": false },
+              { "res": "Desertificação", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é logística?",
+            "respostas": [
+              { "res": "Gestão do transporte e armazenamento de mercadorias", "status": true },
+              { "res": "Produção de bens industriais", "status": false },
+              { "res": "Comercialização de produtos", "status": false },
+              { "res": "Distribuição de energia", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal recurso energético renovável?",
+            "respostas": [
+              { "res": "Energia solar", "status": true },
+              { "res": "Carvão mineral", "status": false },
+              { "res": "Gás natural", "status": false },
+              { "res": "Petróleo", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é turismo cultural?",
+            "respostas": [
+              { "res": "Visita a locais históricos e culturais", "status": true },
+              { "res": "Prática de desportos radicais", "status": false },
+              { "res": "Exploração de áreas naturais", "status": false },
+              { "res": "Viagens de negócios", "status": false }
+            ]
+          },
+          {
+            "questao": "O que caracteriza o turismo ecológico?",
+            "respostas": [
+              { "res": "Foco na preservação do meio ambiente", "status": true },
+              { "res": "Visita a grandes cidades", "status": false },
+              { "res": "Participação em eventos culturais", "status": false },
+              { "res": "Prática de actividades de luxo", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal objectivo do turismo de aventura?",
+            "respostas": [
+              { "res": "Praticar actividades radicais e desafiadoras", "status": true },
+              { "res": "Conhecer museus e monumentos", "status": false },
+              { "res": "Relaxar em praias", "status": false },
+              { "res": "Participar em conferências", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é um impacto negativo do turismo?",
+            "respostas": [
+              { "res": "Degradação de ecossistemas", "status": true },
+              { "res": "Aumento da poluição sonora", "status": false },
+              { "res": "Redução da biodiversidade", "status": false },
+              { "res": "Desertificação", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal recurso turístico de Moçambique?",
+            "respostas": [
+              { "res": "Praias e ilhas", "status": true },
+              { "res": "Montanhas e vales", "status": false },
+              { "res": "Florestas tropicais", "status": false },
+              { "res": "Cidades históricas", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é um dos principais desafios do turismo em Moçambique?",
+            "respostas": [
+              { "res": "Falta de infraestruturas adequadas", "status": true },
+              { "res": "Excesso de turistas", "status": false },
+              { "res": "Poluição das praias", "status": false },
+              { "res": "Falta de recursos naturais", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é necessário para promover o turismo sustentável em Moçambique?",
+            "respostas": [
+              { "res": "Investimento em infraestruturas e educação ambiental", "status": true },
+              { "res": "Exploração massiva de recursos naturais", "status": false },
+              { "res": "Construção de grandes hotéis", "status": false },
+              { "res": "Restrição ao acesso de turistas", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é ecoturismo?",
+            "respostas": [
+              { "res": "Turismo focado na natureza e sua conservação", "status": true },
+              { "res": "Turismo de luxo em resorts", "status": false },
+              { "res": "Turismo cultural em cidades históricas", "status": false },
+              { "res": "Turismo de negócios", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal atractivo turístico das Ilhas do Bazaruto?",
+            "respostas": [
+              { "res": "Praias e biodiversidade marinha", "status": true },
+              { "res": "Montanhas e trilhos", "status": false },
+              { "res": "Florestas tropicais", "status": false },
+              { "res": "Cidades históricas", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é um dos impactos positivos do turismo em Moçambique?",
+            "respostas": [
+              { "res": "Diversificação da economia", "status": true },
+              { "res": "Aumento da poluição", "status": false },
+              { "res": "Desvalorização da cultura local", "status": false },
+              { "res": "Redução da biodiversidade", "status": false }
+            ]
+          },
+          {
+            "questao": "O que é necessário para atrair mais turistas para Moçambique?",
+            "respostas": [
+              { "res": "Melhorar infraestruturas e promover o país", "status": true },
+              { "res": "Explorar recursos naturais de forma intensiva", "status": false },
+              { "res": "Restringir o acesso a áreas naturais", "status": false },
+              { "res": "Ignorar a cultura local", "status": false }
+            ]
+          },
+          {
+            "questao": "Qual é o principal desafio ambiental do turismo em Moçambique?",
+            "respostas": [
+              { "res": "Degradação de ecossistemas costeiros", "status": true },
+              { "res": "Aumento da poluição sonora", "status": false },
+              { "res": "Redução da biodiversidade", "status": false },
+              { "res": "Desertificação", "status": false }
+            ]
+          }
+      ],
+    "dificult": []
+}
