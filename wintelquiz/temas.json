@@ -4,6 +4,10 @@
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biblia.json"
   },
   {
+    "nome": "Geografia",
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/geografia.json"
+  },
+  {
     "nome": "Redes de Computadores",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/redes.json"
   }

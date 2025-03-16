@@ -822,293 +822,1581 @@
     ],
     "medium": [
         {
-          "questao": "O que é um mapa?",
-          "respostas": [
-            { "res": "Representação gráfica de uma área", "status": true },
-            { "res": "Fotografia de satélite", "status": false },
-            { "res": "Gráfico de dados", "status": false },
-            { "res": "Desenho artístico", "status": false }
-          ]
+            "questao": "O que é um mapa?",
+            "respostas": [
+                {
+                    "res": "Representação gráfica de uma área",
+                    "status": true
+                },
+                {
+                    "res": "Fotografia de satélite",
+                    "status": false
+                },
+                {
+                    "res": "Gráfico de dados",
+                    "status": false
+                },
+                {
+                    "res": "Desenho artístico",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "Para que serve a escala?",
-          "respostas": [
-            { "res": "Mostrar proporção entre mapa e realidade", "status": true },
-            { "res": "Indicar altitude", "status": false },
-            { "res": "Mostrar temperatura", "status": false },
-            { "res": "Identificar coordenadas", "status": false }
-          ]
+            "questao": "Para que serve a escala?",
+            "respostas": [
+                {
+                    "res": "Mostrar proporção entre mapa e realidade",
+                    "status": true
+                },
+                {
+                    "res": "Indicar altitude",
+                    "status": false
+                },
+                {
+                    "res": "Mostrar temperatura",
+                    "status": false
+                },
+                {
+                    "res": "Identificar coordenadas",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "O que é escala numérica?",
-          "respostas": [
-            { "res": "Relação matemática mapa/realidade", "status": true },
-            { "res": "Gráfico de distâncias", "status": false },
-            { "res": "Medida de altitude", "status": false },
-            { "res": "Indicação de coordenadas", "status": false }
-          ]
+            "questao": "O que é escala numérica?",
+            "respostas": [
+                {
+                    "res": "Relação matemática mapa/realidade",
+                    "status": true
+                },
+                {
+                    "res": "Gráfico de distâncias",
+                    "status": false
+                },
+                {
+                    "res": "Medida de altitude",
+                    "status": false
+                },
+                {
+                    "res": "Indicação de coordenadas",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "O que são coordenadas geográficas?",
-          "respostas": [
-            { "res": "Latitude e longitude", "status": true },
-            { "res": "Altitude e profundidade", "status": false },
-            { "res": "Distância entre cidades", "status": false },
-            { "res": "Fusos horários", "status": false }
-          ]
+            "questao": "O que são coordenadas geográficas?",
+            "respostas": [
+                {
+                    "res": "Latitude e longitude",
+                    "status": true
+                },
+                {
+                    "res": "Altitude e profundidade",
+                    "status": false
+                },
+                {
+                    "res": "Distância entre cidades",
+                    "status": false
+                },
+                {
+                    "res": "Fusos horários",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "Qual linha divide a Terra em Norte e Sul?",
-          "respostas": [
-            { "res": "Equador", "status": true },
-            { "res": "Meridiano de Greenwich", "status": false },
-            { "res": "Trópico de Câncer", "status": false },
-            { "res": "Círculo Polar Ártico", "status": false }
-          ]
+            "questao": "Qual linha divide a Terra em Norte e Sul?",
+            "respostas": [
+                {
+                    "res": "Equador",
+                    "status": true
+                },
+                {
+                    "res": "Meridiano de Greenwich",
+                    "status": false
+                },
+                {
+                    "res": "Trópico de Câncer",
+                    "status": false
+                },
+                {
+                    "res": "Círculo Polar Ártico",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "O que é uma projeção cartográfica?",
-          "respostas": [
-            { "res": "Método para representar a Terra em um plano", "status": true },
-            { "res": "Técnica para medir distâncias", "status": false },
-            { "res": "Ferramenta para calcular escalas", "status": false },
-            { "res": "Sistema de coordenadas", "status": false }
-          ]
+            "questao": "O que é uma projeção cartográfica?",
+            "respostas": [
+                {
+                    "res": "Método para representar a Terra em um plano",
+                    "status": true
+                },
+                {
+                    "res": "Técnica para medir distâncias",
+                    "status": false
+                },
+                {
+                    "res": "Ferramenta para calcular escalas",
+                    "status": false
+                },
+                {
+                    "res": "Sistema de coordenadas",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "Qual é a distorção da projeção de Mercator?",
-          "respostas": [
-            { "res": "Tamanho das áreas polares", "status": true },
-            { "res": "Forma dos continentes", "status": false },
-            { "res": "Distância entre meridianos", "status": false },
-            { "res": "Representação de altitudes", "status": false }
-          ]
+            "questao": "Qual é a distorção da projeção de Mercator?",
+            "respostas": [
+                {
+                    "res": "Tamanho das áreas polares",
+                    "status": true
+                },
+                {
+                    "res": "Forma dos continentes",
+                    "status": false
+                },
+                {
+                    "res": "Distância entre meridianos",
+                    "status": false
+                },
+                {
+                    "res": "Representação de altitudes",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "O que é latitude?",
-          "respostas": [
-            { "res": "Distância em relação ao Equador", "status": true },
-            { "res": "Distância em relação ao Meridiano de Greenwich", "status": false },
-            { "res": "Medida de altitude", "status": false },
-            { "res": "Indicação de fusos horários", "status": false }
-          ]
+            "questao": "O que é latitude?",
+            "respostas": [
+                {
+                    "res": "Distância em relação ao Equador",
+                    "status": true
+                },
+                {
+                    "res": "Distância em relação ao Meridiano de Greenwich",
+                    "status": false
+                },
+                {
+                    "res": "Medida de altitude",
+                    "status": false
+                },
+                {
+                    "res": "Indicação de fusos horários",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "O que é longitude?",
-          "respostas": [
-            { "res": "Distância em relação ao Meridiano de Greenwich", "status": true },
-            { "res": "Distância em relação ao Equador", "status": false },
-            { "res": "Medida de altitude", "status": false },
-            { "res": "Indicação de fusos horários", "status": false }
-          ]
+            "questao": "O que é longitude?",
+            "respostas": [
+                {
+                    "res": "Distância em relação ao Meridiano de Greenwich",
+                    "status": true
+                },
+                {
+                    "res": "Distância em relação ao Equador",
+                    "status": false
+                },
+                {
+                    "res": "Medida de altitude",
+                    "status": false
+                },
+                {
+                    "res": "Indicação de fusos horários",
+                    "status": false
+                }
+            ]
         },
         {
-          "questao": "Qual é a função de um mapa político?",
-          "respostas": [
-            { "res": "Mostrar divisões de países e estados", "status": true },
-            { "res": "Indicar relevo e altitude", "status": false },
-            { "res": "Representar clima e vegetação", "status": false },
-            { "res": "Mostrar recursos naturais", "status": false }
-          ]
+            "questao": "Qual é a função de um mapa político?",
+            "respostas": [
+                {
+                    "res": "Mostrar divisões de países e estados",
+                    "status": true
+                },
+                {
+                    "res": "Indicar relevo e altitude",
+                    "status": false
+                },
+                {
+                    "res": "Representar clima e vegetação",
+                    "status": false
+                },
+                {
+                    "res": "Mostrar recursos naturais",
+                    "status": false
+                }
+            ]
         },
         {
             "questao": "Qual é o principal recurso mineral explorado em Moçambique?",
             "respostas": [
-              { "res": "Carvão", "status": true },
-              { "res": "Petróleo", "status": false },
-              { "res": "Ouro", "status": false },
-              { "res": "Diamantes", "status": false }
+                {
+                    "res": "Carvão",
+                    "status": true
+                },
+                {
+                    "res": "Petróleo",
+                    "status": false
+                },
+                {
+                    "res": "Ouro",
+                    "status": false
+                },
+                {
+                    "res": "Diamantes",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que são recursos energéticos?",
             "respostas": [
-              { "res": "Fontes de energia como carvão e gás", "status": true },
-              { "res": "Minerais usados na indústria", "status": false },
-              { "res": "Recursos hídricos", "status": false },
-              { "res": "Produtos agrícolas", "status": false }
+                {
+                    "res": "Fontes de energia como carvão e gás",
+                    "status": true
+                },
+                {
+                    "res": "Minerais usados na indústria",
+                    "status": false
+                },
+                {
+                    "res": "Recursos hídricos",
+                    "status": false
+                },
+                {
+                    "res": "Produtos agrícolas",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal impacto ambiental da exploração de carvão?",
             "respostas": [
-              { "res": "Poluição do ar e da água", "status": true },
-              { "res": "Desertificação", "status": false },
-              { "res": "Aumento da temperatura global", "status": false },
-              { "res": "Extinção de espécies", "status": false }
+                {
+                    "res": "Poluição do ar e da água",
+                    "status": true
+                },
+                {
+                    "res": "Desertificação",
+                    "status": false
+                },
+                {
+                    "res": "Aumento da temperatura global",
+                    "status": false
+                },
+                {
+                    "res": "Extinção de espécies",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o meio de transporte mais usado para cargas pesadas em longas distâncias?",
             "respostas": [
-              { "res": "Caminhões", "status": true },
-              { "res": "Trens", "status": false },
-              { "res": "Aviões", "status": false },
-              { "res": "Navios", "status": false }
+                {
+                    "res": "Caminhões",
+                    "status": true
+                },
+                {
+                    "res": "Trens",
+                    "status": false
+                },
+                {
+                    "res": "Aviões",
+                    "status": false
+                },
+                {
+                    "res": "Navios",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é infraestrutura de transportes?",
             "respostas": [
-              { "res": "Vias, portos e aeroportos", "status": true },
-              { "res": "Redes de comunicação", "status": false },
-              { "res": "Usinas de energia", "status": false },
-              { "res": "Sistemas de irrigação", "status": false }
+                {
+                    "res": "Vias, portos e aeroportos",
+                    "status": true
+                },
+                {
+                    "res": "Redes de comunicação",
+                    "status": false
+                },
+                {
+                    "res": "Usinas de energia",
+                    "status": false
+                },
+                {
+                    "res": "Sistemas de irrigação",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal impacto económico do turismo?",
             "respostas": [
-              { "res": "Geração de empregos e renda", "status": true },
-              { "res": "Redução da pobreza", "status": false },
-              { "res": "Aumento da inflação", "status": false },
-              { "res": "Diminuição do PIB", "status": false }
+                {
+                    "res": "Geração de empregos e renda",
+                    "status": true
+                },
+                {
+                    "res": "Redução da pobreza",
+                    "status": false
+                },
+                {
+                    "res": "Aumento da inflação",
+                    "status": false
+                },
+                {
+                    "res": "Diminuição do PIB",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é turismo sustentável?",
             "respostas": [
-              { "res": "Turismo que preserva o ambiente e a cultura", "status": true },
-              { "res": "Turismo de luxo", "status": false },
-              { "res": "Turismo massivo", "status": false },
-              { "res": "Turismo de aventura", "status": false }
+                {
+                    "res": "Turismo que preserva o ambiente e a cultura",
+                    "status": true
+                },
+                {
+                    "res": "Turismo de luxo",
+                    "status": false
+                },
+                {
+                    "res": "Turismo massivo",
+                    "status": false
+                },
+                {
+                    "res": "Turismo de aventura",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal impacto ambiental do turismo?",
             "respostas": [
-              { "res": "Degradação de ecossistemas", "status": true },
-              { "res": "Aumento da poluição sonora", "status": false },
-              { "res": "Redução da biodiversidade", "status": false },
-              { "res": "Desertificação", "status": false }
+                {
+                    "res": "Degradação de ecossistemas",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da poluição sonora",
+                    "status": false
+                },
+                {
+                    "res": "Redução da biodiversidade",
+                    "status": false
+                },
+                {
+                    "res": "Desertificação",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é logística?",
             "respostas": [
-              { "res": "Gestão do transporte e armazenamento de mercadorias", "status": true },
-              { "res": "Produção de bens industriais", "status": false },
-              { "res": "Comercialização de produtos", "status": false },
-              { "res": "Distribuição de energia", "status": false }
+                {
+                    "res": "Gestão do transporte e armazenamento de mercadorias",
+                    "status": true
+                },
+                {
+                    "res": "Produção de bens industriais",
+                    "status": false
+                },
+                {
+                    "res": "Comercialização de produtos",
+                    "status": false
+                },
+                {
+                    "res": "Distribuição de energia",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal recurso energético renovável?",
             "respostas": [
-              { "res": "Energia solar", "status": true },
-              { "res": "Carvão mineral", "status": false },
-              { "res": "Gás natural", "status": false },
-              { "res": "Petróleo", "status": false }
+                {
+                    "res": "Energia solar",
+                    "status": true
+                },
+                {
+                    "res": "Carvão mineral",
+                    "status": false
+                },
+                {
+                    "res": "Gás natural",
+                    "status": false
+                },
+                {
+                    "res": "Petróleo",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é turismo cultural?",
             "respostas": [
-              { "res": "Visita a locais históricos e culturais", "status": true },
-              { "res": "Prática de desportos radicais", "status": false },
-              { "res": "Exploração de áreas naturais", "status": false },
-              { "res": "Viagens de negócios", "status": false }
+                {
+                    "res": "Visita a locais históricos e culturais",
+                    "status": true
+                },
+                {
+                    "res": "Prática de desportos radicais",
+                    "status": false
+                },
+                {
+                    "res": "Exploração de áreas naturais",
+                    "status": false
+                },
+                {
+                    "res": "Viagens de negócios",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que caracteriza o turismo ecológico?",
             "respostas": [
-              { "res": "Foco na preservação do meio ambiente", "status": true },
-              { "res": "Visita a grandes cidades", "status": false },
-              { "res": "Participação em eventos culturais", "status": false },
-              { "res": "Prática de actividades de luxo", "status": false }
+                {
+                    "res": "Foco na preservação do meio ambiente",
+                    "status": true
+                },
+                {
+                    "res": "Visita a grandes cidades",
+                    "status": false
+                },
+                {
+                    "res": "Participação em eventos culturais",
+                    "status": false
+                },
+                {
+                    "res": "Prática de actividades de luxo",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal objectivo do turismo de aventura?",
             "respostas": [
-              { "res": "Praticar actividades radicais e desafiadoras", "status": true },
-              { "res": "Conhecer museus e monumentos", "status": false },
-              { "res": "Relaxar em praias", "status": false },
-              { "res": "Participar em conferências", "status": false }
+                {
+                    "res": "Praticar actividades radicais e desafiadoras",
+                    "status": true
+                },
+                {
+                    "res": "Conhecer museus e monumentos",
+                    "status": false
+                },
+                {
+                    "res": "Relaxar em praias",
+                    "status": false
+                },
+                {
+                    "res": "Participar em conferências",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é um impacto negativo do turismo?",
             "respostas": [
-              { "res": "Degradação de ecossistemas", "status": true },
-              { "res": "Aumento da poluição sonora", "status": false },
-              { "res": "Redução da biodiversidade", "status": false },
-              { "res": "Desertificação", "status": false }
+                {
+                    "res": "Degradação de ecossistemas",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da poluição sonora",
+                    "status": false
+                },
+                {
+                    "res": "Redução da biodiversidade",
+                    "status": false
+                },
+                {
+                    "res": "Desertificação",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal recurso turístico de Moçambique?",
             "respostas": [
-              { "res": "Praias e ilhas", "status": true },
-              { "res": "Montanhas e vales", "status": false },
-              { "res": "Florestas tropicais", "status": false },
-              { "res": "Cidades históricas", "status": false }
+                {
+                    "res": "Praias e ilhas",
+                    "status": true
+                },
+                {
+                    "res": "Montanhas e vales",
+                    "status": false
+                },
+                {
+                    "res": "Florestas tropicais",
+                    "status": false
+                },
+                {
+                    "res": "Cidades históricas",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é um dos principais desafios do turismo em Moçambique?",
             "respostas": [
-              { "res": "Falta de infraestruturas adequadas", "status": true },
-              { "res": "Excesso de turistas", "status": false },
-              { "res": "Poluição das praias", "status": false },
-              { "res": "Falta de recursos naturais", "status": false }
+                {
+                    "res": "Falta de infraestruturas adequadas",
+                    "status": true
+                },
+                {
+                    "res": "Excesso de turistas",
+                    "status": false
+                },
+                {
+                    "res": "Poluição das praias",
+                    "status": false
+                },
+                {
+                    "res": "Falta de recursos naturais",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é necessário para promover o turismo sustentável em Moçambique?",
             "respostas": [
-              { "res": "Investimento em infraestruturas e educação ambiental", "status": true },
-              { "res": "Exploração massiva de recursos naturais", "status": false },
-              { "res": "Construção de grandes hotéis", "status": false },
-              { "res": "Restrição ao acesso de turistas", "status": false }
+                {
+                    "res": "Investimento em infraestruturas e educação ambiental",
+                    "status": true
+                },
+                {
+                    "res": "Exploração massiva de recursos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Construção de grandes hotéis",
+                    "status": false
+                },
+                {
+                    "res": "Restrição ao acesso de turistas",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é ecoturismo?",
             "respostas": [
-              { "res": "Turismo focado na natureza e sua conservação", "status": true },
-              { "res": "Turismo de luxo em resorts", "status": false },
-              { "res": "Turismo cultural em cidades históricas", "status": false },
-              { "res": "Turismo de negócios", "status": false }
+                {
+                    "res": "Turismo focado na natureza e sua conservação",
+                    "status": true
+                },
+                {
+                    "res": "Turismo de luxo em resorts",
+                    "status": false
+                },
+                {
+                    "res": "Turismo cultural em cidades históricas",
+                    "status": false
+                },
+                {
+                    "res": "Turismo de negócios",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal atractivo turístico das Ilhas do Bazaruto?",
             "respostas": [
-              { "res": "Praias e biodiversidade marinha", "status": true },
-              { "res": "Montanhas e trilhos", "status": false },
-              { "res": "Florestas tropicais", "status": false },
-              { "res": "Cidades históricas", "status": false }
+                {
+                    "res": "Praias e biodiversidade marinha",
+                    "status": true
+                },
+                {
+                    "res": "Montanhas e trilhos",
+                    "status": false
+                },
+                {
+                    "res": "Florestas tropicais",
+                    "status": false
+                },
+                {
+                    "res": "Cidades históricas",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é um dos impactos positivos do turismo em Moçambique?",
             "respostas": [
-              { "res": "Diversificação da economia", "status": true },
-              { "res": "Aumento da poluição", "status": false },
-              { "res": "Desvalorização da cultura local", "status": false },
-              { "res": "Redução da biodiversidade", "status": false }
+                {
+                    "res": "Diversificação da economia",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da poluição",
+                    "status": false
+                },
+                {
+                    "res": "Desvalorização da cultura local",
+                    "status": false
+                },
+                {
+                    "res": "Redução da biodiversidade",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "O que é necessário para atrair mais turistas para Moçambique?",
             "respostas": [
-              { "res": "Melhorar infraestruturas e promover o país", "status": true },
-              { "res": "Explorar recursos naturais de forma intensiva", "status": false },
-              { "res": "Restringir o acesso a áreas naturais", "status": false },
-              { "res": "Ignorar a cultura local", "status": false }
+                {
+                    "res": "Melhorar infraestruturas e promover o país",
+                    "status": true
+                },
+                {
+                    "res": "Explorar recursos naturais de forma intensiva",
+                    "status": false
+                },
+                {
+                    "res": "Restringir o acesso a áreas naturais",
+                    "status": false
+                },
+                {
+                    "res": "Ignorar a cultura local",
+                    "status": false
+                }
             ]
-          },
-          {
+        },
+        {
             "questao": "Qual é o principal desafio ambiental do turismo em Moçambique?",
             "respostas": [
-              { "res": "Degradação de ecossistemas costeiros", "status": true },
-              { "res": "Aumento da poluição sonora", "status": false },
-              { "res": "Redução da biodiversidade", "status": false },
-              { "res": "Desertificação", "status": false }
+                {
+                    "res": "Degradação de ecossistemas costeiros",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da poluição sonora",
+                    "status": false
+                },
+                {
+                    "res": "Redução da biodiversidade",
+                    "status": false
+                },
+                {
+                    "res": "Desertificação",
+                    "status": false
+                }
             ]
-          }
-      ],
-    "dificult": []
+        }
+    ],
+    "dificult": [
+        {
+            "questao": "O que é o Círculo de Fogo do Pacífico?",
+            "respostas": [
+                {
+                    "res": "Área com intensa atividade vulcânica e sísmica",
+                    "status": true
+                },
+                {
+                    "res": "Região com maior biodiversidade do mundo",
+                    "status": false
+                },
+                {
+                    "res": "Zona de correntes oceânicas quentes",
+                    "status": false
+                },
+                {
+                    "res": "Local de formação de furacões",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal função da atmosfera?",
+            "respostas": [
+                {
+                    "res": "Proteger a Terra de radiações solares",
+                    "status": true
+                },
+                {
+                    "res": "Controlar o movimento das placas tectônicas",
+                    "status": false
+                },
+                {
+                    "res": "Regular a salinidade dos oceanos",
+                    "status": false
+                },
+                {
+                    "res": "Formar montanhas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o efeito estufa?",
+            "respostas": [
+                {
+                    "res": "Retenção de calor na atmosfera terrestre",
+                    "status": true
+                },
+                {
+                    "res": "Formação de nuvens",
+                    "status": false
+                },
+                {
+                    "res": "Reflexão da luz solar",
+                    "status": false
+                },
+                {
+                    "res": "Derretimento das geleiras",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal causa do aquecimento global?",
+            "respostas": [
+                {
+                    "res": "Emissão de gases do efeito estufa",
+                    "status": true
+                },
+                {
+                    "res": "Deforestação",
+                    "status": false
+                },
+                {
+                    "res": "Variações naturais do clima",
+                    "status": false
+                },
+                {
+                    "res": "Aumento da atividade solar",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um ecossistema?",
+            "respostas": [
+                {
+                    "res": "Conjunto de seres vivos e o ambiente onde vivem",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de rocha sedimentar",
+                    "status": false
+                },
+                {
+                    "res": "Camada mais externa da Terra",
+                    "status": false
+                },
+                {
+                    "res": "Fenômeno climático",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior bioma terrestre?",
+            "respostas": [
+                {
+                    "res": "Floresta Amazônica",
+                    "status": true
+                },
+                {
+                    "res": "Deserto do Saara",
+                    "status": false
+                },
+                {
+                    "res": "Tundra Siberiana",
+                    "status": false
+                },
+                {
+                    "res": "Savana Africana",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a camada de ozônio?",
+            "respostas": [
+                {
+                    "res": "Camada que protege a Terra dos raios UV",
+                    "status": true
+                },
+                {
+                    "res": "Camada mais interna da Terra",
+                    "status": false
+                },
+                {
+                    "res": "Região com alta concentração de CO2",
+                    "status": false
+                },
+                {
+                    "res": "Parte da atmosfera que regula a chuva",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal causa do buraco na camada de ozônio?",
+            "respostas": [
+                {
+                    "res": "Emissão de CFCs",
+                    "status": true
+                },
+                {
+                    "res": "Queima de combustíveis fósseis",
+                    "status": false
+                },
+                {
+                    "res": "Deforestação",
+                    "status": false
+                },
+                {
+                    "res": "Aumento da temperatura global",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior país em extensão territorial da América?",
+            "respostas": [
+                {
+                    "res": "Canadá",
+                    "status": true
+                },
+                {
+                    "res": "Estados Unidos",
+                    "status": false
+                },
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal rio da África, considerado o mais longo do mundo?",
+            "respostas": [
+                {
+                    "res": "Rio Nilo",
+                    "status": true
+                },
+                {
+                    "res": "Rio Congo",
+                    "status": false
+                },
+                {
+                    "res": "Rio Zambeze",
+                    "status": false
+                },
+                {
+                    "res": "Rio Níger",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o país mais populoso da Ásia?",
+            "respostas": [
+                {
+                    "res": "China",
+                    "status": true
+                },
+                {
+                    "res": "Índia",
+                    "status": false
+                },
+                {
+                    "res": "Japão",
+                    "status": false
+                },
+                {
+                    "res": "Indonésia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica física da Europa Ocidental?",
+            "respostas": [
+                {
+                    "res": "Planícies extensas e férteis",
+                    "status": true
+                },
+                {
+                    "res": "Desertos áridos",
+                    "status": false
+                },
+                {
+                    "res": "Florestas tropicais",
+                    "status": false
+                },
+                {
+                    "res": "Cadeias montanhosas elevadas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior país da Oceania em extensão territorial?",
+            "respostas": [
+                {
+                    "res": "Austrália",
+                    "status": true
+                },
+                {
+                    "res": "Nova Zelândia",
+                    "status": false
+                },
+                {
+                    "res": "Papua-Nova Guiné",
+                    "status": false
+                },
+                {
+                    "res": "Fiji",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal conflito geopolítico no Oriente Médio?",
+            "respostas": [
+                {
+                    "res": "Conflito entre Israel e Palestina",
+                    "status": true
+                },
+                {
+                    "res": "Guerra na Síria",
+                    "status": false
+                },
+                {
+                    "res": "Tensão entre Índia e Paquistão",
+                    "status": false
+                },
+                {
+                    "res": "Crise na Venezuela",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal atividade econômica da região do Sahel, na África?",
+            "respostas": [
+                {
+                    "res": "Agricultura de subsistência",
+                    "status": true
+                },
+                {
+                    "res": "Exploração de petróleo",
+                    "status": false
+                },
+                {
+                    "res": "Turismo de luxo",
+                    "status": false
+                },
+                {
+                    "res": "Indústria tecnológica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal recurso natural explorado na Sibéria, Rússia?",
+            "respostas": [
+                {
+                    "res": "Petróleo e gás natural",
+                    "status": true
+                },
+                {
+                    "res": "Ouro e diamantes",
+                    "status": false
+                },
+                {
+                    "res": "Carvão mineral",
+                    "status": false
+                },
+                {
+                    "res": "Madeira",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal desafio territorial da Antártida?",
+            "respostas": [
+                {
+                    "res": "Reivindicações de soberania por vários países",
+                    "status": true
+                },
+                {
+                    "res": "Exploração excessiva de recursos",
+                    "status": false
+                },
+                {
+                    "res": "Desertificação",
+                    "status": false
+                },
+                {
+                    "res": "Superpopulação",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica econômica da União Europeia?",
+            "respostas": [
+                {
+                    "res": "Integração econômica e uso do euro",
+                    "status": true
+                },
+                {
+                    "res": "Dependência da agricultura tradicional",
+                    "status": false
+                },
+                {
+                    "res": "Exportação de petróleo",
+                    "status": false
+                },
+                {
+                    "res": "Economia baseada no turismo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a camada mais externa da Terra?",
+            "respostas": [
+                {
+                    "res": "Crosta",
+                    "status": true
+                },
+                {
+                    "res": "Manto",
+                    "status": false
+                },
+                {
+                    "res": "Núcleo",
+                    "status": false
+                },
+                {
+                    "res": "Atmosfera",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que forma o núcleo da Terra?",
+            "respostas": [
+                {
+                    "res": "Ferro e níquel",
+                    "status": true
+                },
+                {
+                    "res": "Rochas sedimentares",
+                    "status": false
+                },
+                {
+                    "res": "Magma",
+                    "status": false
+                },
+                {
+                    "res": "Água",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são placas tectônicas?",
+            "respostas": [
+                {
+                    "res": "Blocos da crosta terrestre",
+                    "status": true
+                },
+                {
+                    "res": "Camadas de gelo",
+                    "status": false
+                },
+                {
+                    "res": "Estruturas vulcânicas",
+                    "status": false
+                },
+                {
+                    "res": "Formações de nuvens",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que causa os terremotos?",
+            "respostas": [
+                {
+                    "res": "Movimento das placas tectônicas",
+                    "status": true
+                },
+                {
+                    "res": "Erupções vulcânicas",
+                    "status": false
+                },
+                {
+                    "res": "Variações climáticas",
+                    "status": false
+                },
+                {
+                    "res": "Deforestação",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o epicentro de um terremoto?",
+            "respostas": [
+                {
+                    "res": "Ponto na superfície acima do foco",
+                    "status": true
+                },
+                {
+                    "res": "Centro do vulcão",
+                    "status": false
+                },
+                {
+                    "res": "Fundo do oceano",
+                    "status": false
+                },
+                {
+                    "res": "Parte mais profunda da Terra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é vulcanismo?",
+            "respostas": [
+                {
+                    "res": "Liberação de magma",
+                    "status": true
+                },
+                {
+                    "res": "Formação de montanhas",
+                    "status": false
+                },
+                {
+                    "res": "Erosão do solo",
+                    "status": false
+                },
+                {
+                    "res": "Acúmulo de sedimentos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o Círculo de Fogo do Pacífico?",
+            "respostas": [
+                {
+                    "res": "Área com vulcões e terremotos",
+                    "status": true
+                },
+                {
+                    "res": "Região de desertos",
+                    "status": false
+                },
+                {
+                    "res": "Zona de furacões",
+                    "status": false
+                },
+                {
+                    "res": "Local de geleiras",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma dorsal meso-oceânica?",
+            "respostas": [
+                {
+                    "res": "Cadeia de montanhas submarinas",
+                    "status": true
+                },
+                {
+                    "res": "Fossa oceânica",
+                    "status": false
+                },
+                {
+                    "res": "Vulcão inativo",
+                    "status": false
+                },
+                {
+                    "res": "Área de corais",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma falha geológica?",
+            "respostas": [
+                {
+                    "res": "Fratura na crosta terrestre",
+                    "status": true
+                },
+                {
+                    "res": "Estrutura vulcânica",
+                    "status": false
+                },
+                {
+                    "res": "Depressão oceânica",
+                    "status": false
+                },
+                {
+                    "res": "Formação de dunas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o núcleo interno da Terra?",
+            "respostas": [
+                {
+                    "res": "Camada sólida de ferro e níquel",
+                    "status": true
+                },
+                {
+                    "res": "Camada líquida",
+                    "status": false
+                },
+                {
+                    "res": "Parte externa da crosta",
+                    "status": false
+                },
+                {
+                    "res": "Região de terremotos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a teoria da deriva continental?",
+            "respostas": [
+                {
+                    "res": "Movimento dos continentes",
+                    "status": true
+                },
+                {
+                    "res": "Formação de vulcões",
+                    "status": false
+                },
+                {
+                    "res": "Expansão dos oceanos",
+                    "status": false
+                },
+                {
+                    "res": "Teoria do núcleo terrestre",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o manto terrestre?",
+            "respostas": [
+                {
+                    "res": "Camada abaixo da crosta",
+                    "status": true
+                },
+                {
+                    "res": "Parte mais externa da Terra",
+                    "status": false
+                },
+                {
+                    "res": "Centro da Terra",
+                    "status": false
+                },
+                {
+                    "res": "Região de geleiras",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um limite convergente de placas?",
+            "respostas": [
+                {
+                    "res": "Placas que se chocam",
+                    "status": true
+                },
+                {
+                    "res": "Placas que se separam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que deslizam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que giram",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um limite divergente de placas?",
+            "respostas": [
+                {
+                    "res": "Placas que se afastam",
+                    "status": true
+                },
+                {
+                    "res": "Placas que se chocam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que deslizam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que giram",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um limite transformante de placas?",
+            "respostas": [
+                {
+                    "res": "Placas que deslizam lateralmente",
+                    "status": true
+                },
+                {
+                    "res": "Placas que se chocam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que se afastam",
+                    "status": false
+                },
+                {
+                    "res": "Placas que giram",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como a Geografia se relaciona com a História?",
+            "respostas": [
+                {
+                    "res": "Estuda a ocupação do espaço no tempo",
+                    "status": true
+                },
+                {
+                    "res": "Analisa apenas eventos políticos",
+                    "status": false
+                },
+                {
+                    "res": "Foca em biografias",
+                    "status": false
+                },
+                {
+                    "res": "Ignora transformações espaciais",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a relação entre Geografia e Economia?",
+            "respostas": [
+                {
+                    "res": "Distribuição de recursos e atividades",
+                    "status": true
+                },
+                {
+                    "res": "Análise de dados financeiros",
+                    "status": false
+                },
+                {
+                    "res": "Foco em teorias matemáticas",
+                    "status": false
+                },
+                {
+                    "res": "Desconsidera o espaço",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como a Geografia se conecta com a Biologia?",
+            "respostas": [
+                {
+                    "res": "Estuda ecossistemas e biodiversidade",
+                    "status": true
+                },
+                {
+                    "res": "Analisa apenas células",
+                    "status": false
+                },
+                {
+                    "res": "Foca em genética",
+                    "status": false
+                },
+                {
+                    "res": "Ignora o ambiente",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de interdisciplinaridade entre Geografia e História?",
+            "respostas": [
+                {
+                    "res": "Análise de rotas comerciais antigas",
+                    "status": true
+                },
+                {
+                    "res": "Estudo de moléculas",
+                    "status": false
+                },
+                {
+                    "res": "Análise de mercados financeiros",
+                    "status": false
+                },
+                {
+                    "res": "Foco em células-tronco",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como a Geografia ajuda a entender problemas ambientais?",
+            "respostas": [
+                {
+                    "res": "Analisa impactos no espaço",
+                    "status": true
+                },
+                {
+                    "res": "Foca apenas em dados econômicos",
+                    "status": false
+                },
+                {
+                    "res": "Ignora o clima",
+                    "status": false
+                },
+                {
+                    "res": "Desconsidera a sociedade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um caso real que envolve Geografia e Economia?",
+            "respostas": [
+                {
+                    "res": "Exploração de recursos minerais",
+                    "status": true
+                },
+                {
+                    "res": "Estudo de células humanas",
+                    "status": false
+                },
+                {
+                    "res": "Análise de pinturas rupestres",
+                    "status": false
+                },
+                {
+                    "res": "Foco em genética",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como a Geografia contribui para a Biologia?",
+            "respostas": [
+                {
+                    "res": "Estuda habitats e biodiversidade",
+                    "status": true
+                },
+                {
+                    "res": "Analisa apenas células",
+                    "status": false
+                },
+                {
+                    "res": "Foca em teorias econômicas",
+                    "status": false
+                },
+                {
+                    "res": "Ignora o ambiente",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de interdisciplinaridade entre Geografia e Biologia?",
+            "respostas": [
+                {
+                    "res": "Análise de biomas",
+                    "status": true
+                },
+                {
+                    "res": "Estudo de mercados financeiros",
+                    "status": false
+                },
+                {
+                    "res": "Análise de pinturas históricas",
+                    "status": false
+                },
+                {
+                    "res": "Foco em células-tronco",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como a Geografia se relaciona com questões sociais?",
+            "respostas": [
+                {
+                    "res": "Estuda distribuição populacional",
+                    "status": true
+                },
+                {
+                    "res": "Analisa apenas rochas",
+                    "status": false
+                },
+                {
+                    "res": "Foca em teorias matemáticas",
+                    "status": false
+                },
+                {
+                    "res": "Ignora a sociedade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um caso real que envolve Geografia e História?",
+            "respostas": [
+                {
+                    "res": "Formação de fronteiras",
+                    "status": true
+                },
+                {
+                    "res": "Análise de células",
+                    "status": false
+                },
+                {
+                    "res": "Estudo de mercados",
+                    "status": false
+                },
+                {
+                    "res": "Foco em genética",
+                    "status": false
+                }
+            ]
+        }
+    ]
 }
