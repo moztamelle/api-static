@@ -4,6 +4,10 @@
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biblia.json"
   },
   {
+    "nome": "Biologia",
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biologia.json"
+  },
+  {
     "nome": "Fisíca",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/fisica.json"
   },

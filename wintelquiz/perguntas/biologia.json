@@ -1,0 +1,3053 @@
+{
+    "easy": [
+        {
+            "questao": "O que é Biologia?",
+            "respostas": [
+                {
+                    "res": "Ciência que estuda a vida.",
+                    "status": true
+                },
+                {
+                    "res": "Ciência que estuda rochas.",
+                    "status": false
+                },
+                {
+                    "res": "Ciência que estuda o espaço.",
+                    "status": false
+                },
+                {
+                    "res": "Ciência que estuda átomos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual ramo da Biologia estuda os animais?",
+            "respostas": [
+                {
+                    "res": "Zoologia.",
+                    "status": true
+                },
+                {
+                    "res": "Botânica.",
+                    "status": false
+                },
+                {
+                    "res": "Ecologia.",
+                    "status": false
+                },
+                {
+                    "res": "Genética.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual ramo da Biologia estuda as plantas?",
+            "respostas": [
+                {
+                    "res": "Botânica.",
+                    "status": true
+                },
+                {
+                    "res": "Zoologia.",
+                    "status": false
+                },
+                {
+                    "res": "Microbiologia.",
+                    "status": false
+                },
+                {
+                    "res": "Ecologia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a Ecologia estuda?",
+            "respostas": [
+                {
+                    "res": "Relações entre seres vivos e o meio.",
+                    "status": true
+                },
+                {
+                    "res": "Estrutura das células.",
+                    "status": false
+                },
+                {
+                    "res": "Hereditariedade.",
+                    "status": false
+                },
+                {
+                    "res": "Comportamento animal.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a Genética estuda?",
+            "respostas": [
+                {
+                    "res": "Hereditariedade.",
+                    "status": true
+                },
+                {
+                    "res": "Estrutura das plantas.",
+                    "status": false
+                },
+                {
+                    "res": "Comportamento humano.",
+                    "status": false
+                },
+                {
+                    "res": "Ecossistemas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o objetivo do método científico?",
+            "respostas": [
+                {
+                    "res": "Investigar fenômenos de forma sistemática.",
+                    "status": true
+                },
+                {
+                    "res": "Criar novas espécies.",
+                    "status": false
+                },
+                {
+                    "res": "Estudar apenas o espaço.",
+                    "status": false
+                },
+                {
+                    "res": "Ignorar evidências.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a primeira etapa do método científico?",
+            "respostas": [
+                {
+                    "res": "Observação.",
+                    "status": true
+                },
+                {
+                    "res": "Experimento.",
+                    "status": false
+                },
+                {
+                    "res": "Conclusão.",
+                    "status": false
+                },
+                {
+                    "res": "Hipótese.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma hipótese no método científico?",
+            "respostas": [
+                {
+                    "res": "Explicação provisória.",
+                    "status": true
+                },
+                {
+                    "res": "Resultado final.",
+                    "status": false
+                },
+                {
+                    "res": "Experimento.",
+                    "status": false
+                },
+                {
+                    "res": "Observação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual ramo da Biologia estuda microrganismos?",
+            "respostas": [
+                {
+                    "res": "Microbiologia.",
+                    "status": true
+                },
+                {
+                    "res": "Zoologia.",
+                    "status": false
+                },
+                {
+                    "res": "Botânica.",
+                    "status": false
+                },
+                {
+                    "res": "Ecologia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a Fisiologia estuda?",
+            "respostas": [
+                {
+                    "res": "Funções dos organismos.",
+                    "status": true
+                },
+                {
+                    "res": "Estrutura das células.",
+                    "status": false
+                },
+                {
+                    "res": "Comportamento animal.",
+                    "status": false
+                },
+                {
+                    "res": "Ecossistemas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual ramo da Biologia estuda a classificação dos seres vivos?",
+            "respostas": [
+                {
+                    "res": "Taxonomia.",
+                    "status": true
+                },
+                {
+                    "res": "Genética.",
+                    "status": false
+                },
+                {
+                    "res": "Ecologia.",
+                    "status": false
+                },
+                {
+                    "res": "Fisiologia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a Anatomia estuda?",
+            "respostas": [
+                {
+                    "res": "Estrutura dos organismos.",
+                    "status": true
+                },
+                {
+                    "res": "Funções dos organismos.",
+                    "status": false
+                },
+                {
+                    "res": "Comportamento animal.",
+                    "status": false
+                },
+                {
+                    "res": "Ecossistemas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a importância da Biologia?",
+            "respostas": [
+                {
+                    "res": "Entender a vida e os seres vivos.",
+                    "status": true
+                },
+                {
+                    "res": "Estudar apenas rochas.",
+                    "status": false
+                },
+                {
+                    "res": "Ignorar o meio ambiente.",
+                    "status": false
+                },
+                {
+                    "res": "Criar novas tecnologias.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um experimento no método científico?",
+            "respostas": [
+                {
+                    "res": "Teste para validar uma hipótese.",
+                    "status": true
+                },
+                {
+                    "res": "Observação inicial.",
+                    "status": false
+                },
+                {
+                    "res": "Conclusão final.",
+                    "status": false
+                },
+                {
+                    "res": "Teoria comprovada.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma teoria científica?",
+            "respostas": [
+                {
+                    "res": "Explicação comprovada por evidências.",
+                    "status": true
+                },
+                {
+                    "res": "Suposição sem base.",
+                    "status": false
+                },
+                {
+                    "res": "Experimento inicial.",
+                    "status": false
+                },
+                {
+                    "res": "Observação casual.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade básica da vida?",
+            "respostas": [
+                {
+                    "res": "Célula.",
+                    "status": true
+                },
+                {
+                    "res": "Átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Molécula.",
+                    "status": false
+                },
+                {
+                    "res": "Órgão.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual tipo de célula não possui núcleo definido?",
+            "respostas": [
+                {
+                    "res": "Procariótica.",
+                    "status": true
+                },
+                {
+                    "res": "Eucariótica.",
+                    "status": false
+                },
+                {
+                    "res": "Animal.",
+                    "status": false
+                },
+                {
+                    "res": "Vegetal.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Onde se encontra o material genético em células eucarióticas?",
+            "respostas": [
+                {
+                    "res": "Núcleo.",
+                    "status": true
+                },
+                {
+                    "res": "Citoplasma.",
+                    "status": false
+                },
+                {
+                    "res": "Mitocôndria.",
+                    "status": false
+                },
+                {
+                    "res": "Cloroplasto.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual organela é responsável pela produção de energia na célula?",
+            "respostas": [
+                {
+                    "res": "Mitocôndria.",
+                    "status": true
+                },
+                {
+                    "res": "Núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Cloroplasto.",
+                    "status": false
+                },
+                {
+                    "res": "Ribossomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual organela é responsável pela fotossíntese?",
+            "respostas": [
+                {
+                    "res": "Cloroplasto.",
+                    "status": true
+                },
+                {
+                    "res": "Mitocôndria.",
+                    "status": false
+                },
+                {
+                    "res": "Núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Lisossomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal diferença entre células animais e vegetais?",
+            "respostas": [
+                {
+                    "res": "Células vegetais têm parede celular.",
+                    "status": true
+                },
+                {
+                    "res": "Células animais têm cloroplastos.",
+                    "status": false
+                },
+                {
+                    "res": "Células vegetais não têm núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Células animais têm vacúolos grandes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o citoplasma?",
+            "respostas": [
+                {
+                    "res": "Fluido onde estão as organelas.",
+                    "status": true
+                },
+                {
+                    "res": "Membrana da célula.",
+                    "status": false
+                },
+                {
+                    "res": "Material genético.",
+                    "status": false
+                },
+                {
+                    "res": "Organela produtora de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual organela é responsável pela síntese de proteínas?",
+            "respostas": [
+                {
+                    "res": "Ribossomo.",
+                    "status": true
+                },
+                {
+                    "res": "Mitocôndria.",
+                    "status": false
+                },
+                {
+                    "res": "Lisossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Complexo de Golgi.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a membrana plasmática faz?",
+            "respostas": [
+                {
+                    "res": "Controla a entrada e saída de substâncias.",
+                    "status": true
+                },
+                {
+                    "res": "Produz energia.",
+                    "status": false
+                },
+                {
+                    "res": "Sintetiza proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Armazena DNA.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual processo ocorre na mitocôndria?",
+            "respostas": [
+                {
+                    "res": "Respiração celular.",
+                    "status": true
+                },
+                {
+                    "res": "Fotossíntese.",
+                    "status": false
+                },
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão celular.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a fotossíntese?",
+            "respostas": [
+                {
+                    "res": "Produção de energia a partir da luz.",
+                    "status": true
+                },
+                {
+                    "res": "Quebra de glicose para energia.",
+                    "status": false
+                },
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Divisão celular.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual organela digere partículas na célula?",
+            "respostas": [
+                {
+                    "res": "Lisossomo.",
+                    "status": true
+                },
+                {
+                    "res": "Ribossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Mitocôndria.",
+                    "status": false
+                },
+                {
+                    "res": "Cloroplasto.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a divisão celular?",
+            "respostas": [
+                {
+                    "res": "Processo de multiplicação das células.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de energia.",
+                    "status": false
+                },
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de partículas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do núcleo celular?",
+            "respostas": [
+                {
+                    "res": "Armazenar o material genético.",
+                    "status": true
+                },
+                {
+                    "res": "Produzir energia.",
+                    "status": false
+                },
+                {
+                    "res": "Sintetizar proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Realizar fotossíntese.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é respiração celular?",
+            "respostas": [
+                {
+                    "res": "Processo de produção de energia.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de glicose.",
+                    "status": false
+                },
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Divisão celular.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual tecido reveste a superfície do corpo e órgãos?",
+            "respostas": [
+                {
+                    "res": "Tecido epitelial.",
+                    "status": true
+                },
+                {
+                    "res": "Tecido conjuntivo.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido muscular.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido nervoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual tecido é responsável pelo movimento do corpo?",
+            "respostas": [
+                {
+                    "res": "Tecido muscular.",
+                    "status": true
+                },
+                {
+                    "res": "Tecido nervoso.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido epitelial.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido conjuntivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual tecido transmite impulsos nervosos?",
+            "respostas": [
+                {
+                    "res": "Tecido nervoso.",
+                    "status": true
+                },
+                {
+                    "res": "Tecido muscular.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido epitelial.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido conjuntivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual tecido fornece suporte e conecta outros tecidos?",
+            "respostas": [
+                {
+                    "res": "Tecido conjuntivo.",
+                    "status": true
+                },
+                {
+                    "res": "Tecido nervoso.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido muscular.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido epitelial.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema é responsável pela digestão dos alimentos?",
+            "respostas": [
+                {
+                    "res": "Sistema digestivo.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema respiratório.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema circulatório.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema nervoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema é responsável pela troca de gases?",
+            "respostas": [
+                {
+                    "res": "Sistema respiratório.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema circulatório.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema excretor.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema transporta nutrientes e oxigênio pelo corpo?",
+            "respostas": [
+                {
+                    "res": "Sistema circulatório.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema nervoso.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema respiratório.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema elimina resíduos do corpo?",
+            "respostas": [
+                {
+                    "res": "Sistema excretor.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema respiratório.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema nervoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema controla as atividades do corpo?",
+            "respostas": [
+                {
+                    "res": "Sistema nervoso.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema circulatório.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema muscular.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual órgão é responsável por bombear o sangue?",
+            "respostas": [
+                {
+                    "res": "Coração.",
+                    "status": true
+                },
+                {
+                    "res": "Pulmão.",
+                    "status": false
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Rim.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual órgão é responsável pela filtragem do sangue?",
+            "respostas": [
+                {
+                    "res": "Rim.",
+                    "status": true
+                },
+                {
+                    "res": "Pulmão.",
+                    "status": false
+                },
+                {
+                    "res": "Coração.",
+                    "status": false
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual órgão é responsável pela absorção de nutrientes?",
+            "respostas": [
+                {
+                    "res": "Intestino delgado.",
+                    "status": true
+                },
+                {
+                    "res": "Estômago.",
+                    "status": false
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Pulmão.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema é responsável pela produção de hormônios?",
+            "respostas": [
+                {
+                    "res": "Sistema endócrino.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema nervoso.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema circulatório.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual sistema é responsável pela defesa do corpo?",
+            "respostas": [
+                {
+                    "res": "Sistema imunológico.",
+                    "status": true
+                },
+                {
+                    "res": "Sistema nervoso.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema digestivo.",
+                    "status": false
+                },
+                {
+                    "res": "Sistema respiratório.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Como os sistemas do corpo trabalham juntos?",
+            "respostas": [
+                {
+                    "res": "De forma integrada.",
+                    "status": true
+                },
+                {
+                    "res": "De forma isolada.",
+                    "status": false
+                },
+                {
+                    "res": "Apenas em situações de emergência.",
+                    "status": false
+                },
+                {
+                    "res": "Sem comunicação entre si.",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+            "questao": "O que é DNA?",
+            "respostas": [
+                {
+                    "res": "Molécula da hereditariedade.",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de proteína.",
+                    "status": false
+                },
+                {
+                    "res": "Organela celular.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do citoplasma.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são genes?",
+            "respostas": [
+                {
+                    "res": "Segmentos de DNA.",
+                    "status": true
+                },
+                {
+                    "res": "Tipos de células.",
+                    "status": false
+                },
+                {
+                    "res": "Organelas celulares.",
+                    "status": false
+                },
+                {
+                    "res": "Partes do núcleo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são cromossomos?",
+            "respostas": [
+                {
+                    "res": "Estruturas que contêm DNA.",
+                    "status": true
+                },
+                {
+                    "res": "Tipos de tecidos.",
+                    "status": false
+                },
+                {
+                    "res": "Organelas produtoras de energia.",
+                    "status": false
+                },
+                {
+                    "res": "Partes do citoplasma.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é considerado o pai da genética?",
+            "respostas": [
+                {
+                    "res": "Gregor Mendel.",
+                    "status": true
+                },
+                {
+                    "res": "Charles Darwin.",
+                    "status": false
+                },
+                {
+                    "res": "Louis Pasteur.",
+                    "status": false
+                },
+                {
+                    "res": "Albert Einstein.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a primeira lei de Mendel?",
+            "respostas": [
+                {
+                    "res": "Lei da segregação.",
+                    "status": true
+                },
+                {
+                    "res": "Lei da dominância.",
+                    "status": false
+                },
+                {
+                    "res": "Lei da independência.",
+                    "status": false
+                },
+                {
+                    "res": "Lei da mutação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são alelos?",
+            "respostas": [
+                {
+                    "res": "Versões de um gene.",
+                    "status": true
+                },
+                {
+                    "res": "Tipos de cromossomos.",
+                    "status": false
+                },
+                {
+                    "res": "Partes do DNA.",
+                    "status": false
+                },
+                {
+                    "res": "Organelas celulares.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um genótipo?",
+            "respostas": [
+                {
+                    "res": "Combinação de genes.",
+                    "status": true
+                },
+                {
+                    "res": "Característica visível.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de cromossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do DNA.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um fenótipo?",
+            "respostas": [
+                {
+                    "res": "Característica visível.",
+                    "status": true
+                },
+                {
+                    "res": "Combinação de genes.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de cromossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do DNA.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma mutação?",
+            "respostas": [
+                {
+                    "res": "Mudança no DNA.",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de gene.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do cromossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Organela celular.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um gene dominante?",
+            "respostas": [
+                {
+                    "res": "Gene que se expressa sempre.",
+                    "status": true
+                },
+                {
+                    "res": "Gene que não se expressa.",
+                    "status": false
+                },
+                {
+                    "res": "Gene mutante.",
+                    "status": false
+                },
+                {
+                    "res": "Gene recessivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um gene recessivo?",
+            "respostas": [
+                {
+                    "res": "Gene que só se expressa em homozigose.",
+                    "status": true
+                },
+                {
+                    "res": "Gene que se expressa sempre.",
+                    "status": false
+                },
+                {
+                    "res": "Gene mutante.",
+                    "status": false
+                },
+                {
+                    "res": "Gene dominante.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é homozigoto?",
+            "respostas": [
+                {
+                    "res": "Indivíduo com alelos iguais.",
+                    "status": true
+                },
+                {
+                    "res": "Indivíduo com alelos diferentes.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de mutação.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de cromossomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é heterozigoto?",
+            "respostas": [
+                {
+                    "res": "Indivíduo com alelos diferentes.",
+                    "status": true
+                },
+                {
+                    "res": "Indivíduo com alelos iguais.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de mutação.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de cromossomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um cariótipo?",
+            "respostas": [
+                {
+                    "res": "Conjunto de cromossomos de um indivíduo.",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de gene.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de mutação.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do DNA.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é herança genética?",
+            "respostas": [
+                {
+                    "res": "Transmissão de genes aos descendentes.",
+                    "status": true
+                },
+                {
+                    "res": "Mutação no DNA.",
+                    "status": false
+                },
+                {
+                    "res": "Formação de cromossomos.",
+                    "status": false
+                },
+                {
+                    "res": "Produção de proteínas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um cruzamento genético?",
+            "respostas": [
+                {
+                    "res": "Combinação de genes de dois indivíduos.",
+                    "status": true
+                },
+                {
+                    "res": "Mutação no DNA.",
+                    "status": false
+                },
+                {
+                    "res": "Formação de cromossomos.",
+                    "status": false
+                },
+                {
+                    "res": "Produção de proteínas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um pedigree?",
+            "respostas": [
+                {
+                    "res": "Mapa de herança genética.",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de cromossomo.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de mutação.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do DNA.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é reprodução assexuada?",
+            "respostas": [
+                {
+                    "res": "Reprodução sem gametas.",
+                    "status": true
+                },
+                {
+                    "res": "Reprodução com gametas.",
+                    "status": false
+                },
+                {
+                    "res": "Reprodução com dois pais.",
+                    "status": false
+                },
+                {
+                    "res": "Reprodução apenas em humanos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é reprodução sexuada?",
+            "respostas": [
+                {
+                    "res": "Reprodução com gametas.",
+                    "status": true
+                },
+                {
+                    "res": "Reprodução sem gametas.",
+                    "status": false
+                },
+                {
+                    "res": "Reprodução com um único progenitor.",
+                    "status": false
+                },
+                {
+                    "res": "Reprodução apenas em plantas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o gameta masculino humano?",
+            "respostas": [
+                {
+                    "res": "Espermatozoide.",
+                    "status": true
+                },
+                {
+                    "res": "Óvulo.",
+                    "status": false
+                },
+                {
+                    "res": "Zigoto.",
+                    "status": false
+                },
+                {
+                    "res": "Embrião.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o gameta feminino humano?",
+            "respostas": [
+                {
+                    "res": "Óvulo.",
+                    "status": true
+                },
+                {
+                    "res": "Espermatozoide.",
+                    "status": false
+                },
+                {
+                    "res": "Zigoto.",
+                    "status": false
+                },
+                {
+                    "res": "Embrião.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é fertilização?",
+            "respostas": [
+                {
+                    "res": "União do espermatozoide e óvulo.",
+                    "status": true
+                },
+                {
+                    "res": "Formação do embrião.",
+                    "status": false
+                },
+                {
+                    "res": "Divisão celular.",
+                    "status": false
+                },
+                {
+                    "res": "Desenvolvimento fetal.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um zigoto?",
+            "respostas": [
+                {
+                    "res": "Célula formada na fertilização.",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de gameta.",
+                    "status": false
+                },
+                {
+                    "res": "Estágio final do embrião.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do sistema reprodutor.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Onde ocorre a fertilização humana?",
+            "respostas": [
+                {
+                    "res": "Trompas de Falópio.",
+                    "status": true
+                },
+                {
+                    "res": "Útero.",
+                    "status": false
+                },
+                {
+                    "res": "Ovário.",
+                    "status": false
+                },
+                {
+                    "res": "Vagina.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o útero?",
+            "respostas": [
+                {
+                    "res": "Órgão onde o embrião se desenvolve.",
+                    "status": true
+                },
+                {
+                    "res": "Local da fertilização.",
+                    "status": false
+                },
+                {
+                    "res": "Produz espermatozoides.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do sistema digestivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a placenta?",
+            "respostas": [
+                {
+                    "res": "Órgão que nutre o feto.",
+                    "status": true
+                },
+                {
+                    "res": "Local da fertilização.",
+                    "status": false
+                },
+                {
+                    "res": "Produz gametas.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do sistema digestivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o cordão umbilical?",
+            "respostas": [
+                {
+                    "res": "Estrutura que liga feto à placenta.",
+                    "status": true
+                },
+                {
+                    "res": "Local da fertilização.",
+                    "status": false
+                },
+                {
+                    "res": "Produz gametas.",
+                    "status": false
+                },
+                {
+                    "res": "Parte do sistema digestivo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é embrião?",
+            "respostas": [
+                {
+                    "res": "Estágio inicial do desenvolvimento.",
+                    "status": true
+                },
+                {
+                    "res": "Célula reprodutiva.",
+                    "status": false
+                },
+                {
+                    "res": "Órgão reprodutor.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de gameta.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é feto?",
+            "respostas": [
+                {
+                    "res": "Estágio após o embrião.",
+                    "status": true
+                },
+                {
+                    "res": "Célula reprodutiva.",
+                    "status": false
+                },
+                {
+                    "res": "Órgão reprodutor.",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de gameta.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é gestação?",
+            "respostas": [
+                {
+                    "res": "Período de desenvolvimento do feto.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de gametas.",
+                    "status": false
+                },
+                {
+                    "res": "Fertilização do óvulo.",
+                    "status": false
+                },
+                {
+                    "res": "Divisão celular.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é parto?",
+            "respostas": [
+                {
+                    "res": "Nascimento do bebê.",
+                    "status": true
+                },
+                {
+                    "res": "Fertilização do óvulo.",
+                    "status": false
+                },
+                {
+                    "res": "Formação do zigoto.",
+                    "status": false
+                },
+                {
+                    "res": "Desenvolvimento do embrião.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é amamentação?",
+            "respostas": [
+                {
+                    "res": "Alimentação do bebê com leite materno.",
+                    "status": true
+                },
+                {
+                    "res": "Fertilização do óvulo.",
+                    "status": false
+                },
+                {
+                    "res": "Formação do zigoto.",
+                    "status": false
+                },
+                {
+                    "res": "Desenvolvimento do embrião.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quantos reinos biológicos existem?",
+            "respostas": [
+                {
+                    "res": "Cinco.",
+                    "status": true
+                },
+                {
+                    "res": "Três.",
+                    "status": false
+                },
+                {
+                    "res": "Sete.",
+                    "status": false
+                },
+                {
+                    "res": "Dez.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual reino inclui bactérias?",
+            "respostas": [
+                {
+                    "res": "Monera.",
+                    "status": true
+                },
+                {
+                    "res": "Protista.",
+                    "status": false
+                },
+                {
+                    "res": "Fungi.",
+                    "status": false
+                },
+                {
+                    "res": "Plantae.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual reino inclui algas e protozoários?",
+            "respostas": [
+                {
+                    "res": "Protista.",
+                    "status": true
+                },
+                {
+                    "res": "Monera.",
+                    "status": false
+                },
+                {
+                    "res": "Fungi.",
+                    "status": false
+                },
+                {
+                    "res": "Animalia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual reino inclui fungos?",
+            "respostas": [
+                {
+                    "res": "Fungi.",
+                    "status": true
+                },
+                {
+                    "res": "Protista.",
+                    "status": false
+                },
+                {
+                    "res": "Plantae.",
+                    "status": false
+                },
+                {
+                    "res": "Animalia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual reino inclui plantas?",
+            "respostas": [
+                {
+                    "res": "Plantae.",
+                    "status": true
+                },
+                {
+                    "res": "Fungi.",
+                    "status": false
+                },
+                {
+                    "res": "Protista.",
+                    "status": false
+                },
+                {
+                    "res": "Monera.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual reino inclui animais?",
+            "respostas": [
+                {
+                    "res": "Animalia.",
+                    "status": true
+                },
+                {
+                    "res": "Plantae.",
+                    "status": false
+                },
+                {
+                    "res": "Fungi.",
+                    "status": false
+                },
+                {
+                    "res": "Protista.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do reino Monera?",
+            "respostas": [
+                {
+                    "res": "Organismos unicelulares e procariontes.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos multicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos com núcleo definido.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos fotossintetizantes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do reino Protista?",
+            "respostas": [
+                {
+                    "res": "Organismos eucariontes e unicelulares.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos procariontes.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos multicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos sem núcleo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do reino Fungi?",
+            "respostas": [
+                {
+                    "res": "Organismos eucariontes e heterótrofos.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos fotossintetizantes.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos procariontes.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos unicelulares.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do reino Plantae?",
+            "respostas": [
+                {
+                    "res": "Organismos fotossintetizantes.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos heterótrofos.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos unicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos procariontes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal característica do reino Animalia?",
+            "respostas": [
+                {
+                    "res": "Organismos multicelulares e heterótrofos.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos fotossintetizantes.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos unicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos procariontes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são organismos procariontes?",
+            "respostas": [
+                {
+                    "res": "Organismos sem núcleo definido.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos com núcleo definido.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos multicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos fotossintetizantes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são organismos eucariontes?",
+            "respostas": [
+                {
+                    "res": "Organismos com núcleo definido.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos sem núcleo definido.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos unicelulares.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos procariontes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são organismos autótrofos?",
+            "respostas": [
+                {
+                    "res": "Organismos que produzem seu próprio alimento.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos que consomem outros seres.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos que decompõem matéria.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos sem núcleo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são organismos heterótrofos?",
+            "respostas": [
+                {
+                    "res": "Organismos que consomem outros seres.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos que produzem seu próprio alimento.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos que decompõem matéria.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos unicelulares.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são adaptações biológicas?",
+            "respostas": [
+                {
+                    "res": "Características que ajudam na sobrevivência.",
+                    "status": true
+                },
+                {
+                    "res": "Mudanças no DNA sem função.",
+                    "status": false
+                },
+                {
+                    "res": "Processos de reprodução.",
+                    "status": false
+                },
+                {
+                    "res": "Tipos de células.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de adaptação ao ambiente aquático?",
+            "respostas": [
+                {
+                    "res": "Nadadeiras em peixes.",
+                    "status": true
+                },
+                {
+                    "res": "Asas em pássaros.",
+                    "status": false
+                },
+                {
+                    "res": "Pelos em mamíferos.",
+                    "status": false
+                },
+                {
+                    "res": "Raízes em plantas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de adaptação ao ambiente terrestre?",
+            "respostas": [
+                {
+                    "res": "Pulmões em mamíferos.",
+                    "status": true
+                },
+                {
+                    "res": "Nadadeiras em peixes.",
+                    "status": false
+                },
+                {
+                    "res": "Branquias em peixes.",
+                    "status": false
+                },
+                {
+                    "res": "Tentáculos em polvos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de adaptação ao ambiente desértico?",
+            "respostas": [
+                {
+                    "res": "Armazenamento de água em cactos.",
+                    "status": true
+                },
+                {
+                    "res": "Nadadeiras em peixes.",
+                    "status": false
+                },
+                {
+                    "res": "Pulmões em mamíferos.",
+                    "status": false
+                },
+                {
+                    "res": "Asas em pássaros.",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "dificult": [
+        {
+            "questao": "Qual é a principal função das mitocôndrias?",
+            "respostas": [
+                {
+                    "res": "Produção de energia (ATP).",
+                    "status": true
+                },
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Armazenamento de DNA.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de resíduos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual molécula é conhecida como a 'moeda energética' da célula?",
+            "respostas": [
+                {
+                    "res": "ATP.",
+                    "status": true
+                },
+                {
+                    "res": "DNA.",
+                    "status": false
+                },
+                {
+                    "res": "Glicose.",
+                    "status": false
+                },
+                {
+                    "res": "Água.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o processo pelo qual as plantas convertem luz solar em energia química?",
+            "respostas": [
+                {
+                    "res": "Fotossíntese.",
+                    "status": true
+                },
+                {
+                    "res": "Respiração celular.",
+                    "status": false
+                },
+                {
+                    "res": "Fermentação.",
+                    "status": false
+                },
+                {
+                    "res": "Transpiração.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade básica da vida?",
+            "respostas": [
+                {
+                    "res": "Célula.",
+                    "status": true
+                },
+                {
+                    "res": "Átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Molécula.",
+                    "status": false
+                },
+                {
+                    "res": "Tecido.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o nome do processo de divisão celular que resulta em células filhas idênticas?",
+            "respostas": [
+                {
+                    "res": "Mitose.",
+                    "status": true
+                },
+                {
+                    "res": "Meiose.",
+                    "status": false
+                },
+                {
+                    "res": "Fotossíntese.",
+                    "status": false
+                },
+                {
+                    "res": "Replicação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função dos ribossomos na célula?",
+            "respostas": [
+                {
+                    "res": "Síntese de proteínas.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de energia.",
+                    "status": false
+                },
+                {
+                    "res": "Armazenamento de lipídios.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de resíduos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal gás liberado durante a fotossíntese?",
+            "respostas": [
+                {
+                    "res": "Oxigênio.",
+                    "status": true
+                },
+                {
+                    "res": "Dióxido de carbono.",
+                    "status": false
+                },
+                {
+                    "res": "Nitrogênio.",
+                    "status": false
+                },
+                {
+                    "res": "Hidrogênio.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o nome do cientista conhecido como o 'pai da genética'?",
+            "respostas": [
+                {
+                    "res": "Gregor Mendel.",
+                    "status": true
+                },
+                {
+                    "res": "Charles Darwin.",
+                    "status": false
+                },
+                {
+                    "res": "Louis Pasteur.",
+                    "status": false
+                },
+                {
+                    "res": "Isaac Newton.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do núcleo celular?",
+            "respostas": [
+                {
+                    "res": "Armazenar o DNA.",
+                    "status": true
+                },
+                {
+                    "res": "Produzir energia.",
+                    "status": false
+                },
+                {
+                    "res": "Sintetizar proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de nutrientes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o processo pelo qual as células obtêm energia na ausência de oxigênio?",
+            "respostas": [
+                {
+                    "res": "Fermentação.",
+                    "status": true
+                },
+                {
+                    "res": "Fotossíntese.",
+                    "status": false
+                },
+                {
+                    "res": "Respiração aeróbica.",
+                    "status": false
+                },
+                {
+                    "res": "Transpiração.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função dos cloroplastos nas células vegetais?",
+            "respostas": [
+                {
+                    "res": "Realizar a fotossíntese.",
+                    "status": true
+                },
+                {
+                    "res": "Armazenar água.",
+                    "status": false
+                },
+                {
+                    "res": "Produzir proteínas.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de resíduos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o nome do processo de divisão celular que produz gametas?",
+            "respostas": [
+                {
+                    "res": "Meiose.",
+                    "status": true
+                },
+                {
+                    "res": "Mitose.",
+                    "status": false
+                },
+                {
+                    "res": "Fotossíntese.",
+                    "status": false
+                },
+                {
+                    "res": "Replicação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do sistema circulatório?",
+            "respostas": [
+                {
+                    "res": "Transportar nutrientes e oxigênio.",
+                    "status": true
+                },
+                {
+                    "res": "Filtrar o sangue.",
+                    "status": false
+                },
+                {
+                    "res": "Produzir hormônios.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de alimentos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão do sistema respiratório humano?",
+            "respostas": [
+                {
+                    "res": "Pulmões.",
+                    "status": true
+                },
+                {
+                    "res": "Coração.",
+                    "status": false
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Rins.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do sistema nervoso?",
+            "respostas": [
+                {
+                    "res": "Transmitir sinais elétricos pelo corpo.",
+                    "status": true
+                },
+                {
+                    "res": "Produzir hormônios.",
+                    "status": false
+                },
+                {
+                    "res": "Transportar oxigênio.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de alimentos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão responsável pela absorção de nutrientes no sistema digestivo?",
+            "respostas": [
+                {
+                    "res": "Intestino delgado.",
+                    "status": true
+                },
+                {
+                    "res": "Estômago.",
+                    "status": false
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Esôfago.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual enzima é produzida no estômago e ajuda na digestão de proteínas?",
+            "respostas": [
+                {
+                    "res": "Pepsina.",
+                    "status": true
+                },
+                {
+                    "res": "Amilase.",
+                    "status": false
+                },
+                {
+                    "res": "Lipase.",
+                    "status": false
+                },
+                {
+                    "res": "Tripsina.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual órgão produz bile, que auxilia na digestão de gorduras?",
+            "respostas": [
+                {
+                    "res": "Fígado.",
+                    "status": true
+                },
+                {
+                    "res": "Pâncreas.",
+                    "status": false
+                },
+                {
+                    "res": "Estômago.",
+                    "status": false
+                },
+                {
+                    "res": "Intestino grosso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função principal do coração no sistema circulatório?",
+            "respostas": [
+                {
+                    "res": "Bombear sangue para todo o corpo.",
+                    "status": true
+                },
+                {
+                    "res": "Filtrar o sangue.",
+                    "status": false
+                },
+                {
+                    "res": "Produzir oxigênio.",
+                    "status": false
+                },
+                {
+                    "res": "Armazenar nutrientes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o nome dos vasos sanguíneos que transportam sangue rico em oxigênio do coração para o corpo?",
+            "respostas": [
+                {
+                    "res": "Artérias.",
+                    "status": true
+                },
+                {
+                    "res": "Veias.",
+                    "status": false
+                },
+                {
+                    "res": "Capilares.",
+                    "status": false
+                },
+                {
+                    "res": "Vênulas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o componente do sangue responsável pelo transporte de oxigênio?",
+            "respostas": [
+                {
+                    "res": "Hemácias (glóbulos vermelhos).",
+                    "status": true
+                },
+                {
+                    "res": "Leucócitos (glóbulos brancos).",
+                    "status": false
+                },
+                {
+                    "res": "Plaquetas.",
+                    "status": false
+                },
+                {
+                    "res": "Plasma.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão do sistema respiratório onde ocorre a troca gasosa?",
+            "respostas": [
+                {
+                    "res": "Pulmões.",
+                    "status": true
+                },
+                {
+                    "res": "Traqueia.",
+                    "status": false
+                },
+                {
+                    "res": "Diafragma.",
+                    "status": false
+                },
+                {
+                    "res": "Brônquios.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual gás é liberado pelo corpo durante a expiração?",
+            "respostas": [
+                {
+                    "res": "Dióxido de carbono.",
+                    "status": true
+                },
+                {
+                    "res": "Oxigênio.",
+                    "status": false
+                },
+                {
+                    "res": "Nitrogênio.",
+                    "status": false
+                },
+                {
+                    "res": "Hidrogênio.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual estrutura impede que alimentos entrem na traqueia durante a deglutição?",
+            "respostas": [
+                {
+                    "res": "Epiglote.",
+                    "status": true
+                },
+                {
+                    "res": "Laringe.",
+                    "status": false
+                },
+                {
+                    "res": "Esôfago.",
+                    "status": false
+                },
+                {
+                    "res": "Diafragma.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão do sistema excretor responsável pela filtração do sangue?",
+            "respostas": [
+                {
+                    "res": "Rins.",
+                    "status": true
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Bexiga.",
+                    "status": false
+                },
+                {
+                    "res": "Pulmões.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função dos néfrons nos rins?",
+            "respostas": [
+                {
+                    "res": "Filtrar o sangue e formar a urina.",
+                    "status": true
+                },
+                {
+                    "res": "Produzir bile.",
+                    "status": false
+                },
+                {
+                    "res": "Transportar oxigênio.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de proteínas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão do sistema nervoso central?",
+            "respostas": [
+                {
+                    "res": "Cérebro.",
+                    "status": true
+                },
+                {
+                    "res": "Medula espinhal.",
+                    "status": false
+                },
+                {
+                    "res": "Nervos periféricos.",
+                    "status": false
+                },
+                {
+                    "res": "Coração.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função dos neurônios?",
+            "respostas": [
+                {
+                    "res": "Transmitir impulsos nervosos.",
+                    "status": true
+                },
+                {
+                    "res": "Produzir hormônios.",
+                    "status": false
+                },
+                {
+                    "res": "Filtrar o sangue.",
+                    "status": false
+                },
+                {
+                    "res": "Transportar oxigênio.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual glândula é conhecida como a 'glândula mestra' do sistema endócrino?",
+            "respostas": [
+                {
+                    "res": "Hipófise (pituitária).",
+                    "status": true
+                },
+                {
+                    "res": "Tireoide.",
+                    "status": false
+                },
+                {
+                    "res": "Adrenal.",
+                    "status": false
+                },
+                {
+                    "res": "Pâncreas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual hormônio é responsável por regular o nível de glicose no sangue?",
+            "respostas": [
+                {
+                    "res": "Insulina.",
+                    "status": true
+                },
+                {
+                    "res": "Adrenalina.",
+                    "status": false
+                },
+                {
+                    "res": "Estrogênio.",
+                    "status": false
+                },
+                {
+                    "res": "Testosterona.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do sistema linfático?",
+            "respostas": [
+                {
+                    "res": "Defesa do organismo e transporte de líquidos.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de hormônios.",
+                    "status": false
+                },
+                {
+                    "res": "Filtração do sangue.",
+                    "status": false
+                },
+                {
+                    "res": "Digestão de alimentos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal órgão do sistema imunológico?",
+            "respostas": [
+                {
+                    "res": "Baço.",
+                    "status": true
+                },
+                {
+                    "res": "Fígado.",
+                    "status": false
+                },
+                {
+                    "res": "Pâncreas.",
+                    "status": false
+                },
+                {
+                    "res": "Rins.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função do pâncreas no sistema endócrino?",
+            "respostas": [
+                {
+                    "res": "Produzir insulina e glucagon.",
+                    "status": true
+                },
+                {
+                    "res": "Filtrar o sangue.",
+                    "status": false
+                },
+                {
+                    "res": "Produzir bile.",
+                    "status": false
+                },
+                {
+                    "res": "Transportar oxigênio.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o principal hormônio produzido pela tireoide?",
+            "respostas": [
+                {
+                    "res": "Tiroxina (T4).",
+                    "status": true
+                },
+                {
+                    "res": "Adrenalina.",
+                    "status": false
+                },
+                {
+                    "res": "Estrogênio.",
+                    "status": false
+                },
+                {
+                    "res": "Testosterona.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação da biotecnologia na medicina?",
+            "respostas": [
+                {
+                    "res": "Produção de insulina.",
+                    "status": true
+                },
+                {
+                    "res": "Cultivo de plantas.",
+                    "status": false
+                },
+                {
+                    "res": "Fabricação de plásticos.",
+                    "status": false
+                },
+                {
+                    "res": "Geração de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são organismos geneticamente modificados (OGMs)?",
+            "respostas": [
+                {
+                    "res": "Organismos com DNA alterado.",
+                    "status": true
+                },
+                {
+                    "res": "Organismos naturais.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos extintos.",
+                    "status": false
+                },
+                {
+                    "res": "Organismos microscópicos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de OGM na agricultura?",
+            "respostas": [
+                {
+                    "res": "Milho resistente a pragas.",
+                    "status": true
+                },
+                {
+                    "res": "Batata doce natural.",
+                    "status": false
+                },
+                {
+                    "res": "Arroz integral.",
+                    "status": false
+                },
+                {
+                    "res": "Feijão comum.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual técnica é usada para criar OGMs?",
+            "respostas": [
+                {
+                    "res": "Engenharia genética.",
+                    "status": true
+                },
+                {
+                    "res": "Fertilização in vitro.",
+                    "status": false
+                },
+                {
+                    "res": "Clonagem reprodutiva.",
+                    "status": false
+                },
+                {
+                    "res": "Seleção natural.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação da biotecnologia na indústria?",
+            "respostas": [
+                {
+                    "res": "Produção de biocombustíveis.",
+                    "status": true
+                },
+                {
+                    "res": "Criação de vacinas.",
+                    "status": false
+                },
+                {
+                    "res": "Melhoramento de sementes.",
+                    "status": false
+                },
+                {
+                    "res": "Diagnóstico de doenças.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de biotecnologia na agricultura?",
+            "respostas": [
+                {
+                    "res": "Plantas resistentes a herbicidas.",
+                    "status": true
+                },
+                {
+                    "res": "Produção de antibióticos.",
+                    "status": false
+                },
+                {
+                    "res": "Fabricação de plásticos.",
+                    "status": false
+                },
+                {
+                    "res": "Geração de eletricidade.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a biotecnologia pode produzir para tratar diabetes?",
+            "respostas": [
+                {
+                    "res": "Insulina humana.",
+                    "status": true
+                },
+                {
+                    "res": "Antibióticos.",
+                    "status": false
+                },
+                {
+                    "res": "Vacinas.",
+                    "status": false
+                },
+                {
+                    "res": "Fertilizantes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um benefício dos OGMs na agricultura?",
+            "respostas": [
+                {
+                    "res": "Aumento da produtividade.",
+                    "status": true
+                },
+                {
+                    "res": "Redução da biodiversidade.",
+                    "status": false
+                },
+                {
+                    "res": "Aumento do uso de agrotóxicos.",
+                    "status": false
+                },
+                {
+                    "res": "Dependência de sementes naturais.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é clonagem na biotecnologia?",
+            "respostas": [
+                {
+                    "res": "Criação de cópias genéticas.",
+                    "status": true
+                },
+                {
+                    "res": "Modificação de genes.",
+                    "status": false
+                },
+                {
+                    "res": "Produção de vacinas.",
+                    "status": false
+                },
+                {
+                    "res": "Cultivo de plantas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo de biotecnologia na medicina?",
+            "respostas": [
+                {
+                    "res": "Produção de vacinas.",
+                    "status": true
+                },
+                {
+                    "res": "Cultivo de transgênicos.",
+                    "status": false
+                },
+                {
+                    "res": "Fabricação de plásticos.",
+                    "status": false
+                },
+                {
+                    "res": "Geração de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é terapia gênica?",
+            "respostas": [
+                {
+                    "res": "Tratamento com genes.",
+                    "status": true
+                },
+                {
+                    "res": "Uso de plantas medicinais.",
+                    "status": false
+                },
+                {
+                    "res": "Produção de antibióticos.",
+                    "status": false
+                },
+                {
+                    "res": "Clonagem de animais.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um risco associado aos OGMs?",
+            "respostas": [
+                {
+                    "res": "Impacto na biodiversidade.",
+                    "status": true
+                },
+                {
+                    "res": "Aumento da produtividade.",
+                    "status": false
+                },
+                {
+                    "res": "Redução de custos.",
+                    "status": false
+                },
+                {
+                    "res": "Melhoria nutricional.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é DNA recombinante?",
+            "respostas": [
+                {
+                    "res": "DNA combinado de fontes diferentes.",
+                    "status": true
+                },
+                {
+                    "res": "DNA natural de organismos.",
+                    "status": false
+                },
+                {
+                    "res": "DNA de vírus.",
+                    "status": false
+                },
+                {
+                    "res": "DNA de fósseis.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação da biotecnologia na indústria alimentícia?",
+            "respostas": [
+                {
+                    "res": "Produção de queijos.",
+                    "status": true
+                },
+                {
+                    "res": "Criação de vacinas.",
+                    "status": false
+                },
+                {
+                    "res": "Fabricação de plásticos.",
+                    "status": false
+                },
+                {
+                    "res": "Geração de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um transgênico?",
+            "respostas": [
+                {
+                    "res": "Organismo com genes de outra espécie.",
+                    "status": true
+                },
+                {
+                    "res": "Organismo natural.",
+                    "status": false
+                },
+                {
+                    "res": "Organismo extinto.",
+                    "status": false
+                },
+                {
+                    "res": "Organismo microscópico.",
+                    "status": false
+                }
+            ]
+        }
+    ]
+}
