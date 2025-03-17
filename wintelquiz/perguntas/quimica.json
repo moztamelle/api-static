@@ -1,0 +1,2633 @@
+{
+    "easy": [
+        {
+            "questao": "Quais são os três estados físicos da matéria?",
+            "respostas": [
+                {
+                    "res": "Sólido, líquido e gasoso.",
+                    "status": true
+                },
+                {
+                    "res": "Líquido, plasma e gelo.",
+                    "status": false
+                },
+                {
+                    "res": "Gasoso, plasma e vapor.",
+                    "status": false
+                },
+                {
+                    "res": "Sólido, líquido e plasma.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que caracteriza o estado sólido?",
+            "respostas": [
+                {
+                    "res": "Forma e volume fixos.",
+                    "status": true
+                },
+                {
+                    "res": "Forma variável e volume fixo.",
+                    "status": false
+                },
+                {
+                    "res": "Forma e volume variáveis.",
+                    "status": false
+                },
+                {
+                    "res": "Forma fixa e volume variável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que caracteriza o estado líquido?",
+            "respostas": [
+                {
+                    "res": "Forma variável e volume fixo.",
+                    "status": true
+                },
+                {
+                    "res": "Forma e volume fixos.",
+                    "status": false
+                },
+                {
+                    "res": "Forma e volume variáveis.",
+                    "status": false
+                },
+                {
+                    "res": "Forma fixa e volume variável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que caracteriza o estado gasoso?",
+            "respostas": [
+                {
+                    "res": "Forma e volume variáveis.",
+                    "status": true
+                },
+                {
+                    "res": "Forma fixa e volume variável.",
+                    "status": false
+                },
+                {
+                    "res": "Forma e volume fixos.",
+                    "status": false
+                },
+                {
+                    "res": "Forma variável e volume fixo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são propriedades físicas da matéria?",
+            "respostas": [
+                {
+                    "res": "Características observáveis sem mudar a substância.",
+                    "status": true
+                },
+                {
+                    "res": "Características que alteram a substância.",
+                    "status": false
+                },
+                {
+                    "res": "Propriedades relacionadas à reatividade.",
+                    "status": false
+                },
+                {
+                    "res": "Propriedades que dependem da quantidade.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são propriedades químicas da matéria?",
+            "respostas": [
+                {
+                    "res": "Comportamento em reações químicas.",
+                    "status": true
+                },
+                {
+                    "res": "Características observáveis sem mudar a substância.",
+                    "status": false
+                },
+                {
+                    "res": "Propriedades como cor e densidade.",
+                    "status": false
+                },
+                {
+                    "res": "Propriedades que dependem do estado físico.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a mudança de estado de sólido para líquido?",
+            "respostas": [
+                {
+                    "res": "Fusão.",
+                    "status": true
+                },
+                {
+                    "res": "Solidificação.",
+                    "status": false
+                },
+                {
+                    "res": "Vaporização.",
+                    "status": false
+                },
+                {
+                    "res": "Condensação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a mudança de estado de líquido para sólido?",
+            "respostas": [
+                {
+                    "res": "Solidificação.",
+                    "status": true
+                },
+                {
+                    "res": "Fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Condensação.",
+                    "status": false
+                },
+                {
+                    "res": "Sublimação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a mudança de estado de líquido para gasoso?",
+            "respostas": [
+                {
+                    "res": "Vaporização.",
+                    "status": true
+                },
+                {
+                    "res": "Condensação.",
+                    "status": false
+                },
+                {
+                    "res": "Fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Solidificação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a mudança de estado de gasoso para líquido?",
+            "respostas": [
+                {
+                    "res": "Condensação.",
+                    "status": true
+                },
+                {
+                    "res": "Vaporização.",
+                    "status": false
+                },
+                {
+                    "res": "Fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Sublimação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é sublimação?",
+            "respostas": [
+                {
+                    "res": "Mudança de sólido para gasoso sem passar pelo líquido.",
+                    "status": true
+                },
+                {
+                    "res": "Mudança de líquido para gasoso.",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de gasoso para líquido.",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de sólido para líquido.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é densidade?",
+            "respostas": [
+                {
+                    "res": "Relação entre massa e volume.",
+                    "status": true
+                },
+                {
+                    "res": "Quantidade de matéria em um objeto.",
+                    "status": false
+                },
+                {
+                    "res": "Capacidade de dissolver substâncias.",
+                    "status": false
+                },
+                {
+                    "res": "Medida da temperatura de fusão.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é ponto de fusão?",
+            "respostas": [
+                {
+                    "res": "Temperatura em que um sólido vira líquido.",
+                    "status": true
+                },
+                {
+                    "res": "Temperatura em que um líquido vira gasoso.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura em que um gás vira líquido.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura em que um líquido vira sólido.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é ponto de ebulição?",
+            "respostas": [
+                {
+                    "res": "Temperatura em que um líquido vira gasoso.",
+                    "status": true
+                },
+                {
+                    "res": "Temperatura em que um sólido vira líquido.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura em que um gás vira líquido.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura em que um líquido vira sólido.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é condensação?",
+            "respostas": [
+                {
+                    "res": "Mudança de gasoso para líquido.",
+                    "status": true
+                },
+                {
+                    "res": "Mudança de líquido para gasoso.",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de sólido para líquido.",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de sólido para gasoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quais são as partículas fundamentais do átomo?",
+            "respostas": [
+                {
+                    "res": "Prótons, nêutrons e elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Íons, moléculas e elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Prótons, nêutrons e fótons.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons, quarks e neutrinos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Onde ficam os prótons e nêutrons?",
+            "respostas": [
+                {
+                    "res": "No núcleo.",
+                    "status": true
+                },
+                {
+                    "res": "Na eletrosfera.",
+                    "status": false
+                },
+                {
+                    "res": "Na camada de valência.",
+                    "status": false
+                },
+                {
+                    "res": "Fora do átomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Onde ficam os elétrons?",
+            "respostas": [
+                {
+                    "res": "Na eletrosfera.",
+                    "status": true
+                },
+                {
+                    "res": "No núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Na camada de prótons.",
+                    "status": false
+                },
+                {
+                    "res": "Fora do átomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a carga do próton?",
+            "respostas": [
+                {
+                    "res": "Positiva.",
+                    "status": true
+                },
+                {
+                    "res": "Negativa.",
+                    "status": false
+                },
+                {
+                    "res": "Neutra.",
+                    "status": false
+                },
+                {
+                    "res": "Variável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a carga do elétron?",
+            "respostas": [
+                {
+                    "res": "Negativa.",
+                    "status": true
+                },
+                {
+                    "res": "Positiva.",
+                    "status": false
+                },
+                {
+                    "res": "Neutra.",
+                    "status": false
+                },
+                {
+                    "res": "Variável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a carga do nêutron?",
+            "respostas": [
+                {
+                    "res": "Neutra.",
+                    "status": true
+                },
+                {
+                    "res": "Positiva.",
+                    "status": false
+                },
+                {
+                    "res": "Negativa.",
+                    "status": false
+                },
+                {
+                    "res": "Variável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um elemento químico?",
+            "respostas": [
+                {
+                    "res": "Átomos com mesmo número atômico.",
+                    "status": true
+                },
+                {
+                    "res": "Átomos com diferentes números atômicos.",
+                    "status": false
+                },
+                {
+                    "res": "Moléculas complexas.",
+                    "status": false
+                },
+                {
+                    "res": "Apenas elétrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o número atômico?",
+            "respostas": [
+                {
+                    "res": "Número de prótons.",
+                    "status": true
+                },
+                {
+                    "res": "Número de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de nêutrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de moléculas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o número de massa?",
+            "respostas": [
+                {
+                    "res": "Prótons + nêutrons.",
+                    "status": true
+                },
+                {
+                    "res": "Prótons + elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Nêutrons + elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Apenas elétrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a tabela periódica?",
+            "respostas": [
+                {
+                    "res": "Organização dos elementos químicos.",
+                    "status": true
+                },
+                {
+                    "res": "Lista de moléculas.",
+                    "status": false
+                },
+                {
+                    "res": "Tabela de reações químicas.",
+                    "status": false
+                },
+                {
+                    "res": "Lista de átomos estáveis.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são grupos na tabela periódica?",
+            "respostas": [
+                {
+                    "res": "Colunas com propriedades semelhantes.",
+                    "status": true
+                },
+                {
+                    "res": "Linhas com propriedades diferentes.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos com mesma massa.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos radioativos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são períodos na tabela periódica?",
+            "respostas": [
+                {
+                    "res": "Linhas horizontais.",
+                    "status": true
+                },
+                {
+                    "res": "Colunas verticais.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos com mesma carga.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos instáveis.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma molécula?",
+            "respostas": [
+                {
+                    "res": "Grupo de átomos ligados.",
+                    "status": true
+                },
+                {
+                    "res": "Um único átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Partícula do núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Partícula sem carga.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação química?",
+            "respostas": [
+                {
+                    "res": "União entre átomos.",
+                    "status": true
+                },
+                {
+                    "res": "Separação de átomos.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de prótons.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de nêutrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação iônica?",
+            "respostas": [
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Compartilhamento de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de prótons.",
+                    "status": false
+                },
+                {
+                    "res": "União de nêutrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação covalente?",
+            "respostas": [
+                {
+                    "res": "Compartilhamento de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de prótons.",
+                    "status": false
+                },
+                {
+                    "res": "União de nêutrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um íon?",
+            "respostas": [
+                {
+                    "res": "Átomo com carga elétrica.",
+                    "status": true
+                },
+                {
+                    "res": "Átomo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Molécula estável.",
+                    "status": false
+                },
+                {
+                    "res": "Partícula do núcleo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um cátion?",
+            "respostas": [
+                {
+                    "res": "Íon positivo.",
+                    "status": true
+                },
+                {
+                    "res": "Íon negativo.",
+                    "status": false
+                },
+                {
+                    "res": "Átomo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Molécula estável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um ânion?",
+            "respostas": [
+                {
+                    "res": "Íon negativo.",
+                    "status": true
+                },
+                {
+                    "res": "Íon positivo.",
+                    "status": false
+                },
+                {
+                    "res": "Átomo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Molécula estável.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a camada de valência?",
+            "respostas": [
+                {
+                    "res": "Camada mais externa do átomo.",
+                    "status": true
+                },
+                {
+                    "res": "Camada mais interna do átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Núcleo do átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Camada de nêutrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma substância pura?",
+            "respostas": [
+                {
+                    "res": "Composição fixa.",
+                    "status": true
+                },
+                {
+                    "res": "Composição variável.",
+                    "status": false
+                },
+                {
+                    "res": "Mistura de elementos.",
+                    "status": false
+                },
+                {
+                    "res": "Material impuro.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um elemento químico?",
+            "respostas": [
+                {
+                    "res": "Um tipo de átomo.",
+                    "status": true
+                },
+                {
+                    "res": "Vários átomos.",
+                    "status": false
+                },
+                {
+                    "res": "Mistura de substâncias.",
+                    "status": false
+                },
+                {
+                    "res": "Material composto.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um composto químico?",
+            "respostas": [
+                {
+                    "res": "Átomos diferentes unidos.",
+                    "status": true
+                },
+                {
+                    "res": "Um tipo de átomo.",
+                    "status": false
+                },
+                {
+                    "res": "Mistura de elementos.",
+                    "status": false
+                },
+                {
+                    "res": "Material impuro.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma mistura homogênea?",
+            "respostas": [
+                {
+                    "res": "Composição uniforme.",
+                    "status": true
+                },
+                {
+                    "res": "Composição variável.",
+                    "status": false
+                },
+                {
+                    "res": "Fases visíveis.",
+                    "status": false
+                },
+                {
+                    "res": "Substância pura.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma mistura heterogênea?",
+            "respostas": [
+                {
+                    "res": "Fases visíveis.",
+                    "status": true
+                },
+                {
+                    "res": "Composição uniforme.",
+                    "status": false
+                },
+                {
+                    "res": "Substância pura.",
+                    "status": false
+                },
+                {
+                    "res": "Um tipo de átomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é filtração?",
+            "respostas": [
+                {
+                    "res": "Separa sólidos de líquidos.",
+                    "status": true
+                },
+                {
+                    "res": "Separa líquidos miscíveis.",
+                    "status": false
+                },
+                {
+                    "res": "Separa gases.",
+                    "status": false
+                },
+                {
+                    "res": "Separa substâncias puras.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é decantação?",
+            "respostas": [
+                {
+                    "res": "Separa líquidos imiscíveis.",
+                    "status": true
+                },
+                {
+                    "res": "Separa sólidos de líquidos.",
+                    "status": false
+                },
+                {
+                    "res": "Separa gases.",
+                    "status": false
+                },
+                {
+                    "res": "Separa substâncias puras.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é destilação?",
+            "respostas": [
+                {
+                    "res": "Separa líquidos por ebulição.",
+                    "status": true
+                },
+                {
+                    "res": "Separa sólidos de líquidos.",
+                    "status": false
+                },
+                {
+                    "res": "Separa gases.",
+                    "status": false
+                },
+                {
+                    "res": "Separa substâncias puras.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é evaporação?",
+            "respostas": [
+                {
+                    "res": "Separa sólidos de líquidos.",
+                    "status": true
+                },
+                {
+                    "res": "Separa líquidos miscíveis.",
+                    "status": false
+                },
+                {
+                    "res": "Separa gases.",
+                    "status": false
+                },
+                {
+                    "res": "Separa substâncias puras.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é cromatografia?",
+            "respostas": [
+                {
+                    "res": "Separa componentes de misturas.",
+                    "status": true
+                },
+                {
+                    "res": "Separa líquidos imiscíveis.",
+                    "status": false
+                },
+                {
+                    "res": "Separa gases.",
+                    "status": false
+                },
+                {
+                    "res": "Separa substâncias puras.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma solução?",
+            "respostas": [
+                {
+                    "res": "Mistura homogênea.",
+                    "status": true
+                },
+                {
+                    "res": "Mistura heterogênea.",
+                    "status": false
+                },
+                {
+                    "res": "Substância pura.",
+                    "status": false
+                },
+                {
+                    "res": "Material composto.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um solvente?",
+            "respostas": [
+                {
+                    "res": "Substância que dissolve.",
+                    "status": true
+                },
+                {
+                    "res": "Substância dissolvida.",
+                    "status": false
+                },
+                {
+                    "res": "Material sólido.",
+                    "status": false
+                },
+                {
+                    "res": "Material gasoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um soluto?",
+            "respostas": [
+                {
+                    "res": "Substância dissolvida.",
+                    "status": true
+                },
+                {
+                    "res": "Substância que dissolve.",
+                    "status": false
+                },
+                {
+                    "res": "Material sólido.",
+                    "status": false
+                },
+                {
+                    "res": "Material gasoso.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma suspensão?",
+            "respostas": [
+                {
+                    "res": "Mistura heterogênea.",
+                    "status": true
+                },
+                {
+                    "res": "Mistura homogênea.",
+                    "status": false
+                },
+                {
+                    "res": "Substância pura.",
+                    "status": false
+                },
+                {
+                    "res": "Material composto.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um coloide?",
+            "respostas": [
+                {
+                    "res": "Mistura intermediária.",
+                    "status": true
+                },
+                {
+                    "res": "Mistura homogênea.",
+                    "status": false
+                },
+                {
+                    "res": "Substância pura.",
+                    "status": false
+                },
+                {
+                    "res": "Material composto.",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+            "questao": "O que é uma reação exotérmica?",
+            "respostas": [
+                {
+                    "res": "Libera energia.",
+                    "status": true
+                },
+                {
+                    "res": "Absorve energia.",
+                    "status": false
+                },
+                {
+                    "res": "Não envolve energia.",
+                    "status": false
+                },
+                {
+                    "res": "Transforma energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação endotérmica?",
+            "respostas": [
+                {
+                    "res": "Absorve energia.",
+                    "status": true
+                },
+                {
+                    "res": "Libera energia.",
+                    "status": false
+                },
+                {
+                    "res": "Não envolve energia.",
+                    "status": false
+                },
+                {
+                    "res": "Transforma energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que acontece com a temperatura em uma reação exotérmica?",
+            "respostas": [
+                {
+                    "res": "Aumenta.",
+                    "status": true
+                },
+                {
+                    "res": "Diminui.",
+                    "status": false
+                },
+                {
+                    "res": "Permanece igual.",
+                    "status": false
+                },
+                {
+                    "res": "Varia aleatoriamente.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que acontece com a temperatura em uma reação endotérmica?",
+            "respostas": [
+                {
+                    "res": "Diminui.",
+                    "status": true
+                },
+                {
+                    "res": "Aumenta.",
+                    "status": false
+                },
+                {
+                    "res": "Permanece igual.",
+                    "status": false
+                },
+                {
+                    "res": "Varia aleatoriamente.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é calor de reação?",
+            "respostas": [
+                {
+                    "res": "Energia liberada ou absorvida.",
+                    "status": true
+                },
+                {
+                    "res": "Temperatura da reação.",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade da reação.",
+                    "status": false
+                },
+                {
+                    "res": "Massa dos reagentes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é entalpia?",
+            "respostas": [
+                {
+                    "res": "Energia térmica de um sistema.",
+                    "status": true
+                },
+                {
+                    "res": "Massa dos reagentes.",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade da reação.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura da reação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia de ativação?",
+            "respostas": [
+                {
+                    "res": "Energia mínima para iniciar a reação.",
+                    "status": true
+                },
+                {
+                    "res": "Energia liberada na reação.",
+                    "status": false
+                },
+                {
+                    "res": "Energia absorvida na reação.",
+                    "status": false
+                },
+                {
+                    "res": "Temperatura da reação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um catalisador?",
+            "respostas": [
+                {
+                    "res": "Acelera a reação.",
+                    "status": true
+                },
+                {
+                    "res": "Libera energia.",
+                    "status": false
+                },
+                {
+                    "res": "Absorve energia.",
+                    "status": false
+                },
+                {
+                    "res": "Diminui a temperatura.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é combustão?",
+            "respostas": [
+                {
+                    "res": "Reação exotérmica com oxigênio.",
+                    "status": true
+                },
+                {
+                    "res": "Reação endotérmica com oxigênio.",
+                    "status": false
+                },
+                {
+                    "res": "Reação sem liberação de energia.",
+                    "status": false
+                },
+                {
+                    "res": "Reação que absorve calor.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é fotossíntese?",
+            "respostas": [
+                {
+                    "res": "Reação endotérmica com luz.",
+                    "status": true
+                },
+                {
+                    "res": "Reação exotérmica com luz.",
+                    "status": false
+                },
+                {
+                    "res": "Reação sem energia.",
+                    "status": false
+                },
+                {
+                    "res": "Reação que libera calor.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia térmica?",
+            "respostas": [
+                {
+                    "res": "Energia em forma de calor.",
+                    "status": true
+                },
+                {
+                    "res": "Energia luminosa.",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica.",
+                    "status": false
+                },
+                {
+                    "res": "Energia química.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia química?",
+            "respostas": [
+                {
+                    "res": "Energia armazenada em ligações.",
+                    "status": true
+                },
+                {
+                    "res": "Energia em forma de calor.",
+                    "status": false
+                },
+                {
+                    "res": "Energia luminosa.",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação redox?",
+            "respostas": [
+                {
+                    "res": "Reação com transferência de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Reação com liberação de calor.",
+                    "status": false
+                },
+                {
+                    "res": "Reação com absorção de calor.",
+                    "status": false
+                },
+                {
+                    "res": "Reação sem energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia luminosa?",
+            "respostas": [
+                {
+                    "res": "Energia da luz.",
+                    "status": true
+                },
+                {
+                    "res": "Energia térmica.",
+                    "status": false
+                },
+                {
+                    "res": "Energia química.",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia elétrica?",
+            "respostas": [
+                {
+                    "res": "Energia de cargas elétricas.",
+                    "status": true
+                },
+                {
+                    "res": "Energia térmica.",
+                    "status": false
+                },
+                {
+                    "res": "Energia luminosa.",
+                    "status": false
+                },
+                {
+                    "res": "Energia química.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é química ambiental?",
+            "respostas": [
+                {
+                    "res": "Impactos químicos no ambiente.",
+                    "status": true
+                },
+                {
+                    "res": "Reações em laboratório.",
+                    "status": false
+                },
+                {
+                    "res": "Estudo dos elementos.",
+                    "status": false
+                },
+                {
+                    "res": "Tabela periódica.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é poluição ambiental?",
+            "respostas": [
+                {
+                    "res": "Substâncias nocivas no ambiente.",
+                    "status": true
+                },
+                {
+                    "res": "Purificação do ar.",
+                    "status": false
+                },
+                {
+                    "res": "Reciclagem de materiais.",
+                    "status": false
+                },
+                {
+                    "res": "Energia limpa.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é poluição do ar?",
+            "respostas": [
+                {
+                    "res": "Gases tóxicos na atmosfera.",
+                    "status": true
+                },
+                {
+                    "res": "Água contaminada.",
+                    "status": false
+                },
+                {
+                    "res": "Solo degradado.",
+                    "status": false
+                },
+                {
+                    "res": "Lixo acumulado.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é poluição da água?",
+            "respostas": [
+                {
+                    "res": "Substâncias nocivas na água.",
+                    "status": true
+                },
+                {
+                    "res": "Gases tóxicos no ar.",
+                    "status": false
+                },
+                {
+                    "res": "Desmatamento.",
+                    "status": false
+                },
+                {
+                    "res": "Lixo reciclado.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é poluição do solo?",
+            "respostas": [
+                {
+                    "res": "Substâncias tóxicas no solo.",
+                    "status": true
+                },
+                {
+                    "res": "Gases na atmosfera.",
+                    "status": false
+                },
+                {
+                    "res": "Água contaminada.",
+                    "status": false
+                },
+                {
+                    "res": "Energia limpa.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é efeito estufa?",
+            "respostas": [
+                {
+                    "res": "Aquecimento global.",
+                    "status": true
+                },
+                {
+                    "res": "Resfriamento global.",
+                    "status": false
+                },
+                {
+                    "res": "Chuva ácida.",
+                    "status": false
+                },
+                {
+                    "res": "Poluição do solo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é chuva ácida?",
+            "respostas": [
+                {
+                    "res": "Precipitação com ácidos.",
+                    "status": true
+                },
+                {
+                    "res": "Chuva normal.",
+                    "status": false
+                },
+                {
+                    "res": "Poluição do ar.",
+                    "status": false
+                },
+                {
+                    "res": "Aquecimento global.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é sustentabilidade?",
+            "respostas": [
+                {
+                    "res": "Uso responsável dos recursos.",
+                    "status": true
+                },
+                {
+                    "res": "Desperdício de recursos.",
+                    "status": false
+                },
+                {
+                    "res": "Poluição do ar.",
+                    "status": false
+                },
+                {
+                    "res": "Chuva ácida.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é reciclagem?",
+            "respostas": [
+                {
+                    "res": "Reutilização de materiais.",
+                    "status": true
+                },
+                {
+                    "res": "Descarte de lixo.",
+                    "status": false
+                },
+                {
+                    "res": "Poluição do solo.",
+                    "status": false
+                },
+                {
+                    "res": "Desmatamento.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é lixo orgânico?",
+            "respostas": [
+                {
+                    "res": "Restos de alimentos.",
+                    "status": true
+                },
+                {
+                    "res": "Plásticos e metais.",
+                    "status": false
+                },
+                {
+                    "res": "Papel e vidro.",
+                    "status": false
+                },
+                {
+                    "res": "Produtos químicos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é lixo inorgânico?",
+            "respostas": [
+                {
+                    "res": "Plásticos e metais.",
+                    "status": true
+                },
+                {
+                    "res": "Restos de alimentos.",
+                    "status": false
+                },
+                {
+                    "res": "Produtos químicos.",
+                    "status": false
+                },
+                {
+                    "res": "Papel e vidro.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é compostagem?",
+            "respostas": [
+                {
+                    "res": "Transformação de lixo orgânico.",
+                    "status": true
+                },
+                {
+                    "res": "Reciclagem de plásticos.",
+                    "status": false
+                },
+                {
+                    "res": "Descarte de lixo.",
+                    "status": false
+                },
+                {
+                    "res": "Poluição do solo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia renovável?",
+            "respostas": [
+                {
+                    "res": "Energia sustentável.",
+                    "status": true
+                },
+                {
+                    "res": "Energia de combustíveis fósseis.",
+                    "status": false
+                },
+                {
+                    "res": "Energia nuclear.",
+                    "status": false
+                },
+                {
+                    "res": "Energia poluente.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é desmatamento?",
+            "respostas": [
+                {
+                    "res": "Remoção de florestas.",
+                    "status": true
+                },
+                {
+                    "res": "Plantio de árvores.",
+                    "status": false
+                },
+                {
+                    "res": "Reciclagem de materiais.",
+                    "status": false
+                },
+                {
+                    "res": "Purificação do ar.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é biodiversidade?",
+            "respostas": [
+                {
+                    "res": "Variedade de vida na Terra.",
+                    "status": true
+                },
+                {
+                    "res": "Poluição do ar.",
+                    "status": false
+                },
+                {
+                    "res": "Desmatamento.",
+                    "status": false
+                },
+                {
+                    "res": "Reciclagem de lixo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem propôs o modelo atômico de Dalton?",
+            "respostas": [
+                {
+                    "res": "John Dalton.",
+                    "status": true
+                },
+                {
+                    "res": "Ernest Rutherford.",
+                    "status": false
+                },
+                {
+                    "res": "Niels Bohr.",
+                    "status": false
+                },
+                {
+                    "res": "J.J. Thomson.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que o modelo de Thomson propôs?",
+            "respostas": [
+                {
+                    "res": "Átomo com elétrons embutidos.",
+                    "status": true
+                },
+                {
+                    "res": "Átomo com núcleo denso.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons em órbitas fixas.",
+                    "status": false
+                },
+                {
+                    "res": "Átomo indivisível.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que Rutherford descobriu?",
+            "respostas": [
+                {
+                    "res": "Núcleo denso e positivo.",
+                    "status": true
+                },
+                {
+                    "res": "Elétrons em órbitas.",
+                    "status": false
+                },
+                {
+                    "res": "Átomo maciço e homogêneo.",
+                    "status": false
+                },
+                {
+                    "res": "Neutrons no núcleo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que o modelo de Bohr propôs?",
+            "respostas": [
+                {
+                    "res": "Elétrons em órbitas fixas.",
+                    "status": true
+                },
+                {
+                    "res": "Núcleo com prótons e nêutrons.",
+                    "status": false
+                },
+                {
+                    "res": "Átomo indivisível.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons dispersos no átomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são prótons?",
+            "respostas": [
+                {
+                    "res": "Partículas positivas no núcleo.",
+                    "status": true
+                },
+                {
+                    "res": "Partículas negativas na eletrosfera.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas neutras no núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas sem carga.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são nêutrons?",
+            "respostas": [
+                {
+                    "res": "Partículas neutras no núcleo.",
+                    "status": true
+                },
+                {
+                    "res": "Partículas positivas no núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas negativas na eletrosfera.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas sem massa.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são elétrons?",
+            "respostas": [
+                {
+                    "res": "Partículas negativas na eletrosfera.",
+                    "status": true
+                },
+                {
+                    "res": "Partículas positivas no núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas neutras no núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Partículas sem carga.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é número atômico?",
+            "respostas": [
+                {
+                    "res": "Número de prótons.",
+                    "status": true
+                },
+                {
+                    "res": "Número de nêutrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de massa.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é número de massa?",
+            "respostas": [
+                {
+                    "res": "Prótons + nêutrons.",
+                    "status": true
+                },
+                {
+                    "res": "Prótons + elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Nêutrons + elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Apenas prótons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são isótopos?",
+            "respostas": [
+                {
+                    "res": "Átomos com mesmo número atômico e massas diferentes.",
+                    "status": true
+                },
+                {
+                    "res": "Átomos com mesmo número de massa.",
+                    "status": false
+                },
+                {
+                    "res": "Átomos com diferentes números atômicos.",
+                    "status": false
+                },
+                {
+                    "res": "Átomos com diferentes cargas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são grupos na tabela periódica?",
+            "respostas": [
+                {
+                    "res": "Colunas com propriedades semelhantes.",
+                    "status": true
+                },
+                {
+                    "res": "Linhas horizontais.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos com mesma massa.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos radioativos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são períodos na tabela periódica?",
+            "respostas": [
+                {
+                    "res": "Linhas horizontais.",
+                    "status": true
+                },
+                {
+                    "res": "Colunas verticais.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos com mesma carga.",
+                    "status": false
+                },
+                {
+                    "res": "Elementos instáveis.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é eletronegatividade?",
+            "respostas": [
+                {
+                    "res": "Capacidade de atrair elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Capacidade de doar elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de prótons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de nêutrons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é raio atômico?",
+            "respostas": [
+                {
+                    "res": "Tamanho do átomo.",
+                    "status": true
+                },
+                {
+                    "res": "Carga do núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Número de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Número de prótons.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia de ionização?",
+            "respostas": [
+                {
+                    "res": "Energia para remover um elétron.",
+                    "status": true
+                },
+                {
+                    "res": "Energia para adicionar um elétron.",
+                    "status": false
+                },
+                {
+                    "res": "Energia do núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Energia de ligação.",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "dificult": [
+        {
+            "questao": "O que é uma ligação iônica?",
+            "respostas": [
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Compartilhamento de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                },
+                {
+                    "res": "Ligação entre metais.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que forma uma ligação iônica?",
+            "respostas": [
+                {
+                    "res": "Cátions e ânions.",
+                    "status": true
+                },
+                {
+                    "res": "Átomos neutros.",
+                    "status": false
+                },
+                {
+                    "res": "Moléculas polares.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação covalente?",
+            "respostas": [
+                {
+                    "res": "Compartilhamento de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                },
+                {
+                    "res": "Ligação entre metais.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação covalente polar?",
+            "respostas": [
+                {
+                    "res": "Compartilhamento desigual de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Compartilhamento igual de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação covalente apolar?",
+            "respostas": [
+                {
+                    "res": "Compartilhamento igual de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Compartilhamento desigual de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma ligação metálica?",
+            "respostas": [
+                {
+                    "res": "Elétrons livres entre átomos.",
+                    "status": true
+                },
+                {
+                    "res": "Transferência de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Compartilhamento de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Ligação entre não metais.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são elétrons livres em metais?",
+            "respostas": [
+                {
+                    "res": "Elétrons que se movem livremente.",
+                    "status": true
+                },
+                {
+                    "res": "Elétrons fixos no núcleo.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons compartilhados.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons transferidos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são substâncias iônicas?",
+            "respostas": [
+                {
+                    "res": "Compostos com ligações iônicas.",
+                    "status": true
+                },
+                {
+                    "res": "Compostos com ligações covalentes.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos com ligações metálicas.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos moleculares.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são substâncias covalentes?",
+            "respostas": [
+                {
+                    "res": "Compostos com ligações covalentes.",
+                    "status": true
+                },
+                {
+                    "res": "Compostos com ligações iônicas.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos com ligações metálicas.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos iônicos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são substâncias metálicas?",
+            "respostas": [
+                {
+                    "res": "Compostos com ligações metálicas.",
+                    "status": true
+                },
+                {
+                    "res": "Compostos com ligações iônicas.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos com ligações covalentes.",
+                    "status": false
+                },
+                {
+                    "res": "Compostos moleculares.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual propriedade é comum em substâncias iônicas?",
+            "respostas": [
+                {
+                    "res": "Altos pontos de fusão.",
+                    "status": true
+                },
+                {
+                    "res": "Baixos pontos de fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Condução de eletricidade no estado sólido.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual propriedade é comum em substâncias covalentes?",
+            "respostas": [
+                {
+                    "res": "Baixos pontos de fusão.",
+                    "status": true
+                },
+                {
+                    "res": "Altos pontos de fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Condução de eletricidade no estado sólido.",
+                    "status": false
+                },
+                {
+                    "res": "Elétrons livres.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual propriedade é comum em substâncias metálicas?",
+            "respostas": [
+                {
+                    "res": "Condução de eletricidade.",
+                    "status": true
+                },
+                {
+                    "res": "Baixos pontos de fusão.",
+                    "status": false
+                },
+                {
+                    "res": "Fragilidade.",
+                    "status": false
+                },
+                {
+                    "res": "Isolantes térmicos.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Por que os metais conduzem eletricidade?",
+            "respostas": [
+                {
+                    "res": "Elétrons livres se movem.",
+                    "status": true
+                },
+                {
+                    "res": "Íons se movem.",
+                    "status": false
+                },
+                {
+                    "res": "Moléculas se movem.",
+                    "status": false
+                },
+                {
+                    "res": "Átomos se movem.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um retículo cristalino?",
+            "respostas": [
+                {
+                    "res": "Estrutura organizada de íons.",
+                    "status": true
+                },
+                {
+                    "res": "Estrutura desorganizada de átomos.",
+                    "status": false
+                },
+                {
+                    "res": "Estrutura de elétrons livres.",
+                    "status": false
+                },
+                {
+                    "res": "Estrutura de moléculas.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma equação química?",
+            "respostas": [
+                {
+                    "res": "Representação de uma reação.",
+                    "status": true
+                },
+                {
+                    "res": "Lista de elementos químicos.",
+                    "status": false
+                },
+                {
+                    "res": "Fórmula de um composto.",
+                    "status": false
+                },
+                {
+                    "res": "Descrição de um átomo.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é balanceamento de equações?",
+            "respostas": [
+                {
+                    "res": "Ajustar o número de átomos.",
+                    "status": true
+                },
+                {
+                    "res": "Mudar os reagentes.",
+                    "status": false
+                },
+                {
+                    "res": "Alterar os produtos.",
+                    "status": false
+                },
+                {
+                    "res": "Ignorar a conservação de massa.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de síntese?",
+            "respostas": [
+                {
+                    "res": "Dois ou mais reagentes formam um produto.",
+                    "status": true
+                },
+                {
+                    "res": "Um composto se divide em substâncias simples.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de elementos entre compostos.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de um elemento por outro.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de decomposição?",
+            "respostas": [
+                {
+                    "res": "Um composto se divide em substâncias simples.",
+                    "status": true
+                },
+                {
+                    "res": "Dois ou mais reagentes formam um produto.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de elementos entre compostos.",
+                    "status": false
+                },
+                {
+                    "res": "Troca de um elemento por outro.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de simples troca?",
+            "respostas": [
+                {
+                    "res": "Um elemento troca com outro em um composto.",
+                    "status": true
+                },
+                {
+                    "res": "Dois compostos trocam elementos.",
+                    "status": false
+                },
+                {
+                    "res": "Dois ou mais reagentes formam um produto.",
+                    "status": false
+                },
+                {
+                    "res": "Um composto se divide em substâncias simples.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de dupla troca?",
+            "respostas": [
+                {
+                    "res": "Dois compostos trocam elementos.",
+                    "status": true
+                },
+                {
+                    "res": "Um elemento troca com outro em um composto.",
+                    "status": false
+                },
+                {
+                    "res": "Dois ou mais reagentes formam um produto.",
+                    "status": false
+                },
+                {
+                    "res": "Um composto se divide em substâncias simples.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Lavoisier?",
+            "respostas": [
+                {
+                    "res": "A massa se conserva.",
+                    "status": true
+                },
+                {
+                    "res": "A energia se conserva.",
+                    "status": false
+                },
+                {
+                    "res": "Os átomos se transformam.",
+                    "status": false
+                },
+                {
+                    "res": "As reações são reversíveis.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Proust?",
+            "respostas": [
+                {
+                    "res": "Proporções fixas em compostos.",
+                    "status": true
+                },
+                {
+                    "res": "A massa se conserva.",
+                    "status": false
+                },
+                {
+                    "res": "As reações são reversíveis.",
+                    "status": false
+                },
+                {
+                    "res": "A energia se conserva.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um reagente?",
+            "respostas": [
+                {
+                    "res": "Substância inicial em uma reação.",
+                    "status": true
+                },
+                {
+                    "res": "Substância final em uma reação.",
+                    "status": false
+                },
+                {
+                    "res": "Catalisador da reação.",
+                    "status": false
+                },
+                {
+                    "res": "Produto da reação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um produto?",
+            "respostas": [
+                {
+                    "res": "Substância final em uma reação.",
+                    "status": true
+                },
+                {
+                    "res": "Substância inicial em uma reação.",
+                    "status": false
+                },
+                {
+                    "res": "Catalisador da reação.",
+                    "status": false
+                },
+                {
+                    "res": "Reagente da reação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um catalisador?",
+            "respostas": [
+                {
+                    "res": "Acelera a reação sem ser consumido.",
+                    "status": true
+                },
+                {
+                    "res": "Substância inicial em uma reação.",
+                    "status": false
+                },
+                {
+                    "res": "Substância final em uma reação.",
+                    "status": false
+                },
+                {
+                    "res": "Produto da reação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação reversível?",
+            "respostas": [
+                {
+                    "res": "Ocorre nos dois sentidos.",
+                    "status": true
+                },
+                {
+                    "res": "Ocorre em um único sentido.",
+                    "status": false
+                },
+                {
+                    "res": "Não forma produtos.",
+                    "status": false
+                },
+                {
+                    "res": "Não consome reagentes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação irreversível?",
+            "respostas": [
+                {
+                    "res": "Ocorre em um único sentido.",
+                    "status": true
+                },
+                {
+                    "res": "Ocorre nos dois sentidos.",
+                    "status": false
+                },
+                {
+                    "res": "Não forma produtos.",
+                    "status": false
+                },
+                {
+                    "res": "Não consome reagentes.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de combustão?",
+            "respostas": [
+                {
+                    "res": "Reação com oxigênio liberando energia.",
+                    "status": true
+                },
+                {
+                    "res": "Reação de decomposição.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de síntese.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de dupla troca.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação de neutralização?",
+            "respostas": [
+                {
+                    "res": "Ácido + base formam sal e água.",
+                    "status": true
+                },
+                {
+                    "res": "Dois metais reagem.",
+                    "status": false
+                },
+                {
+                    "res": "Um composto se decompõe.",
+                    "status": false
+                },
+                {
+                    "res": "Dois compostos trocam elementos.",
+                    "status": false
+                }
+            ]
+        }
+    ]
+  }
