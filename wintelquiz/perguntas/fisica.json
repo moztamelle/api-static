@@ -1,0 +1,3179 @@
+{
+    "easy": [
+        {
+            "questao": "O que é Física?",
+            "respostas": [
+                {
+                    "res": "Ciência que estuda a natureza",
+                    "status": true
+                },
+                {
+                    "res": "Estudo dos seres vivos",
+                    "status": false
+                },
+                {
+                    "res": "Análise de reações químicas",
+                    "status": false
+                },
+                {
+                    "res": "Previsão do tempo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o objetivo do método científico?",
+            "respostas": [
+                {
+                    "res": "Investigar fenômenos",
+                    "status": true
+                },
+                {
+                    "res": "Criar novas tecnologias",
+                    "status": false
+                },
+                {
+                    "res": "Estudar a história",
+                    "status": false
+                },
+                {
+                    "res": "Prever o futuro",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a primeira etapa do método científico?",
+            "respostas": [
+                {
+                    "res": "Observação",
+                    "status": true
+                },
+                {
+                    "res": "Experimento",
+                    "status": false
+                },
+                {
+                    "res": "Hipótese",
+                    "status": false
+                },
+                {
+                    "res": "Conclusão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que são grandezas físicas?",
+            "respostas": [
+                {
+                    "res": "Propriedades mensuráveis",
+                    "status": true
+                },
+                {
+                    "res": "Fenômenos naturais",
+                    "status": false
+                },
+                {
+                    "res": "Tipos de energia",
+                    "status": false
+                },
+                {
+                    "res": "Formas de matéria",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da massa no SI?",
+            "respostas": [
+                {
+                    "res": "Quilograma (kg)",
+                    "status": true
+                },
+                {
+                    "res": "Grama (g)",
+                    "status": false
+                },
+                {
+                    "res": "Litro (L)",
+                    "status": false
+                },
+                {
+                    "res": "Metro (m)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma hipótese no método científico?",
+            "respostas": [
+                {
+                    "res": "Explicação provisória",
+                    "status": true
+                },
+                {
+                    "res": "Resultado final",
+                    "status": false
+                },
+                {
+                    "res": "Ferramenta de medição",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de experimento",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida do tempo no SI?",
+            "respostas": [
+                {
+                    "res": "Segundo (s)",
+                    "status": true
+                },
+                {
+                    "res": "Hora (h)",
+                    "status": false
+                },
+                {
+                    "res": "Minuto (min)",
+                    "status": false
+                },
+                {
+                    "res": "Dia (d)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um experimento no método científico?",
+            "respostas": [
+                {
+                    "res": "Teste de uma hipótese",
+                    "status": true
+                },
+                {
+                    "res": "Observação de fenômenos",
+                    "status": false
+                },
+                {
+                    "res": "Criação de teorias",
+                    "status": false
+                },
+                {
+                    "res": "Análise de dados",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da temperatura no SI?",
+            "respostas": [
+                {
+                    "res": "Kelvin (K)",
+                    "status": true
+                },
+                {
+                    "res": "Grau Celsius (°C)",
+                    "status": false
+                },
+                {
+                    "res": "Grau Fahrenheit (°F)",
+                    "status": false
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma teoria científica?",
+            "respostas": [
+                {
+                    "res": "Explicação comprovada",
+                    "status": true
+                },
+                {
+                    "res": "Suposição sem prova",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de experimento",
+                    "status": false
+                },
+                {
+                    "res": "Ferramenta de medição",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da corrente elétrica no SI?",
+            "respostas": [
+                {
+                    "res": "Ampère (A)",
+                    "status": true
+                },
+                {
+                    "res": "Volt (V)",
+                    "status": false
+                },
+                {
+                    "res": "Ohm (Ω)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma grandeza escalar?",
+            "respostas": [
+                {
+                    "res": "Só tem magnitude",
+                    "status": true
+                },
+                {
+                    "res": "Tem direção e sentido",
+                    "status": false
+                },
+                {
+                    "res": "É uma unidade de medida",
+                    "status": false
+                },
+                {
+                    "res": "É uma grandeza vetorial",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da força no SI?",
+            "respostas": [
+                {
+                    "res": "Newton (N)",
+                    "status": true
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                },
+                {
+                    "res": "Pascal (Pa)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma grandeza vetorial?",
+            "respostas": [
+                {
+                    "res": "Tem magnitude, direção e sentido",
+                    "status": true
+                },
+                {
+                    "res": "Só tem magnitude",
+                    "status": false
+                },
+                {
+                    "res": "É uma unidade de medida",
+                    "status": false
+                },
+                {
+                    "res": "É uma grandeza escalar",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da energia no SI?",
+            "respostas": [
+                {
+                    "res": "Joule (J)",
+                    "status": true
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                },
+                {
+                    "res": "Pascal (Pa)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o Sistema Internacional de Unidades (SI)?",
+            "respostas": [
+                {
+                    "res": "Padrão de unidades de medida",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de experimento científico",
+                    "status": false
+                },
+                {
+                    "res": "Método de observação",
+                    "status": false
+                },
+                {
+                    "res": "Teoria física",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da pressão no SI?",
+            "respostas": [
+                {
+                    "res": "Pascal (Pa)",
+                    "status": true
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma conclusão no método científico?",
+            "respostas": [
+                {
+                    "res": "Resultado da análise",
+                    "status": true
+                },
+                {
+                    "res": "Etapa de observação",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de experimento",
+                    "status": false
+                },
+                {
+                    "res": "Ferramenta de medição",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da potência no SI?",
+            "respostas": [
+                {
+                    "res": "Watt (W)",
+                    "status": true
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                },
+                {
+                    "res": "Pascal (Pa)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma observação no método científico?",
+            "respostas": [
+                {
+                    "res": "Coleta de dados",
+                    "status": true
+                },
+                {
+                    "res": "Teste de hipóteses",
+                    "status": false
+                },
+                {
+                    "res": "Criação de teorias",
+                    "status": false
+                },
+                {
+                    "res": "Análise de resultados",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é movimento?",
+            "respostas": [
+                {
+                    "res": "Mudança de posição no tempo",
+                    "status": true
+                },
+                {
+                    "res": "Estado de imobilidade",
+                    "status": false
+                },
+                {
+                    "res": "Força aplicada a um objeto",
+                    "status": false
+                },
+                {
+                    "res": "Medida da velocidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é repouso?",
+            "respostas": [
+                {
+                    "res": "Estado de imobilidade",
+                    "status": true
+                },
+                {
+                    "res": "Movimento constante",
+                    "status": false
+                },
+                {
+                    "res": "Aumento da velocidade",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de direção",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal diferença entre movimento e repouso?",
+            "respostas": [
+                {
+                    "res": "Mudança de posição",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de força aplicada",
+                    "status": false
+                },
+                {
+                    "res": "Tempo de duração",
+                    "status": false
+                },
+                {
+                    "res": "Direção do objeto",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é movimento uniforme?",
+            "respostas": [
+                {
+                    "res": "Velocidade constante",
+                    "status": true
+                },
+                {
+                    "res": "Aceleração constante",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de direção",
+                    "status": false
+                },
+                {
+                    "res": "Estado de repouso",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é movimento acelerado?",
+            "respostas": [
+                {
+                    "res": "Aumento da velocidade",
+                    "status": true
+                },
+                {
+                    "res": "Velocidade constante",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de direção",
+                    "status": false
+                },
+                {
+                    "res": "Estado de repouso",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é velocidade?",
+            "respostas": [
+                {
+                    "res": "Variação da posição no tempo",
+                    "status": true
+                },
+                {
+                    "res": "Força aplicada a um objeto",
+                    "status": false
+                },
+                {
+                    "res": "Mudança de direção",
+                    "status": false
+                },
+                {
+                    "res": "Estado de imobilidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da velocidade no SI?",
+            "respostas": [
+                {
+                    "res": "Metro por segundo (m/s)",
+                    "status": true
+                },
+                {
+                    "res": "Quilômetro por hora (km/h)",
+                    "status": false
+                },
+                {
+                    "res": "Segundo (s)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é aceleração?",
+            "respostas": [
+                {
+                    "res": "Variação da velocidade no tempo",
+                    "status": true
+                },
+                {
+                    "res": "Distância percorrida",
+                    "status": false
+                },
+                {
+                    "res": "Estado de repouso",
+                    "status": false
+                },
+                {
+                    "res": "Força aplicada a um objeto",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da aceleração no SI?",
+            "respostas": [
+                {
+                    "res": "Metro por segundo ao quadrado (m/s²)",
+                    "status": true
+                },
+                {
+                    "res": "Metro por segundo (m/s)",
+                    "status": false
+                },
+                {
+                    "res": "Quilômetro por hora (km/h)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é deslocamento?",
+            "respostas": [
+                {
+                    "res": "Variação da posição",
+                    "status": true
+                },
+                {
+                    "res": "Distância total percorrida",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade constante",
+                    "status": false
+                },
+                {
+                    "res": "Estado de repouso",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a diferença entre distância e deslocamento?",
+            "respostas": [
+                {
+                    "res": "Deslocamento considera a direção",
+                    "status": true
+                },
+                {
+                    "res": "Distância é sempre maior",
+                    "status": false
+                },
+                {
+                    "res": "Deslocamento é sempre zero",
+                    "status": false
+                },
+                {
+                    "res": "Distância é uma grandeza vetorial",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é movimento retilíneo?",
+            "respostas": [
+                {
+                    "res": "Movimento em linha reta",
+                    "status": true
+                },
+                {
+                    "res": "Movimento circular",
+                    "status": false
+                },
+                {
+                    "res": "Movimento com aceleração",
+                    "status": false
+                },
+                {
+                    "res": "Movimento com velocidade variável",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é movimento circular?",
+            "respostas": [
+                {
+                    "res": "Movimento em trajetória curva",
+                    "status": true
+                },
+                {
+                    "res": "Movimento em linha reta",
+                    "status": false
+                },
+                {
+                    "res": "Movimento com velocidade constante",
+                    "status": false
+                },
+                {
+                    "res": "Movimento com aceleração zero",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é velocidade média?",
+            "respostas": [
+                {
+                    "res": "Razão entre deslocamento e tempo",
+                    "status": true
+                },
+                {
+                    "res": "Soma das velocidades",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade instantânea",
+                    "status": false
+                },
+                {
+                    "res": "Aceleração constante",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é velocidade instantânea?",
+            "respostas": [
+                {
+                    "res": "Velocidade em um instante específico",
+                    "status": true
+                },
+                {
+                    "res": "Média das velocidades",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade constante",
+                    "status": false
+                },
+                {
+                    "res": "Aceleração no tempo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é força?",
+            "respostas": [
+                {
+                    "res": "Ação que altera o movimento",
+                    "status": true
+                },
+                {
+                    "res": "Medida da velocidade",
+                    "status": false
+                },
+                {
+                    "res": "Estado de repouso",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de energia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da força no SI?",
+            "respostas": [
+                {
+                    "res": "Newton (N)",
+                    "status": true
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                },
+                {
+                    "res": "Pascal (Pa)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é inércia?",
+            "respostas": [
+                {
+                    "res": "Resistência à mudança de movimento",
+                    "status": true
+                },
+                {
+                    "res": "Força que move um objeto",
+                    "status": false
+                },
+                {
+                    "res": "Aceleração de um corpo",
+                    "status": false
+                },
+                {
+                    "res": "Energia cinética",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a fórmula da Segunda Lei de Newton?",
+            "respostas": [
+                {
+                    "res": "F = m · a",
+                    "status": true
+                },
+                {
+                    "res": "F = m / a",
+                    "status": false
+                },
+                {
+                    "res": "F = a / m",
+                    "status": false
+                },
+                {
+                    "res": "F = m + a",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo da Terceira Lei de Newton?",
+            "respostas": [
+                {
+                    "res": "Um foguete se movendo para cima",
+                    "status": true
+                },
+                {
+                    "res": "Um carro freando",
+                    "status": false
+                },
+                {
+                    "res": "Um objeto caindo",
+                    "status": false
+                },
+                {
+                    "res": "Um livro em repouso",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que acontece quando um carro freia bruscamente?",
+            "respostas": [
+                {
+                    "res": "Os passageiros são lançados para frente",
+                    "status": true
+                },
+                {
+                    "res": "O carro acelera",
+                    "status": false
+                },
+                {
+                    "res": "A força diminui",
+                    "status": false
+                },
+                {
+                    "res": "A velocidade aumenta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Um foguete consegue subir apartir de da ...?",
+            "respostas": [
+                {
+                    "res": "terceira Lei de Newton",
+                    "status": true
+                },
+                {
+                    "res": "primeira Lei de Newton",
+                    "status": false
+                },
+                {
+                    "res": "segunda Lei de Newton",
+                    "status": false
+                },
+                {
+                    "res": "gravidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é força resultante?",
+            "respostas": [
+                {
+                    "res": "Soma de todas as forças atuantes",
+                    "status": true
+                },
+                {
+                    "res": "Força de atrito",
+                    "status": false
+                },
+                {
+                    "res": "Força gravitacional",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é força de atrito?",
+            "respostas": [
+                {
+                    "res": "Força que se opõe ao movimento",
+                    "status": true
+                },
+                {
+                    "res": "Força que acelera um objeto",
+                    "status": false
+                },
+                {
+                    "res": "Força gravitacional",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é um exemplo da Primeira Lei de Newton no dia a dia?",
+            "respostas": [
+                {
+                    "res": "Um livro em repouso sobre uma mesa",
+                    "status": true
+                },
+                {
+                    "res": "Um carro acelerando",
+                    "status": false
+                },
+                {
+                    "res": "Um foguete subindo",
+                    "status": false
+                },
+                {
+                    "res": "Uma bola quicando",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que acontece quando você empurra uma parede?",
+            "respostas": [
+                {
+                    "res": "A parede empurra você de volta",
+                    "status": true
+                },
+                {
+                    "res": "A parede se move",
+                    "status": false
+                },
+                {
+                    "res": "Nada acontece",
+                    "status": false
+                },
+                {
+                    "res": "Você perde energia",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+            "questao": "O que é energia cinética?",
+            "respostas": [
+                {
+                    "res": "Energia do movimento",
+                    "status": true
+                },
+                {
+                    "res": "Energia armazenada",
+                    "status": false
+                },
+                {
+                    "res": "Energia térmica",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a fórmula da energia cinética?",
+            "respostas": [
+                {
+                    "res": "Ec = (m · v²) / 2",
+                    "status": true
+                },
+                {
+                    "res": "Ec = m · v",
+                    "status": false
+                },
+                {
+                    "res": "Ec = m / v²",
+                    "status": false
+                },
+                {
+                    "res": "Ec = m · g · h",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia potencial gravitacional?",
+            "respostas": [
+                {
+                    "res": "Energia armazenada devido à altura",
+                    "status": true
+                },
+                {
+                    "res": "Energia do movimento",
+                    "status": false
+                },
+                {
+                    "res": "Energia térmica",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a fórmula da energia potencial gravitacional?",
+            "respostas": [
+                {
+                    "res": "Ep = m · g · h",
+                    "status": true
+                },
+                {
+                    "res": "Ep = m · v² / 2",
+                    "status": false
+                },
+                {
+                    "res": "Ep = m · v",
+                    "status": false
+                },
+                {
+                    "res": "Ep = m / g · h",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é energia térmica?",
+            "respostas": [
+                {
+                    "res": "Energia associada ao calor",
+                    "status": true
+                },
+                {
+                    "res": "Energia do movimento",
+                    "status": false
+                },
+                {
+                    "res": "Energia armazenada",
+                    "status": false
+                },
+                {
+                    "res": "Energia elétrica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a principal fonte de energia renovável?",
+            "respostas": [
+                {
+                    "res": "Energia solar",
+                    "status": true
+                },
+                {
+                    "res": "Petróleo",
+                    "status": false
+                },
+                {
+                    "res": "Carvão mineral",
+                    "status": false
+                },
+                {
+                    "res": "Gás natural",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é calor?",
+            "respostas": [
+                {
+                    "res": "Energia térmica",
+                    "status": true
+                },
+                {
+                    "res": "Medida de agitação",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de luz",
+                    "status": false
+                },
+                {
+                    "res": "Estado da matéria",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é temperatura?",
+            "respostas": [
+                {
+                    "res": "Medida de agitação",
+                    "status": true
+                },
+                {
+                    "res": "Energia térmica",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de luz",
+                    "status": false
+                },
+                {
+                    "res": "Estado da matéria",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade do calor no SI?",
+            "respostas": [
+                {
+                    "res": "Joule (J)",
+                    "status": true
+                },
+                {
+                    "res": "Celsius (°C)",
+                    "status": false
+                },
+                {
+                    "res": "Kelvin (K)",
+                    "status": false
+                },
+                {
+                    "res": "Fahrenheit (°F)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade da temperatura no SI?",
+            "respostas": [
+                {
+                    "res": "Kelvin (K)",
+                    "status": true
+                },
+                {
+                    "res": "Joule (J)",
+                    "status": false
+                },
+                {
+                    "res": "Celsius (°C)",
+                    "status": false
+                },
+                {
+                    "res": "Fahrenheit (°F)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o ponto de congelamento da água em Celsius?",
+            "respostas": [
+                {
+                    "res": "0 °C",
+                    "status": true
+                },
+                {
+                    "res": "100 °C",
+                    "status": false
+                },
+                {
+                    "res": "32 °C",
+                    "status": false
+                },
+                {
+                    "res": "273 °C",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o ponto de ebulição da água em Fahrenheit?",
+            "respostas": [
+                {
+                    "res": "212 °F",
+                    "status": true
+                },
+                {
+                    "res": "100 °F",
+                    "status": false
+                },
+                {
+                    "res": "32 °F",
+                    "status": false
+                },
+                {
+                    "res": "0 °F",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o zero absoluto em Kelvin?",
+            "respostas": [
+                {
+                    "res": "0 K",
+                    "status": true
+                },
+                {
+                    "res": "-273 K",
+                    "status": false
+                },
+                {
+                    "res": "273 K",
+                    "status": false
+                },
+                {
+                    "res": "100 K",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é condução térmica?",
+            "respostas": [
+                {
+                    "res": "Transferência por contato",
+                    "status": true
+                },
+                {
+                    "res": "Transferência por fluidos",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por ondas",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por vácuo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é convecção térmica?",
+            "respostas": [
+                {
+                    "res": "Transferência por fluidos",
+                    "status": true
+                },
+                {
+                    "res": "Transferência por contato",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por ondas",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por vácuo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é radiação térmica?",
+            "respostas": [
+                {
+                    "res": "Transferência por ondas",
+                    "status": true
+                },
+                {
+                    "res": "Transferência por contato",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por fluidos",
+                    "status": false
+                },
+                {
+                    "res": "Transferência por vácuo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual material é bom condutor de calor?",
+            "respostas": [
+                {
+                    "res": "Metais",
+                    "status": true
+                },
+                {
+                    "res": "Madeira",
+                    "status": false
+                },
+                {
+                    "res": "Plástico",
+                    "status": false
+                },
+                {
+                    "res": "Vidro",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual material é isolante térmico?",
+            "respostas": [
+                {
+                    "res": "Madeira",
+                    "status": true
+                },
+                {
+                    "res": "Metais",
+                    "status": false
+                },
+                {
+                    "res": "Água",
+                    "status": false
+                },
+                {
+                    "res": "Cobre",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é equilíbrio térmico?",
+            "respostas": [
+                {
+                    "res": "Temperaturas iguais",
+                    "status": true
+                },
+                {
+                    "res": "Temperaturas diferentes",
+                    "status": false
+                },
+                {
+                    "res": "Transferência de calor",
+                    "status": false
+                },
+                {
+                    "res": "Aumento de temperatura",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é calor específico?",
+            "respostas": [
+                {
+                    "res": "Calor por unidade de massa",
+                    "status": true
+                },
+                {
+                    "res": "Temperatura máxima",
+                    "status": false
+                },
+                {
+                    "res": "Transferência de calor",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de condução",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um isolante térmico?",
+            "respostas": [
+                {
+                    "res": "Material que reduz calor",
+                    "status": true
+                },
+                {
+                    "res": "Material que conduz calor",
+                    "status": false
+                },
+                {
+                    "res": "Material que gera calor",
+                    "status": false
+                },
+                {
+                    "res": "Material que reflete luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é altura do som?",
+            "respostas": [
+                {
+                    "res": "Frequência do som",
+                    "status": true
+                },
+                {
+                    "res": "Volume do som",
+                    "status": false
+                },
+                {
+                    "res": "Qualidade do som",
+                    "status": false
+                },
+                {
+                    "res": "Direção do som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é intensidade do som?",
+            "respostas": [
+                {
+                    "res": "Volume do som",
+                    "status": true
+                },
+                {
+                    "res": "Frequência do som",
+                    "status": false
+                },
+                {
+                    "res": "Qualidade do som",
+                    "status": false
+                },
+                {
+                    "res": "Direção do som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é timbre do som?",
+            "respostas": [
+                {
+                    "res": "Qualidade do som",
+                    "status": true
+                },
+                {
+                    "res": "Volume do som",
+                    "status": false
+                },
+                {
+                    "res": "Frequência do som",
+                    "status": false
+                },
+                {
+                    "res": "Direção do som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da intensidade do som?",
+            "respostas": [
+                {
+                    "res": "Decibel (dB)",
+                    "status": true
+                },
+                {
+                    "res": "Hertz (Hz)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade de medida da frequência do som?",
+            "respostas": [
+                {
+                    "res": "Hertz (Hz)",
+                    "status": true
+                },
+                {
+                    "res": "Decibel (dB)",
+                    "status": false
+                },
+                {
+                    "res": "Newton (N)",
+                    "status": false
+                },
+                {
+                    "res": "Watt (W)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é eco?",
+            "respostas": [
+                {
+                    "res": "Reflexão do som",
+                    "status": true
+                },
+                {
+                    "res": "Absorção do som",
+                    "status": false
+                },
+                {
+                    "res": "Transmissão do som",
+                    "status": false
+                },
+                {
+                    "res": "Amplificação do som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é necessário para o som se propagar?",
+            "respostas": [
+                {
+                    "res": "Meio material",
+                    "status": true
+                },
+                {
+                    "res": "Vácuo",
+                    "status": false
+                },
+                {
+                    "res": "Luz",
+                    "status": false
+                },
+                {
+                    "res": "Calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O som se propaga mais rápido em qual meio?",
+            "respostas": [
+                {
+                    "res": "Sólidos",
+                    "status": true
+                },
+                {
+                    "res": "Líquidos",
+                    "status": false
+                },
+                {
+                    "res": "Gases",
+                    "status": false
+                },
+                {
+                    "res": "Vácuo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é ultrassom?",
+            "respostas": [
+                {
+                    "res": "Som acima de 20.000 Hz",
+                    "status": true
+                },
+                {
+                    "res": "Som abaixo de 20 Hz",
+                    "status": false
+                },
+                {
+                    "res": "Som audível",
+                    "status": false
+                },
+                {
+                    "res": "Som de alta intensidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é infrassom?",
+            "respostas": [
+                {
+                    "res": "Som abaixo de 20 Hz",
+                    "status": true
+                },
+                {
+                    "res": "Som acima de 20.000 Hz",
+                    "status": false
+                },
+                {
+                    "res": "Som audível",
+                    "status": false
+                },
+                {
+                    "res": "Som de baixa intensidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação do ultrassom?",
+            "respostas": [
+                {
+                    "res": "Exames médicos",
+                    "status": true
+                },
+                {
+                    "res": "Comunicação por rádio",
+                    "status": false
+                },
+                {
+                    "res": "Iluminação",
+                    "status": false
+                },
+                {
+                    "res": "Aquecimento",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é ressonância?",
+            "respostas": [
+                {
+                    "res": "Vibração amplificada",
+                    "status": true
+                },
+                {
+                    "res": "Absorção de som",
+                    "status": false
+                },
+                {
+                    "res": "Reflexão de som",
+                    "status": false
+                },
+                {
+                    "res": "Transmissão de som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma onda sonora?",
+            "respostas": [
+                {
+                    "res": "Vibração que propaga som",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de luz",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de calor",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de eletricidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é necessário para ouvir um som?",
+            "respostas": [
+                {
+                    "res": "Ondas sonoras e ouvido",
+                    "status": true
+                },
+                {
+                    "res": "Luz e olhos",
+                    "status": false
+                },
+                {
+                    "res": "Calor e pele",
+                    "status": false
+                },
+                {
+                    "res": "Eletricidade e cérebro",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um diapasão?",
+            "respostas": [
+                {
+                    "res": "Instrumento que emite som padrão",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de microfone",
+                    "status": false
+                },
+                {
+                    "res": "Amplificador de som",
+                    "status": false
+                },
+                {
+                    "res": "Medidor de intensidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é luz?",
+            "respostas": [
+                {
+                    "res": "Onda eletromagnética",
+                    "status": true
+                },
+                {
+                    "res": "Partícula de matéria",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de som",
+                    "status": false
+                },
+                {
+                    "res": "Forma de calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a velocidade da luz no vácuo?",
+            "respostas": [
+                {
+                    "res": "300.000 km/s",
+                    "status": true
+                },
+                {
+                    "res": "150.000 km/s",
+                    "status": false
+                },
+                {
+                    "res": "450.000 km/s",
+                    "status": false
+                },
+                {
+                    "res": "600.000 km/s",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é reflexão da luz?",
+            "respostas": [
+                {
+                    "res": "Mudança de direção da luz",
+                    "status": true
+                },
+                {
+                    "res": "Passagem da luz por um meio",
+                    "status": false
+                },
+                {
+                    "res": "Absorção da luz",
+                    "status": false
+                },
+                {
+                    "res": "Dispersão da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é refração da luz?",
+            "respostas": [
+                {
+                    "res": "Mudança de velocidade da luz",
+                    "status": true
+                },
+                {
+                    "res": "Reflexão da luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorção da luz",
+                    "status": false
+                },
+                {
+                    "res": "Dispersão da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um espelho plano?",
+            "respostas": [
+                {
+                    "res": "Reflete imagens fiéis",
+                    "status": true
+                },
+                {
+                    "res": "Amplifica imagens",
+                    "status": false
+                },
+                {
+                    "res": "Distorce imagens",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um espelho côncavo?",
+            "respostas": [
+                {
+                    "res": "Concentra a luz",
+                    "status": true
+                },
+                {
+                    "res": "Dispersa a luz",
+                    "status": false
+                },
+                {
+                    "res": "Reflete imagens fiéis",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um espelho convexo?",
+            "respostas": [
+                {
+                    "res": "Dispersa a luz",
+                    "status": true
+                },
+                {
+                    "res": "Concentra a luz",
+                    "status": false
+                },
+                {
+                    "res": "Reflete imagens fiéis",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma lente convergente?",
+            "respostas": [
+                {
+                    "res": "Concentra a luz",
+                    "status": true
+                },
+                {
+                    "res": "Dispersa a luz",
+                    "status": false
+                },
+                {
+                    "res": "Reflete a luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma lente divergente?",
+            "respostas": [
+                {
+                    "res": "Dispersa a luz",
+                    "status": true
+                },
+                {
+                    "res": "Concentra a luz",
+                    "status": false
+                },
+                {
+                    "res": "Reflete a luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o ângulo de incidência?",
+            "respostas": [
+                {
+                    "res": "Ângulo entre o raio de luz e a normal",
+                    "status": true
+                },
+                {
+                    "res": "Ângulo entre o raio refletido e a normal",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo entre dois raios de luz",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo de dispersão da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o ângulo de reflexão?",
+            "respostas": [
+                {
+                    "res": "Ângulo entre o raio refletido e a normal",
+                    "status": true
+                },
+                {
+                    "res": "Ângulo entre o raio incidente e a normal",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo entre dois raios de luz",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo de dispersão da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a lei da reflexão?",
+            "respostas": [
+                {
+                    "res": "Ângulo de incidência = ângulo de reflexão",
+                    "status": true
+                },
+                {
+                    "res": "Ângulo de incidência > ângulo de reflexão",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo de incidência < ângulo de reflexão",
+                    "status": false
+                },
+                {
+                    "res": "Ângulo de incidência ≠ ângulo de reflexão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é dispersão da luz?",
+            "respostas": [
+                {
+                    "res": "Separação da luz em cores",
+                    "status": true
+                },
+                {
+                    "res": "Reflexão da luz",
+                    "status": false
+                },
+                {
+                    "res": "Refração da luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorção da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um prisma óptico?",
+            "respostas": [
+                {
+                    "res": "Separa a luz em cores",
+                    "status": true
+                },
+                {
+                    "res": "Concentra a luz",
+                    "status": false
+                },
+                {
+                    "res": "Reflete a luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorve a luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o espectro visível?",
+            "respostas": [
+                {
+                    "res": "Cores da luz visível",
+                    "status": true
+                },
+                {
+                    "res": "Tipos de som",
+                    "status": false
+                },
+                {
+                    "res": "Formas de calor",
+                    "status": false
+                },
+                {
+                    "res": "Tipos de ondas de rádio",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "dificult": [
+        {
+            "questao": "Quem formulou a Lei da Gravitação Universal?",
+            "respostas": [
+                {
+                    "res": "Isaac Newton",
+                    "status": true
+                },
+                {
+                    "res": "Albert Einstein",
+                    "status": false
+                },
+                {
+                    "res": "Galileu Galilei",
+                    "status": false
+                },
+                {
+                    "res": "Stephen Hawking",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que a Lei da Gravitação Universal descreve?",
+            "respostas": [
+                {
+                    "res": "Força entre duas massas",
+                    "status": true
+                },
+                {
+                    "res": "Movimento dos planetas",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade da luz",
+                    "status": false
+                },
+                {
+                    "res": "Expansão do universo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a fórmula da Lei da Gravitação Universal?",
+            "respostas": [
+                {
+                    "res": "F = G(m₁m₂)/r²",
+                    "status": true
+                },
+                {
+                    "res": "F = ma",
+                    "status": false
+                },
+                {
+                    "res": "F = mv²/r",
+                    "status": false
+                },
+                {
+                    "res": "F = Gm/r²",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que representa 'G' na fórmula da gravitação?",
+            "respostas": [
+                {
+                    "res": "Constante gravitacional",
+                    "status": true
+                },
+                {
+                    "res": "Aceleração da gravidade",
+                    "status": false
+                },
+                {
+                    "res": "Massa da Terra",
+                    "status": false
+                },
+                {
+                    "res": "Raio da Terra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é órbita?",
+            "respostas": [
+                {
+                    "res": "Trajetória de um corpo",
+                    "status": true
+                },
+                {
+                    "res": "Força gravitacional",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade de escape",
+                    "status": false
+                },
+                {
+                    "res": "Massa de um planeta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que mantém um satélite em órbita?",
+            "respostas": [
+                {
+                    "res": "Gravidade",
+                    "status": true
+                },
+                {
+                    "res": "Força centrífuga",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade constante",
+                    "status": false
+                },
+                {
+                    "res": "Atrito",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é velocidade orbital?",
+            "respostas": [
+                {
+                    "res": "Velocidade para manter a órbita",
+                    "status": true
+                },
+                {
+                    "res": "Velocidade de escape",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade da luz",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade de queda",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é velocidade de escape?",
+            "respostas": [
+                {
+                    "res": "Velocidade para sair da órbita",
+                    "status": true
+                },
+                {
+                    "res": "Velocidade orbital",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade da luz",
+                    "status": false
+                },
+                {
+                    "res": "Velocidade de queda",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a forma da órbita de um planeta?",
+            "respostas": [
+                {
+                    "res": "Elíptica",
+                    "status": true
+                },
+                {
+                    "res": "Circular",
+                    "status": false
+                },
+                {
+                    "res": "Parabólica",
+                    "status": false
+                },
+                {
+                    "res": "Hiperbólica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um satélite geoestacionário?",
+            "respostas": [
+                {
+                    "res": "Satélite que parece fixo",
+                    "status": true
+                },
+                {
+                    "res": "Satélite em queda",
+                    "status": false
+                },
+                {
+                    "res": "Satélite fora da órbita",
+                    "status": false
+                },
+                {
+                    "res": "Satélite sem gravidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a altitude de um satélite geoestacionário?",
+            "respostas": [
+                {
+                    "res": "36.000 km",
+                    "status": true
+                },
+                {
+                    "res": "100 km",
+                    "status": false
+                },
+                {
+                    "res": "1.000 km",
+                    "status": false
+                },
+                {
+                    "res": "10.000 km",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a força centrípeta em uma órbita?",
+            "respostas": [
+                {
+                    "res": "Força gravitacional",
+                    "status": true
+                },
+                {
+                    "res": "Força de atrito",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                },
+                {
+                    "res": "Força elétrica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que acontece se a velocidade orbital aumentar?",
+            "respostas": [
+                {
+                    "res": "Órbita se expande",
+                    "status": true
+                },
+                {
+                    "res": "Órbita se contrai",
+                    "status": false
+                },
+                {
+                    "res": "Satélite cai",
+                    "status": false
+                },
+                {
+                    "res": "Nada acontece",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a Terceira Lei de Kepler?",
+            "respostas": [
+                {
+                    "res": "Relação entre período e raio",
+                    "status": true
+                },
+                {
+                    "res": "Lei da gravitação",
+                    "status": false
+                },
+                {
+                    "res": "Lei da inércia",
+                    "status": false
+                },
+                {
+                    "res": "Lei da ação e reação",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um satélite natural?",
+            "respostas": [
+                {
+                    "res": "Lua",
+                    "status": true
+                },
+                {
+                    "res": "Satélite artificial",
+                    "status": false
+                },
+                {
+                    "res": "Estrela",
+                    "status": false
+                },
+                {
+                    "res": "Planeta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é radioatividade?",
+            "respostas": [
+                {
+                    "res": "Emissão de partículas",
+                    "status": true
+                },
+                {
+                    "res": "Absorção de luz",
+                    "status": false
+                },
+                {
+                    "res": "Movimento de elétrons",
+                    "status": false
+                },
+                {
+                    "res": "Formação de átomos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é decaimento radioativo?",
+            "respostas": [
+                {
+                    "res": "Transformação de núcleos",
+                    "status": true
+                },
+                {
+                    "res": "Formação de moléculas",
+                    "status": false
+                },
+                {
+                    "res": "Emissão de luz",
+                    "status": false
+                },
+                {
+                    "res": "Absorção de energia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quais são os tipos de decaimento radioativo?",
+            "respostas": [
+                {
+                    "res": "Alfa, beta, gama",
+                    "status": true
+                },
+                {
+                    "res": "X, Y, Z",
+                    "status": false
+                },
+                {
+                    "res": "Próton, nêutron, elétron",
+                    "status": false
+                },
+                {
+                    "res": "Luz, som, calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma partícula alfa?",
+            "respostas": [
+                {
+                    "res": "Núcleo de hélio",
+                    "status": true
+                },
+                {
+                    "res": "Elétron",
+                    "status": false
+                },
+                {
+                    "res": "Fóton",
+                    "status": false
+                },
+                {
+                    "res": "Nêutron",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma partícula beta?",
+            "respostas": [
+                {
+                    "res": "Elétron ou pósitron",
+                    "status": true
+                },
+                {
+                    "res": "Núcleo de hélio",
+                    "status": false
+                },
+                {
+                    "res": "Fóton",
+                    "status": false
+                },
+                {
+                    "res": "Próton",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é radiação gama?",
+            "respostas": [
+                {
+                    "res": "Onda eletromagnética",
+                    "status": true
+                },
+                {
+                    "res": "Partícula alfa",
+                    "status": false
+                },
+                {
+                    "res": "Partícula beta",
+                    "status": false
+                },
+                {
+                    "res": "Núcleo de hélio",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é meia-vida?",
+            "respostas": [
+                {
+                    "res": "Tempo para decair metade",
+                    "status": true
+                },
+                {
+                    "res": "Tempo de vida total",
+                    "status": false
+                },
+                {
+                    "res": "Tempo de emissão",
+                    "status": false
+                },
+                {
+                    "res": "Tempo de absorção",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação da radioatividade na medicina?",
+            "respostas": [
+                {
+                    "res": "Radioterapia",
+                    "status": true
+                },
+                {
+                    "res": "Ressonância magnética",
+                    "status": false
+                },
+                {
+                    "res": "Ultrassom",
+                    "status": false
+                },
+                {
+                    "res": "Tomografia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é uma aplicação da radioatividade na indústria?",
+            "respostas": [
+                {
+                    "res": "Radiografia",
+                    "status": true
+                },
+                {
+                    "res": "Produção de energia",
+                    "status": false
+                },
+                {
+                    "res": "Fabricação de plásticos",
+                    "status": false
+                },
+                {
+                    "res": "Purificação de água",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é fissão nuclear?",
+            "respostas": [
+                {
+                    "res": "Divisão de núcleos",
+                    "status": true
+                },
+                {
+                    "res": "Fusão de núcleos",
+                    "status": false
+                },
+                {
+                    "res": "Emissão de elétrons",
+                    "status": false
+                },
+                {
+                    "res": "Absorção de energia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é fusão nuclear?",
+            "respostas": [
+                {
+                    "res": "União de núcleos",
+                    "status": true
+                },
+                {
+                    "res": "Divisão de núcleos",
+                    "status": false
+                },
+                {
+                    "res": "Emissão de partículas",
+                    "status": false
+                },
+                {
+                    "res": "Absorção de luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a dualidade onda-partícula?",
+            "respostas": [
+                {
+                    "res": "Comportamento dual da matéria",
+                    "status": true
+                },
+                {
+                    "res": "Só comportamento de onda",
+                    "status": false
+                },
+                {
+                    "res": "Só comportamento de partícula",
+                    "status": false
+                },
+                {
+                    "res": "Teoria da gravidade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem propôs a dualidade onda-partícula?",
+            "respostas": [
+                {
+                    "res": "Louis de Broglie",
+                    "status": true
+                },
+                {
+                    "res": "Albert Einstein",
+                    "status": false
+                },
+                {
+                    "res": "Niels Bohr",
+                    "status": false
+                },
+                {
+                    "res": "Max Planck",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um fóton?",
+            "respostas": [
+                {
+                    "res": "Partícula de luz",
+                    "status": true
+                },
+                {
+                    "res": "Partícula de som",
+                    "status": false
+                },
+                {
+                    "res": "Partícula de matéria",
+                    "status": false
+                },
+                {
+                    "res": "Partícula de calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o efeito fotoelétrico?",
+            "respostas": [
+                {
+                    "res": "Emissão de elétrons por luz",
+                    "status": true
+                },
+                {
+                    "res": "Emissão de luz por elétrons",
+                    "status": false
+                },
+                {
+                    "res": "Absorção de calor",
+                    "status": false
+                },
+                {
+                    "res": "Emissão de partículas alfa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem explicou o efeito fotoelétrico?",
+            "respostas": [
+                {
+                    "res": "Albert Einstein",
+                    "status": true
+                },
+                {
+                    "res": "Niels Bohr",
+                    "status": false
+                },
+                {
+                    "res": "Max Planck",
+                    "status": false
+                },
+                {
+                    "res": "Louis de Broglie",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o princípio da incerteza?",
+            "respostas": [
+                {
+                    "res": "Limite na medição",
+                    "status": true
+                },
+                {
+                    "res": "Lei da gravitação",
+                    "status": false
+                },
+                {
+                    "res": "Lei da inércia",
+                    "status": false
+                },
+                {
+                    "res": "Lei da ação e reação",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem propôs o princípio da incerteza?",
+            "respostas": [
+                {
+                    "res": "Werner Heisenberg",
+                    "status": true
+                },
+                {
+                    "res": "Albert Einstein",
+                    "status": false
+                },
+                {
+                    "res": "Niels Bohr",
+                    "status": false
+                },
+                {
+                    "res": "Max Planck",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é a física quântica?",
+            "respostas": [
+                {
+                    "res": "Estudo do muito pequeno",
+                    "status": true
+                },
+                {
+                    "res": "Estudo do universo",
+                    "status": false
+                },
+                {
+                    "res": "Estudo da gravidade",
+                    "status": false
+                },
+                {
+                    "res": "Estudo da luz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um quantum?",
+            "respostas": [
+                {
+                    "res": "Quantidade mínima de energia",
+                    "status": true
+                },
+                {
+                    "res": "Partícula de luz",
+                    "status": false
+                },
+                {
+                    "res": "Partícula de matéria",
+                    "status": false
+                },
+                {
+                    "res": "Partícula de som",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é carga elétrica?",
+            "respostas": [
+                {
+                    "res": "Propriedade da matéria",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de energia",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                },
+                {
+                    "res": "Campo elétrico",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade da carga elétrica no SI?",
+            "respostas": [
+                {
+                    "res": "Coulomb (C)",
+                    "status": true
+                },
+                {
+                    "res": "Volt (V)",
+                    "status": false
+                },
+                {
+                    "res": "Ampère (A)",
+                    "status": false
+                },
+                {
+                    "res": "Ohm (Ω)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Coulomb?",
+            "respostas": [
+                {
+                    "res": "Força entre cargas",
+                    "status": true
+                },
+                {
+                    "res": "Força em circuitos",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                },
+                {
+                    "res": "Força gravitacional",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é campo elétrico?",
+            "respostas": [
+                {
+                    "res": "Região de influência",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de corrente",
+                    "status": false
+                },
+                {
+                    "res": "Força magnética",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de carga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é potencial elétrico?",
+            "respostas": [
+                {
+                    "res": "Energia por carga",
+                    "status": true
+                },
+                {
+                    "res": "Força por carga",
+                    "status": false
+                },
+                {
+                    "res": "Corrente por carga",
+                    "status": false
+                },
+                {
+                    "res": "Resistência por carga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é corrente elétrica?",
+            "respostas": [
+                {
+                    "res": "Movimento de cargas",
+                    "status": true
+                },
+                {
+                    "res": "Movimento de átomos",
+                    "status": false
+                },
+                {
+                    "res": "Movimento de luz",
+                    "status": false
+                },
+                {
+                    "res": "Movimento de calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade da corrente elétrica no SI?",
+            "respostas": [
+                {
+                    "res": "Ampère (A)",
+                    "status": true
+                },
+                {
+                    "res": "Volt (V)",
+                    "status": false
+                },
+                {
+                    "res": "Ohm (Ω)",
+                    "status": false
+                },
+                {
+                    "res": "Coulomb (C)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Ohm?",
+            "respostas": [
+                {
+                    "res": "V = R · I",
+                    "status": true
+                },
+                {
+                    "res": "V = I / R",
+                    "status": false
+                },
+                {
+                    "res": "V = R / I",
+                    "status": false
+                },
+                {
+                    "res": "V = I² · R",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é resistência elétrica?",
+            "respostas": [
+                {
+                    "res": "Oposição à corrente",
+                    "status": true
+                },
+                {
+                    "res": "Facilitação da corrente",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de carga",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de campo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a unidade da resistência elétrica no SI?",
+            "respostas": [
+                {
+                    "res": "Ohm (Ω)",
+                    "status": true
+                },
+                {
+                    "res": "Volt (V)",
+                    "status": false
+                },
+                {
+                    "res": "Ampère (A)",
+                    "status": false
+                },
+                {
+                    "res": "Coulomb (C)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um circuito simples?",
+            "respostas": [
+                {
+                    "res": "Caminho fechado",
+                    "status": true
+                },
+                {
+                    "res": "Caminho aberto",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de carga",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de campo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é campo magnético?",
+            "respostas": [
+                {
+                    "res": "Região de influência",
+                    "status": true
+                },
+                {
+                    "res": "Tipo de corrente",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de carga",
+                    "status": false
+                },
+                {
+                    "res": "Tipo de resistência",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é força magnética?",
+            "respostas": [
+                {
+                    "res": "Força sobre cargas",
+                    "status": true
+                },
+                {
+                    "res": "Força sobre átomos",
+                    "status": false
+                },
+                {
+                    "res": "Força sobre luz",
+                    "status": false
+                },
+                {
+                    "res": "Força sobre calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é indução eletromagnética?",
+            "respostas": [
+                {
+                    "res": "Geração de corrente",
+                    "status": true
+                },
+                {
+                    "res": "Geração de carga",
+                    "status": false
+                },
+                {
+                    "res": "Geração de luz",
+                    "status": false
+                },
+                {
+                    "res": "Geração de calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Faraday?",
+            "respostas": [
+                {
+                    "res": "Indução de tensão",
+                    "status": true
+                },
+                {
+                    "res": "Indução de corrente",
+                    "status": false
+                },
+                {
+                    "res": "Indução de carga",
+                    "status": false
+                },
+                {
+                    "res": "Indução de resistência",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que diz a Lei de Lenz?",
+            "respostas": [
+                {
+                    "res": "Oposição à mudança",
+                    "status": true
+                },
+                {
+                    "res": "Facilitação da mudança",
+                    "status": false
+                },
+                {
+                    "res": "Geração de luz",
+                    "status": false
+                },
+                {
+                    "res": "Geração de calor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um gerador?",
+            "respostas": [
+                {
+                    "res": "Converte energia",
+                    "status": true
+                },
+                {
+                    "res": "Armazena energia",
+                    "status": false
+                },
+                {
+                    "res": "Dissipa energia",
+                    "status": false
+                },
+                {
+                    "res": "Amplifica energia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um transformador?",
+            "respostas": [
+                {
+                    "res": "Altera tensão",
+                    "status": true
+                },
+                {
+                    "res": "Altera corrente",
+                    "status": false
+                },
+                {
+                    "res": "Altera resistência",
+                    "status": false
+                },
+                {
+                    "res": "Altera carga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a função de um transformador?",
+            "respostas": [
+                {
+                    "res": "Aumentar/diminuir tensão",
+                    "status": true
+                },
+                {
+                    "res": "Gerar corrente",
+                    "status": false
+                },
+                {
+                    "res": "Armazenar carga",
+                    "status": false
+                },
+                {
+                    "res": "Dissipar calor",
+                    "status": false
+                }
+            ]
+        }
+    ]
+}
