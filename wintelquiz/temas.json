@@ -16,6 +16,10 @@
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/geografia.json"
   },
   {
+    "nome": "Quimica",
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/quimica.json"
+  },
+  {
     "nome": "Redes de Computadores",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/redes.json"
   }

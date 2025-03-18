@@ -2628,6 +2628,321 @@
                     "status": false
                 }
             ]
+        },
+        {
+            "questao": "O que é oxidação?",
+            "respostas": [
+                {
+                    "res": "Perda de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Ganho de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Formação de íons.",
+                    "status": false
+                },
+                {
+                    "res": "Liberação de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é redução?",
+            "respostas": [
+                {
+                    "res": "Ganho de elétrons.",
+                    "status": true
+                },
+                {
+                    "res": "Perda de elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Formação de íons.",
+                    "status": false
+                },
+                {
+                    "res": "Liberação de energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma reação redox?",
+            "respostas": [
+                {
+                    "res": "Reação com oxidação e redução.",
+                    "status": true
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de decomposição.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de síntese.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um agente oxidante?",
+            "respostas": [
+                {
+                    "res": "Substância que causa oxidação.",
+                    "status": true
+                },
+                {
+                    "res": "Substância que causa redução.",
+                    "status": false
+                },
+                {
+                    "res": "Substância que perde elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Substância que libera energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é um agente redutor?",
+            "respostas": [
+                {
+                    "res": "Substância que causa redução.",
+                    "status": true
+                },
+                {
+                    "res": "Substância que causa oxidação.",
+                    "status": false
+                },
+                {
+                    "res": "Substância que ganha elétrons.",
+                    "status": false
+                },
+                {
+                    "res": "Substância que absorve energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma pilha eletroquímica?",
+            "respostas": [
+                {
+                    "res": "Dispositivo que gera energia elétrica.",
+                    "status": true
+                },
+                {
+                    "res": "Dispositivo que consome energia.",
+                    "status": false
+                },
+                {
+                    "res": "Dispositivo para eletrólise.",
+                    "status": false
+                },
+                {
+                    "res": "Dispositivo para neutralização.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o ânodo em uma pilha?",
+            "respostas": [
+                {
+                    "res": "Eletrodo onde ocorre oxidação.",
+                    "status": true
+                },
+                {
+                    "res": "Eletrodo onde ocorre redução.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo que libera energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o cátodo em uma pilha?",
+            "respostas": [
+                {
+                    "res": "Eletrodo onde ocorre redução.",
+                    "status": true
+                },
+                {
+                    "res": "Eletrodo onde ocorre oxidação.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo que absorve energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é eletrólise?",
+            "respostas": [
+                {
+                    "res": "Decomposição por corrente elétrica.",
+                    "status": true
+                },
+                {
+                    "res": "Geração de energia elétrica.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de síntese.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o ânodo na eletrólise?",
+            "respostas": [
+                {
+                    "res": "Eletrodo positivo.",
+                    "status": true
+                },
+                {
+                    "res": "Eletrodo negativo.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo que libera energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é o cátodo na eletrólise?",
+            "respostas": [
+                {
+                    "res": "Eletrodo negativo.",
+                    "status": true
+                },
+                {
+                    "res": "Eletrodo positivo.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo neutro.",
+                    "status": false
+                },
+                {
+                    "res": "Eletrodo que absorve energia.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é galvanização?",
+            "respostas": [
+                {
+                    "res": "Revestimento com metal por eletrólise.",
+                    "status": true
+                },
+                {
+                    "res": "Geração de energia elétrica.",
+                    "status": false
+                },
+                {
+                    "res": "Decomposição de compostos.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é uma bateria?",
+            "respostas": [
+                {
+                    "res": "Pilha recarregável.",
+                    "status": true
+                },
+                {
+                    "res": "Dispositivo para eletrólise.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de síntese.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é corrosão?",
+            "respostas": [
+                {
+                    "res": "Oxidação de metais.",
+                    "status": true
+                },
+                {
+                    "res": "Redução de metais.",
+                    "status": false
+                },
+                {
+                    "res": "Decomposição de compostos.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que é proteção catódica?",
+            "respostas": [
+                {
+                    "res": "Prevenção da corrosão.",
+                    "status": true
+                },
+                {
+                    "res": "Aceleração da corrosão.",
+                    "status": false
+                },
+                {
+                    "res": "Decomposição de compostos.",
+                    "status": false
+                },
+                {
+                    "res": "Reação de neutralização.",
+                    "status": false
+                }
+            ]
         }
     ]
   }
