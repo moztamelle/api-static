@@ -1,0 +1,561 @@
+{
+    "easy": [
+        {
+            "questao": "Complete the sentence: She ___ a book every evening before bed.",
+            "respostas": [
+                {
+                    "res": "reads",
+                    "status": true
+                },
+                {
+                    "res": "read",
+                    "status": false
+                },
+                {
+                    "res": "reading",
+                    "status": false
+                },
+                {
+                    "res": "has read",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: They ___ to the beach last weekend.",
+            "respostas": [
+                {
+                    "res": "go",
+                    "status": false
+                },
+                {
+                    "res": "went",
+                    "status": true
+                },
+                {
+                    "res": "going",
+                    "status": false
+                },
+                {
+                    "res": "gone",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: He ___ his homework right now.",
+            "respostas": [
+                {
+                    "res": "do",
+                    "status": false
+                },
+                {
+                    "res": "does",
+                    "status": false
+                },
+                {
+                    "res": "is doing",
+                    "status": true
+                },
+                {
+                    "res": "done",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: We ___ to the new movie next Friday.",
+            "respostas": [
+                {
+                    "res": "will go",
+                    "status": true
+                },
+                {
+                    "res": "go",
+                    "status": false
+                },
+                {
+                    "res": "going",
+                    "status": false
+                },
+                {
+                    "res": "gone",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: I ___ my keys this morning.",
+            "respostas": [
+                {
+                    "res": "lose",
+                    "status": false
+                },
+                {
+                    "res": "lost",
+                    "status": true
+                },
+                {
+                    "res": "losing",
+                    "status": false
+                },
+                {
+                    "res": "loses",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: She ___ a delicious cake for the party.",
+            "respostas": [
+                {
+                    "res": "bake",
+                    "status": false
+                },
+                {
+                    "res": "bakes",
+                    "status": false
+                },
+                {
+                    "res": "baked",
+                    "status": true
+                },
+                {
+                    "res": "baking",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: They ___ their grandparents every summer.",
+            "respostas": [
+                {
+                    "res": "visit",
+                    "status": true
+                },
+                {
+                    "res": "visits",
+                    "status": false
+                },
+                {
+                    "res": "visiting",
+                    "status": false
+                },
+                {
+                    "res": "visited",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: He ___ to the gym three times a week.",
+            "respostas": [
+                {
+                    "res": "go",
+                    "status": false
+                },
+                {
+                    "res": "goes",
+                    "status": true
+                },
+                {
+                    "res": "going",
+                    "status": false
+                },
+                {
+                    "res": "gone",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: I ___ to music while I work.",
+            "respostas": [
+                {
+                    "res": "listen",
+                    "status": true
+                },
+                {
+                    "res": "listens",
+                    "status": false
+                },
+                {
+                    "res": "listening",
+                    "status": false
+                },
+                {
+                    "res": "listened",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: She ___ a new car next month.",
+            "respostas": [
+                {
+                    "res": "buys",
+                    "status": false
+                },
+                {
+                    "res": "buy",
+                    "status": false
+                },
+                {
+                    "res": "will buy",
+                    "status": true
+                },
+                {
+                    "res": "bought",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: We ___ to the zoo if it doesn't rain tomorrow.",
+            "respostas": [
+                {
+                    "res": "go",
+                    "status": false
+                },
+                {
+                    "res": "will go",
+                    "status": true
+                },
+                {
+                    "res": "going",
+                    "status": false
+                },
+                {
+                    "res": "gone",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: He ___ his breakfast before leaving for work.",
+            "respostas": [
+                {
+                    "res": "eat",
+                    "status": false
+                },
+                {
+                    "res": "eats",
+                    "status": false
+                },
+                {
+                    "res": "ate",
+                    "status": true
+                },
+                {
+                    "res": "eating",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: They ___ a lot of fun at the party last night.",
+            "respostas": [
+                {
+                    "res": "have",
+                    "status": false
+                },
+                {
+                    "res": "has",
+                    "status": false
+                },
+                {
+                    "res": "had",
+                    "status": true
+                },
+                {
+                    "res": "having",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: She ___ a beautiful song at the concert.",
+            "respostas": [
+                {
+                    "res": "sings",
+                    "status": false
+                },
+                {
+                    "res": "sang",
+                    "status": true
+                },
+                {
+                    "res": "sing",
+                    "status": false
+                },
+                {
+                    "res": "sung",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: I ___ my homework before dinner.",
+            "respostas": [
+                {
+                    "res": "finish",
+                    "status": false
+                },
+                {
+                    "res": "finishes",
+                    "status": false
+                },
+                {
+                    "res": "finished",
+                    "status": true
+                },
+                {
+                    "res": "finishing",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: He ___ a letter to his friend yesterday.",
+            "respostas": [
+                {
+                    "res": "write",
+                    "status": false
+                },
+                {
+                    "res": "writes",
+                    "status": false
+                },
+                {
+                    "res": "wrote",
+                    "status": true
+                },
+                {
+                    "res": "writing",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: We ___ a lot of photos during our vacation.",
+            "respostas": [
+                {
+                    "res": "take",
+                    "status": false
+                },
+                {
+                    "res": "takes",
+                    "status": false
+                },
+                {
+                    "res": "took",
+                    "status": true
+                },
+                {
+                    "res": "taking",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: She ___ her room every Saturday.",
+            "respostas": [
+                {
+                    "res": "clean",
+                    "status": false
+                },
+                {
+                    "res": "cleans",
+                    "status": true
+                },
+                {
+                    "res": "cleaning",
+                    "status": false
+                },
+                {
+                    "res": "cleaned",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: They ___ the project by next week.",
+            "respostas": [
+                {
+                    "res": "complete",
+                    "status": false
+                },
+                {
+                    "res": "completes",
+                    "status": false
+                },
+                {
+                    "res": "will complete",
+                    "status": true
+                },
+                {
+                    "res": "completed",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Complete the sentence: He ___ his bike to school every day.",
+            "respostas": [
+                {
+                    "res": "ride",
+                    "status": false
+                },
+                {
+                    "res": "rides",
+                    "status": true
+                },
+                {
+                    "res": "riding",
+                    "status": false
+                },
+                {
+                    "res": "rode",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Match the word 'Happy' with its correct meaning:",
+            "respostas": [
+                {"res": "Feeling joy", "status": true},
+                {"res": "Feeling sorrow", "status": false},
+                {"res": "Feeling anger", "status": false},
+                {"res": "Feeling tired", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the word 'Sad' with its correct meaning:",
+            "respostas": [
+                {"res": "Feeling sorrow", "status": true},
+                {"res": "Feeling joy", "status": false},
+                {"res": "Feeling excitement", "status": false},
+                {"res": "Feeling calm", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the word 'Angry' with its correct meaning:",
+            "respostas": [
+                {"res": "Feeling rage", "status": true},
+                {"res": "Feeling happiness", "status": false},
+                {"res": "Feeling sadness", "status": false},
+                {"res": "Feeling tired", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the word 'Tired' with its correct meaning:",
+            "respostas": [
+                {"res": "Feeling sleepy", "status": true},
+                {"res": "Feeling energetic", "status": false},
+                {"res": "Feeling excited", "status": false},
+                {"res": "Feeling calm", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the verb 'Go' with its past tense form:",
+            "respostas": [
+                {"res": "Went", "status": true},
+                {"res": "Gone", "status": false},
+                {"res": "Going", "status": false},
+                {"res": "Goes", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the verb 'Eat' with its past tense form:",
+            "respostas": [
+                {"res": "Ate", "status": true},
+                {"res": "Eaten", "status": false},
+                {"res": "Eating", "status": false},
+                {"res": "Eats", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the verb 'See' with its past tense form:",
+            "respostas": [
+                {"res": "Saw", "status": true},
+                {"res": "Seen", "status": false},
+                {"res": "Seeing", "status": false},
+                {"res": "Sees", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the verb 'Take' with its past tense form:",
+            "respostas": [
+                {"res": "Took", "status": true},
+                {"res": "Taken", "status": false},
+                {"res": "Taking", "status": false},
+                {"res": "Takes", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the country 'France' with its capital:",
+            "respostas": [
+                {"res": "Paris", "status": true},
+                {"res": "London", "status": false},
+                {"res": "Berlin", "status": false},
+                {"res": "Madrid", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the country 'Japan' with its capital:",
+            "respostas": [
+                {"res": "Tokyo", "status": true},
+                {"res": "Beijing", "status": false},
+                {"res": "Seoul", "status": false},
+                {"res": "Bangkok", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the country 'Brazil' with its capital:",
+            "respostas": [
+                {"res": "Brasília", "status": true},
+                {"res": "Rio de Janeiro", "status": false},
+                {"res": "São Paulo", "status": false},
+                {"res": "Buenos Aires", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the country 'Canada' with its capital:",
+            "respostas": [
+                {"res": "Ottawa", "status": true},
+                {"res": "Toronto", "status": false},
+                {"res": "Vancouver", "status": false},
+                {"res": "Montreal", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the animal 'Dog' with its sound:",
+            "respostas": [
+                {"res": "Bark", "status": true},
+                {"res": "Meow", "status": false},
+                {"res": "Moo", "status": false},
+                {"res": "Chirp", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the animal 'Cat' with its sound:",
+            "respostas": [
+                {"res": "Meow", "status": true},
+                {"res": "Bark", "status": false},
+                {"res": "Moo", "status": false},
+                {"res": "Chirp", "status": false}
+            ]
+        },
+        {
+            "questao": "Match the animal 'Cow' with its sound:",
+            "respostas": [
+                {"res": "Moo", "status": true},
+                {"res": "Bark", "status": false},
+                {"res": "Meow", "status": false},
+                {"res": "Chirp", "status": false}
+            ]
+        }
+    ],
+    "medium": [],
+    "dificult": []
+}
