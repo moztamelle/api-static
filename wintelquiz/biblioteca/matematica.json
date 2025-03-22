@@ -34,5 +34,17 @@
         "url" : "https://drive.google.com/file/d/1phuwAaEwmmunGdRqBKXbJx_rsR1W-jvx/view?usp=sharing",
         "shared" : "Desconhecido",
         "type" : "BOOK"
+    },
+    {
+        "title" : "Identidades Algebricas",
+        "url" : "https://drive.google.com/file/d/12zZ1uQ89sxFdqtxATTIsaPglXepzpMAH/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "AUX"
+    },
+    {
+        "title" : "Tabela - Derivadas, Integrais, Trigonometria",
+        "url" : "https://drive.google.com/file/d/19AD8eNfP7hgTWlklYtOqsXcyMp8hc6Tz/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "AUX"
     }
 ]
