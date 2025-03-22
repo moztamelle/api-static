@@ -1,14 +1,14 @@
 [
     {
-        "title": "Redes de Computadores",
-        "description":"Material relacionado a redes de computadores",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/redes.json",
-        "dev":""
-    },
-    {
         "title": "Matemática",
         "description":"Manuas de matemática e outros artigos",
         "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
+        "dev":""
+    },
+    {
+        "title": "Redes de Computadores",
+        "description":"Material relacionado a redes de computadores",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/redes.json",
         "dev":""
     }
 ]
