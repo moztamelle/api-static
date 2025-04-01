@@ -1,14 +1,20 @@
 [
     {
+        "title": "Livros",
+        "description":"Poesia, Romance, Fantasia, Suspense, Aventura e Outros",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/outros-livros.json",
+        "dev":""
+    },
+    {
         "title": "Matemática",
         "description":"Manuas de matemática e outros artigos",
         "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
         "dev":""
     },
     {
-        "title": "Redes de Computadores",
-        "description":"Material relacionado a redes de computadores",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/redes.json",
+        "title": "Biologia",
+        "description":"Manuas de Biologia e outros artigos",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/biologia.json",
         "dev":""
     }
 ]
