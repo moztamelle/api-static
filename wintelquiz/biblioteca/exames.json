@@ -2,13 +2,13 @@
     {
         "title": "2024",
         "description":"Exames ensino médio e Admissão",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/exames/2024.json",
         "dev":""
     },
     {
         "title": "2023",
         "description":"Exames ensino médio e Admissão",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/biologia.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/exames/2024.json",
         "dev":""
     }
 ]
