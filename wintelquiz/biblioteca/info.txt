@@ -1,1 +1,0 @@
-O type de cada documento pode ser BOOK | AUX

@@ -1,0 +1,2 @@
+O type de cada documento pode ser BOOK | AUX
+O type de cada exame é SUP | MED
