@@ -22,5 +22,9 @@
   {
     "nome": "Redes de Computadores",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/redes.json"
+  },
+  {
+    "nome": "Futebol",
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/futebol.json"
   }
 ]

@@ -1,0 +1,4103 @@
+{
+    "easy": [
+        {
+            "questao": "Qual foi a primeira Copa do Mundo de Futebol, e quem a venceu?",
+            "respostas": [
+                {
+                    "res": "1930, Uruguai",
+                    "status": true
+                },
+                {
+                    "res": "1934, Itália",
+                    "status": false
+                },
+                {
+                    "res": "1938, França",
+                    "status": false
+                },
+                {
+                    "res": "1950, Brasil",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é considerado o 'Rei do Futebol'?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": true
+                },
+                {
+                    "res": "Maradona",
+                    "status": false
+                },
+                {
+                    "res": "Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a seleção que mais venceu Copas do Mundo?",
+            "respostas": [
+                {
+                    "res": "Brasil",
+                    "status": true
+                },
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "Alemanha",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano o futebol foi introduzido nos Jogos Olímpicos?",
+            "respostas": [
+                {
+                    "res": "1896",
+                    "status": true
+                },
+                {
+                    "res": "1900",
+                    "status": false
+                },
+                {
+                    "res": "1904",
+                    "status": false
+                },
+                {
+                    "res": "1908",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a primeira liga profissional de futebol do mundo?",
+            "respostas": [
+                {
+                    "res": "The Football League (Inglaterra)",
+                    "status": true
+                },
+                {
+                    "res": "Scottish Football League (Escócia)",
+                    "status": false
+                },
+                {
+                    "res": "Football League First Division (Inglaterra)",
+                    "status": false
+                },
+                {
+                    "res": "Campeonato Brasileiro Série A",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem inventou o futebol?",
+            "respostas": [
+                {
+                    "res": "Charles Miller",
+                    "status": false
+                },
+                {
+                    "res": "John Love",
+                    "status": false
+                },
+                {
+                    "res": "Ebenezer Cobb Morley",
+                    "status": true
+                },
+                {
+                    "res": "Walter Camp",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o maior estádio de futebol do mundo?",
+            "respostas": [
+                {
+                    "res": "Rungrado 1º de Maio (Coreia do Norte)",
+                    "status": true
+                },
+                {
+                    "res": "Estádio Nacional de Pequim (China)",
+                    "status": false
+                },
+                {
+                    "res": "Camp Nou (Espanha)",
+                    "status": false
+                },
+                {
+                    "res": "Azteca (México)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o primeiro gol da história da Copa do Mundo?",
+            "respostas": [
+                {
+                    "res": "Lucien Laurent (França)",
+                    "status": true
+                },
+                {
+                    "res": "Guillermo Stábile (Argentina)",
+                    "status": false
+                },
+                {
+                    "res": "Bert Patenaude (Estados Unidos)",
+                    "status": false
+                },
+                {
+                    "res": "José Andrade (Uruguai)",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual seleção africana venceu a Copa das Nações Africanas pela primeira vez?",
+            "respostas": [
+                {
+                    "res": "Egito",
+                    "status": true
+                },
+                {
+                    "res": "Sudão",
+                    "status": false
+                },
+                {
+                    "res": "Etiópia",
+                    "status": false
+                },
+                {
+                    "res": "Gana",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a primeira final da Copa do Mundo a ser decidida na prorrogação?",
+            "respostas": [
+                {
+                    "res": "1930 (Uruguai x Argentina)",
+                    "status": false
+                },
+                {
+                    "res": "1934 (Itália x Checoslováquia)",
+                    "status": false
+                },
+                {
+                    "res": "1950 (Brasil x Uruguai)",
+                    "status": false
+                },
+                {
+                    "res": "1954 (Alemanha Ocidental x Hungria)",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi eleito o melhor do mundo pela FIFA seis vezes?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Ronaldo Fenômeno",
+                    "status": false
+                },
+                {
+                    "res": "Pelé",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o único jogador a ter marcado mais de 1.000 gols em sua carreira?",
+            "respostas": [
+                {
+                    "res": "Josef Bican",
+                    "status": true
+                },
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Romário",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem marcou o gol de número 1.000 na história das Copas do Mundo?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Miroslav Klose",
+                    "status": true
+                },
+                {
+                    "res": "Gerd Müller",
+                    "status": false
+                },
+                {
+                    "res": "Ernie Brandts",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em qual país ocorreu a primeira Copa do Mundo de Futebol?",
+            "respostas": [
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Uruguai",
+                    "status": true
+                },
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol mais rápido da história da Liga dos Campeões da UEFA?",
+            "respostas": [
+                {
+                    "res": "Roy Makaay",
+                    "status": true
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Robert Lewandowski",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a primeira seleção africana a chegar às quartas de final de uma Copa do Mundo?",
+            "respostas": [
+                {
+                    "res": "Gana",
+                    "status": false
+                },
+                {
+                    "res": "Camarões",
+                    "status": true
+                },
+                {
+                    "res": "Nigéria",
+                    "status": false
+                },
+                {
+                    "res": "Senegal",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é conhecido como 'O Canhão do Arsenal'?",
+            "respostas": [
+                {
+                    "res": "Thierry Henry",
+                    "status": true
+                },
+                {
+                    "res": "Dennis Bergkamp",
+                    "status": false
+                },
+                {
+                    "res": "Ian Wright",
+                    "status": false
+                },
+                {
+                    "res": "Tony Adams",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador recebeu o apelido de 'Doutor Sócrates'?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Zico",
+                    "status": false
+                },
+                {
+                    "res": "Sócrates",
+                    "status": true
+                },
+                {
+                    "res": "Rivelino",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano a seleção brasileira masculina de futebol conquistou sua primeira medalha de ouro olímpica?",
+            "respostas": [
+                {
+                    "res": "1996",
+                    "status": false
+                },
+                {
+                    "res": "2000",
+                    "status": false
+                },
+                {
+                    "res": "2004",
+                    "status": false
+                },
+                {
+                    "res": "2016",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o jogador com mais títulos de melhor jogador do mundo?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Diego Maradona",
+                    "status": false
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi artilheiro da Copa do Mundo de 2014?",
+            "respostas": [
+                {
+                    "res": "Thomas Müller",
+                    "status": false
+                },
+                {
+                    "res": "James Rodríguez",
+                    "status": true
+                },
+                {
+                    "res": "Neymar Jr.",
+                    "status": false
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual país sediou a Copa do Mundo de 1958?",
+            "respostas": [
+                {
+                    "res": "Suécia",
+                    "status": true
+                },
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Alemanha",
+                    "status": false
+                },
+                {
+                    "res": "França",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é considerado o maior jogador de futebol de todos os tempos?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": true
+                },
+                {
+                    "res": "Diego Maradona",
+                    "status": false
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi o primeiro país a sediar duas vezes a Copa do Mundo de Futebol?",
+            "respostas": [
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "França",
+                    "status": false
+                },
+                {
+                    "res": "México",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi artilheiro da Copa do Mundo de 2002?",
+            "respostas": [
+                {
+                    "res": "Ronaldo Fenômeno",
+                    "status": true
+                },
+                {
+                    "res": "Rivaldo",
+                    "status": false
+                },
+                {
+                    "res": "Ronaldinho Gaúcho",
+                    "status": false
+                },
+                {
+                    "res": "Michael Ballack",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual país é conhecido como 'A Laranja Mecânica'?",
+            "respostas": [
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                },
+                {
+                    "res": "Holanda",
+                    "status": true
+                },
+                {
+                    "res": "Alemanha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi apelidado de 'O Fenômeno'?",
+            "respostas": [
+                {
+                    "res": "Neymar Jr.",
+                    "status": false
+                },
+                {
+                    "res": "Ronaldinho Gaúcho",
+                    "status": false
+                },
+                {
+                    "res": "Ronaldo Fenômeno",
+                    "status": true
+                },
+                {
+                    "res": "Kaká",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual seleção é conhecida como 'A Celeste Olímpica'?",
+            "respostas": [
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                },
+                {
+                    "res": "Uruguai",
+                    "status": true
+                },
+                {
+                    "res": "Espanha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador é conhecido como 'O Maestro'?",
+            "respostas": [
+                {
+                    "res": "Zinedine Zidane",
+                    "status": false
+                },
+                {
+                    "res": "Xavi Hernández",
+                    "status": true
+                },
+                {
+                    "res": "Andrés Iniesta",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Pirlo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual seleção ganhou a Copa do Mundo de Futebol em 2018?",
+            "respostas": [
+                {
+                    "res": "França",
+                    "status": true
+                },
+                {
+                    "res": "Croácia",
+                    "status": false
+                },
+                {
+                    "res": "Bélgica",
+                    "status": false
+                },
+                {
+                    "res": "Inglaterra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem marcou o gol da vitória do Brasil na final da Copa do Mundo de 2002?",
+            "respostas": [
+                {
+                    "res": "Ronaldo Fenômeno",
+                    "status": true
+                },
+                {
+                    "res": "Rivaldo",
+                    "status": false
+                },
+                {
+                    "res": "Ronaldinho Gaúcho",
+                    "status": false
+                },
+                {
+                    "res": "Roberto Carlos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a primeira seleção a vencer a Copa do Mundo em seu próprio país?",
+            "respostas": [
+                {
+                    "res": "Uruguai",
+                    "status": false
+                },
+                {
+                    "res": "Brasil",
+                    "status": true
+                },
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "Alemanha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador ganhou o prêmio de melhor jogador do mundo pela primeira vez em 1957?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Alfredo Di Stefano",
+                    "status": true
+                },
+                {
+                    "res": "Johan Cruyff",
+                    "status": false
+                },
+                {
+                    "res": "Ferenc Puskas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador venceu o prêmio Bola de Ouro da FIFA em cinco ocasiões?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Michel Platini",
+                    "status": false
+                },
+                {
+                    "res": "Marco van Basten",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o país com mais títulos de Copa do Mundo de Futebol?",
+            "respostas": [
+                {
+                    "res": "Itália",
+                    "status": false
+                },
+                {
+                    "res": "Alemanha",
+                    "status": true
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                },
+                {
+                    "res": "Brasil",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol mais rápido da história da Copa do Mundo?",
+            "respostas": [
+                {
+                    "res": "Hakan Şükür",
+                    "status": false
+                },
+                {
+                    "res": "Ernie Brandts",
+                    "status": false
+                },
+                {
+                    "res": "Bryan Robson",
+                    "status": false
+                },
+                {
+                    "res": "Héctor Scarone",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi o artilheiro da Copa do Mundo de 1970?",
+            "respostas": [
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Gerd Müller",
+                    "status": false
+                },
+                {
+                    "res": "Jairzinho",
+                    "status": false
+                },
+                {
+                    "res": "Gerd Müller",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano a Inglaterra conquistou sua única Copa do Mundo?",
+            "respostas": [
+                {
+                    "res": "1966",
+                    "status": true
+                },
+                {
+                    "res": "1958",
+                    "status": false
+                },
+                {
+                    "res": "1970",
+                    "status": false
+                },
+                {
+                    "res": "1982",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é o jogador com o maior número de gols em uma única edição da Copa do Mundo?",
+            "respostas": [
+                {
+                    "res": "Miroslav Klose",
+                    "status": false
+                },
+                {
+                    "res": "Just Fontaine",
+                    "status": true
+                },
+                {
+                    "res": "Pelé",
+                    "status": false
+                },
+                {
+                    "res": "Gerd Müller",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador argentino ficou conhecido como 'El Pibe'?",
+            "respostas": [
+                {
+                    "res": "Diego Maradona",
+                    "status": true
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Gabriel Batistuta",
+                    "status": false
+                },
+                {
+                    "res": "Carlos Tevez",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi apelidado de 'O Rei do Drible'?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Neymar Jr.",
+                    "status": false
+                },
+                {
+                    "res": "Garrincha",
+                    "status": true
+                },
+                {
+                    "res": "Ronaldinho Gaúcho",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador ganhou a Copa do Mundo como capitão em 1998?",
+            "respostas": [
+                {
+                    "res": "Didier Deschamps",
+                    "status": true
+                },
+                {
+                    "res": "Zinedine Zidane",
+                    "status": false
+                },
+                {
+                    "res": "Thierry Henry",
+                    "status": false
+                },
+                {
+                    "res": "Marcel Desailly",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube possui o recorde de mais títulos na Liga dos Campeões da UEFA?",
+            "respostas": [
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol mais rápido na história da final da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Paolo Maldini",
+                    "status": false
+                },
+                {
+                    "res": "Javier Zanetti",
+                    "status": false
+                },
+                {
+                    "res": "Diego Milito",
+                    "status": false
+                },
+                {
+                    "res": "Mohamed Salah",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês venceu a Liga dos Campeões em 2019?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quantas vezes o Barcelona conquistou a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "3",
+                    "status": false
+                },
+                {
+                    "res": "4",
+                    "status": false
+                },
+                {
+                    "res": "5",
+                    "status": true
+                },
+                {
+                    "res": "6",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é o maior artilheiro da história da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Raúl González",
+                    "status": false
+                },
+                {
+                    "res": "Karim Benzema",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi o primeiro clube inglês a vencer a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Real Madrid na conquista da Liga dos Campeões de 2018?",
+            "respostas": [
+                {
+                    "res": "Pep Guardiola",
+                    "status": false
+                },
+                {
+                    "res": "Zinedine Zidane",
+                    "status": true
+                },
+                {
+                    "res": "José Mourinho",
+                    "status": false
+                },
+                {
+                    "res": "Carlo Ancelotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador italiano é o maior artilheiro de todos os tempos na Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Francesco Totti",
+                    "status": false
+                },
+                {
+                    "res": "Alessandro Del Piero",
+                    "status": false
+                },
+                {
+                    "res": "Filippo Inzaghi",
+                    "status": true
+                },
+                {
+                    "res": "Roberto Baggio",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quantas vezes o Bayern de Munique venceu a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "5",
+                    "status": false
+                },
+                {
+                    "res": "6",
+                    "status": true
+                },
+                {
+                    "res": "7",
+                    "status": false
+                },
+                {
+                    "res": "8",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium": [
+        {
+            "questao": "Qual jogador marcou o gol da vitória do Liverpool na final da Liga dos Campeões de 2005?",
+            "respostas": [
+                {
+                    "res": "Xabi Alonso",
+                    "status": false
+                },
+                {
+                    "res": "Steven Gerrard",
+                    "status": false
+                },
+                {
+                    "res": "Jerzy Dudek",
+                    "status": false
+                },
+                {
+                    "res": "Steven Gerrard",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol mais rápido na história da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Roy Makaay",
+                    "status": false
+                },
+                {
+                    "res": "Gareth Bale",
+                    "status": false
+                },
+                {
+                    "res": "Arjen Robben",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga dos Campeões cinco vezes consecutivas?",
+            "respostas": [
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem é o jogador com mais assistências na história da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Xavi Hernández",
+                    "status": true
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Andrés Iniesta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube nunca ganhou a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Borussia Dortmund",
+                    "status": false
+                },
+                {
+                    "res": "Valencia",
+                    "status": false
+                },
+                {
+                    "res": "Atlético de Madrid",
+                    "status": false
+                },
+                {
+                    "res": "Tottenham Hotspur",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol decisivo na final da Liga dos Campeões de 2012?",
+            "respostas": [
+                {
+                    "res": "Fernando Torres",
+                    "status": true
+                },
+                {
+                    "res": "Didier Drogba",
+                    "status": false
+                },
+                {
+                    "res": "Andriy Shevchenko",
+                    "status": false
+                },
+                {
+                    "res": "Frank Lampard",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual país teve o maior número de vencedores do prêmio de melhor jogador na Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Portugal",
+                    "status": false
+                },
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Argentina",
+                    "status": false
+                },
+                {
+                    "res": "Espanha",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube detém o recorde de maior margem de vitória em uma final da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol mais bonito na história da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Zinedine Zidane",
+                    "status": true
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Diego Maradona",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube italiano venceu a Liga dos Campeões em 2010?",
+            "respostas": [
+                {
+                    "res": "Inter de Milão",
+                    "status": true
+                },
+                {
+                    "res": "Milan",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi artilheiro da Liga dos Campeões na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Sadio Mané",
+                    "status": false
+                },
+                {
+                    "res": "Robert Lewandowski",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a primeira edição da Liga dos Campeões da UEFA em 1956?",
+            "respostas": [
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Milan",
+                    "status": false
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador italiano ganhou a Liga dos Campeões com três clubes diferentes?",
+            "respostas": [
+                {
+                    "res": "Alessandro Del Piero",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Pirlo",
+                    "status": false
+                },
+                {
+                    "res": "Clarence Seedorf",
+                    "status": true
+                },
+                {
+                    "res": "Paolo Maldini",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi o primeiro clube inglês a conquistar a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Nottingham Forest",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador espanhol detém o recorde de mais gols em finais da Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Fernando Torres",
+                    "status": false
+                },
+                {
+                    "res": "Raul",
+                    "status": true
+                },
+                {
+                    "res": "David Villa",
+                    "status": false
+                },
+                {
+                    "res": "Xavi Hernandez",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi o único clube a vencer a Liga dos Campeões sem sofrer gols na fase de grupos e nos mata-matas?",
+            "respostas": [
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador venceu a Liga dos Campeões por clubes de três países diferentes?",
+            "respostas": [
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Samuel Eto'o",
+                    "status": true
+                },
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Andrés Iniesta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube espanhol ganhou três vezes consecutivas a Liga dos Campeões entre 1956 e 1960?",
+            "respostas": [
+                {
+                    "res": "Atletico Madrid",
+                    "status": false
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Real Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Sevilla",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a primeira equipe francesa a vencer a Liga dos Campeões?",
+            "respostas": [
+                {
+                    "res": "Marseille",
+                    "status": true
+                },
+                {
+                    "res": "Paris Saint-Germain",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                },
+                {
+                    "res": "Monaco",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês venceu a Liga dos Campeões em 1982?",
+            "respostas": [
+                {
+                    "res": "Nottingham Forest",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Aston Villa",
+                    "status": true
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o técnico do Liverpool na conquista da Liga dos Campeões em 2005?",
+            "respostas": [
+                {
+                    "res": "Rafael Benítez",
+                    "status": true
+                },
+                {
+                    "res": "Kenny Dalglish",
+                    "status": false
+                },
+                {
+                    "res": "Jurgen Klopp",
+                    "status": false
+                },
+                {
+                    "res": "Brendan Rodgers",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube foi derrotado pelo Real Madrid na final da Liga dos Campeões de 2017?",
+            "respostas": [
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador venceu a Liga dos Campeões com três clubes diferentes?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Clarence Seedorf",
+                    "status": true
+                },
+                {
+                    "res": "Andrés Iniesta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual equipe venceu a Liga dos Campeões em 2004?",
+            "respostas": [
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Real Madrid",
+                    "status": false
+                },
+                {
+                    "res": "Porto",
+                    "status": true
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol decisivo na final da Liga dos Campeões de 2008?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Didier Drogba",
+                    "status": false
+                },
+                {
+                    "res": "Owen Hargreaves",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga dos Campeões na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Barcelona",
+                    "status": true
+                },
+                {
+                    "res": "Real Madrid",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": false
+                },
+                {
+                    "res": "Atlético de Madrid",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol da vitória do Barcelona na final da Liga dos Campeões de 2009?",
+            "respostas": [
+                {
+                    "res": "Lionel Messi",
+                    "status": false
+                },
+                {
+                    "res": "Andrés Iniesta",
+                    "status": true
+                },
+                {
+                    "res": "Xavi Hernández",
+                    "status": false
+                },
+                {
+                    "res": "Thierry Henry",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube italiano venceu a Liga dos Campeões em 2007?",
+            "respostas": [
+                {
+                    "res": "AC Milan",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol da vitória do Manchester United na final da Liga dos Campeões de 1999?",
+            "respostas": [
+                {
+                    "res": "Ole Gunnar Solskjær",
+                    "status": true
+                },
+                {
+                    "res": "David Beckham",
+                    "status": false
+                },
+                {
+                    "res": "Ryan Giggs",
+                    "status": false
+                },
+                {
+                    "res": "Paul Scholes",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube espanhol conquistou a Liga dos Campeões em 2001?",
+            "respostas": [
+                {
+                    "res": "Real Madrid",
+                    "status": false
+                },
+                {
+                    "res": "Valencia",
+                    "status": false
+                },
+                {
+                    "res": "Deportivo La Coruña",
+                    "status": false
+                },
+                {
+                    "res": "Bayern de Munique",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol da vitória do Milan na final da Liga dos Campeões de 2003?",
+            "respostas": [
+                {
+                    "res": "Filippo Inzaghi",
+                    "status": true
+                },
+                {
+                    "res": "Andriy Shevchenko",
+                    "status": false
+                },
+                {
+                    "res": "Kaká",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Pirlo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Premier League na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Leicester City",
+                    "status": true
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi o artilheiro da Premier League na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Mohamed Salah",
+                    "status": true
+                },
+                {
+                    "res": "Harry Kane",
+                    "status": false
+                },
+                {
+                    "res": "Sergio Agüero",
+                    "status": false
+                },
+                {
+                    "res": "Jamie Vardy",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Premier League na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": true
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Tottenham Hotspur",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Leicester City na temporada 2015-2016, quando ganharam a Premier League?",
+            "respostas": [
+                {
+                    "res": "José Mourinho",
+                    "status": false
+                },
+                {
+                    "res": "Jurgen Klopp",
+                    "status": false
+                },
+                {
+                    "res": "Claudio Ranieri",
+                    "status": true
+                },
+                {
+                    "res": "Pep Guardiola",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi o artilheiro da Premier League na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Harry Kane",
+                    "status": true
+                },
+                {
+                    "res": "Mohamed Salah",
+                    "status": false
+                },
+                {
+                    "res": "Bruno Fernandes",
+                    "status": false
+                },
+                {
+                    "res": "Dominic Calvert-Lewin",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube conquistou a Premier League na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Chelsea",
+                    "status": true
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Manchester City",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador venceu o prêmio de Jogador do Ano na Premier League na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Virgil van Dijk",
+                    "status": true
+                },
+                {
+                    "res": "Raheem Sterling",
+                    "status": false
+                },
+                {
+                    "res": "Sadio Mané",
+                    "status": false
+                },
+                {
+                    "res": "Kevin De Bruyne",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês foi o vice-campeão da Premier League na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": true
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Leicester City",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o maior número de gols em uma única temporada da Premier League?",
+            "respostas": [
+                {
+                    "res": "Sergio Agüero",
+                    "status": false
+                },
+                {
+                    "res": "Harry Kane",
+                    "status": false
+                },
+                {
+                    "res": "Mohamed Salah",
+                    "status": true
+                },
+                {
+                    "res": "Jamie Vardy",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês venceu a Premier League em 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": true
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Premier League na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Harry Kane",
+                    "status": true
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Alexis Sánchez",
+                    "status": false
+                },
+                {
+                    "res": "Diego Costa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube terminou a temporada 2017-2018 na 7ª posição da Premier League?",
+            "respostas": [
+                {
+                    "res": "Everton",
+                    "status": false
+                },
+                {
+                    "res": "Leicester City",
+                    "status": false
+                },
+                {
+                    "res": "Burnley",
+                    "status": true
+                },
+                {
+                    "res": "Crystal Palace",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol da vitória do Liverpool na final da Premier League de 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Sadio Mané",
+                    "status": false
+                },
+                {
+                    "res": "Roberto Firmino",
+                    "status": false
+                },
+                {
+                    "res": "Mohamed Salah",
+                    "status": true
+                },
+                {
+                    "res": "Divock Origi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual equipe inglesa conquistou a Premier League em 2017?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": true
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Chelsea na temporada 2016-2017, quando ganharam a Premier League?",
+            "respostas": [
+                {
+                    "res": "José Mourinho",
+                    "status": false
+                },
+                {
+                    "res": "Antonio Conte",
+                    "status": true
+                },
+                {
+                    "res": "Pep Guardiola",
+                    "status": false
+                },
+                {
+                    "res": "Jürgen Klopp",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube ganhou a Premier League na temporada 2014-2015?",
+            "respostas": [
+                {
+                    "res": "Chelsea",
+                    "status": true
+                },
+                {
+                    "res": "Manchester City",
+                    "status": false
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Premier League na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Sergio Agüero",
+                    "status": false
+                },
+                {
+                    "res": "Harry Kane",
+                    "status": true
+                },
+                {
+                    "res": "Jamie Vardy",
+                    "status": false
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês terminou a temporada 2016-2017 na 2ª posição da Premier League?",
+            "respostas": [
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Tottenham Hotspur",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Premier League na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Sergio Agüero",
+                    "status": false
+                },
+                {
+                    "res": "Pierre-Emerick Aubameyang",
+                    "status": true
+                },
+                {
+                    "res": "Mohamed Salah",
+                    "status": false
+                },
+                {
+                    "res": "Harry Kane",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Premier League na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": true
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Tottenham Hotspur",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Leicester City na temporada 2015-2016, quando ganharam a Premier League?",
+            "respostas": [
+                {
+                    "res": "Claudio Ranieri",
+                    "status": true
+                },
+                {
+                    "res": "Nigel Pearson",
+                    "status": false
+                },
+                {
+                    "res": "Brendan Rodgers",
+                    "status": false
+                },
+                {
+                    "res": "Steve Bruce",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador marcou o gol decisivo na final da Premier League de 2011-2012, garantindo o título para o Manchester City?",
+            "respostas": [
+                {
+                    "res": "Sergio Agüero",
+                    "status": true
+                },
+                {
+                    "res": "Carlos Tevez",
+                    "status": false
+                },
+                {
+                    "res": "Edin Džeko",
+                    "status": false
+                },
+                {
+                    "res": "David Silva",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube conquistou a Premier League na temporada 2013-2014?",
+            "respostas": [
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": true
+                },
+                {
+                    "res": "Manchester City",
+                    "status": false
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Premier League na temporada 2012-2013?",
+            "respostas": [
+                {
+                    "res": "Robin van Persie",
+                    "status": true
+                },
+                {
+                    "res": "Luis Suárez",
+                    "status": false
+                },
+                {
+                    "res": "Gareth Bale",
+                    "status": false
+                },
+                {
+                    "res": "Wayne Rooney",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube inglês venceu a Premier League na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Manchester City",
+                    "status": true
+                },
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Chelsea",
+                    "status": false
+                },
+                {
+                    "res": "Manchester United",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Sevilla",
+                    "status": true
+                },
+                {
+                    "res": "Villarreal",
+                    "status": false
+                },
+                {
+                    "res": "Borussia Dortmund",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi o artilheiro da Liga Europa na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Zlatan Ibrahimović",
+                    "status": false
+                },
+                {
+                    "res": "Edin Džeko",
+                    "status": false
+                },
+                {
+                    "res": "Edin Višća",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Atletico Madrid",
+                    "status": true
+                },
+                {
+                    "res": "RB Leipzig",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Sevilla na temporada 2015-2016, quando ganharam a Liga Europa?",
+            "respostas": [
+                {
+                    "res": "Unai Emery",
+                    "status": true
+                },
+                {
+                    "res": "Diego Simeone",
+                    "status": false
+                },
+                {
+                    "res": "José Mourinho",
+                    "status": false
+                },
+                {
+                    "res": "Jürgen Klopp",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi eleito o Melhor em Campo na final da Liga Europa de 2018?",
+            "respostas": [
+                {
+                    "res": "Diego Costa",
+                    "status": false
+                },
+                {
+                    "res": "Antoine Griezmann",
+                    "status": true
+                },
+                {
+                    "res": "Diego Godín",
+                    "status": false
+                },
+                {
+                    "res": "Saúl Ñíguez",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Chelsea",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Eintracht Frankfurt",
+                    "status": false
+                },
+                {
+                    "res": "Valencia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Liga Europa na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Bruno Fernandes",
+                    "status": false
+                },
+                {
+                    "res": "Marcus Rashford",
+                    "status": false
+                },
+                {
+                    "res": "Raul Jimenez",
+                    "status": false
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Villarreal",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "AS Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Liga Europa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Edinson Cavani",
+                    "status": false
+                },
+                {
+                    "res": "Gerard Moreno",
+                    "status": true
+                },
+                {
+                    "res": "Pierre-Emerick Aubameyang",
+                    "status": false
+                },
+                {
+                    "res": "Edin Džeko",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "dificult": [
+        {
+            "questao": "Qual jogador foi eleito o Melhor em Campo na final da Liga Europa de 2021?",
+            "respostas": [
+                {
+                    "res": "Dani Parejo",
+                    "status": false
+                },
+                {
+                    "res": "Raúl Albiol",
+                    "status": false
+                },
+                {
+                    "res": "Gerard Moreno",
+                    "status": true
+                },
+                {
+                    "res": "Paco Alcácer",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Liverpool",
+                    "status": false
+                },
+                {
+                    "res": "Sevilla",
+                    "status": true
+                },
+                {
+                    "res": "Villarreal",
+                    "status": false
+                },
+                {
+                    "res": "Borussia Dortmund",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi o artilheiro da Liga Europa na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Zlatan Ibrahimović",
+                    "status": false
+                },
+                {
+                    "res": "Edin Džeko",
+                    "status": false
+                },
+                {
+                    "res": "Edin Višća",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Atletico Madrid",
+                    "status": true
+                },
+                {
+                    "res": "RB Leipzig",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o treinador do Sevilla na temporada 2015-2016, quando ganharam a Liga Europa?",
+            "respostas": [
+                {
+                    "res": "Unai Emery",
+                    "status": true
+                },
+                {
+                    "res": "Diego Simeone",
+                    "status": false
+                },
+                {
+                    "res": "José Mourinho",
+                    "status": false
+                },
+                {
+                    "res": "Jürgen Klopp",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi eleito o Melhor em Campo na final da Liga Europa de 2018?",
+            "respostas": [
+                {
+                    "res": "Diego Costa",
+                    "status": false
+                },
+                {
+                    "res": "Antoine Griezmann",
+                    "status": true
+                },
+                {
+                    "res": "Diego Godín",
+                    "status": false
+                },
+                {
+                    "res": "Saúl Ñíguez",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Chelsea",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "Eintracht Frankfurt",
+                    "status": false
+                },
+                {
+                    "res": "Valencia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Liga Europa na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Bruno Fernandes",
+                    "status": false
+                },
+                {
+                    "res": "Marcus Rashford",
+                    "status": false
+                },
+                {
+                    "res": "Raul Jimenez",
+                    "status": false
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Liga Europa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Manchester United",
+                    "status": false
+                },
+                {
+                    "res": "Villarreal",
+                    "status": true
+                },
+                {
+                    "res": "Arsenal",
+                    "status": false
+                },
+                {
+                    "res": "AS Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Liga Europa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Edinson Cavani",
+                    "status": false
+                },
+                {
+                    "res": "Gerard Moreno",
+                    "status": true
+                },
+                {
+                    "res": "Pierre-Emerick Aubameyang",
+                    "status": false
+                },
+                {
+                    "res": "Edin Džeko",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual jogador foi eleito o Melhor em Campo na final da Liga Europa de 2021?",
+            "respostas": [
+                {
+                    "res": "Dani Parejo",
+                    "status": false
+                },
+                {
+                    "res": "Raúl Albiol",
+                    "status": false
+                },
+                {
+                    "res": "Gerard Moreno",
+                    "status": true
+                },
+                {
+                    "res": "Paco Alcácer",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Benfica",
+                    "status": true
+                },
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Bas Dost",
+                    "status": true
+                },
+                {
+                    "res": "Jonas",
+                    "status": false
+                },
+                {
+                    "res": "Vincent Aboubakar",
+                    "status": false
+                },
+                {
+                    "res": "Tiquinho Soares",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube conquistou a Primeira Liga Portuguesa na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": true
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Haris Seferović",
+                    "status": false
+                },
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Bruno Fernandes",
+                    "status": false
+                },
+                {
+                    "res": "Haris Seferović e Bruno Fernandes",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Benfica",
+                    "status": true
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Pedro Gonçalves",
+                    "status": true
+                },
+                {
+                    "res": "Haris Seferović",
+                    "status": false
+                },
+                {
+                    "res": "João Palhinha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube conquistou a Primeira Liga Portuguesa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": true
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Seferović",
+                    "status": false
+                },
+                {
+                    "res": "Vinícius",
+                    "status": false
+                },
+                {
+                    "res": "Toni Martínez",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Jonas",
+                    "status": true
+                },
+                {
+                    "res": "Jackson Martínez",
+                    "status": false
+                },
+                {
+                    "res": "Islam Slimani",
+                    "status": false
+                },
+                {
+                    "res": "André Silva",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Benfica",
+                    "status": true
+                },
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Jonas",
+                    "status": true
+                },
+                {
+                    "res": "Bas Dost",
+                    "status": false
+                },
+                {
+                    "res": "Vincent Aboubakar",
+                    "status": false
+                },
+                {
+                    "res": "Marega",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": true
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Carlos Vinícius",
+                    "status": false
+                },
+                {
+                    "res": "Tiquinho Soares",
+                    "status": false
+                },
+                {
+                    "res": "Vincent Aboubakar",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": true
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Haris Seferović",
+                    "status": false
+                },
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Pedro Gonçalves",
+                    "status": true
+                },
+                {
+                    "res": "João Palhinha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": false
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Pizzi",
+                    "status": false
+                },
+                {
+                    "res": "Seferović",
+                    "status": false
+                },
+                {
+                    "res": "Vinícius",
+                    "status": false
+                },
+                {
+                    "res": "Toni Martínez",
+                    "status": true
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Primeira Liga Portuguesa na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Porto",
+                    "status": true
+                },
+                {
+                    "res": "Benfica",
+                    "status": false
+                },
+                {
+                    "res": "Sporting",
+                    "status": false
+                },
+                {
+                    "res": "Braga",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Primeira Liga Portuguesa na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Bas Dost",
+                    "status": true
+                },
+                {
+                    "res": "Jonas",
+                    "status": false
+                },
+                {
+                    "res": "Vincent Aboubakar",
+                    "status": false
+                },
+                {
+                    "res": "Marega",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": true
+                },
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube conquistou a Serie A na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Fabio Quagliarella",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Duván Zapata",
+                    "status": false
+                },
+                {
+                    "res": "Krzysztof Piątek",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Lazio",
+                    "status": false
+                },
+                {
+                    "res": "Atalanta",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Lautaro Martínez",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Lazio",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Dusan Vlahovic",
+                    "status": true
+                },
+                {
+                    "res": "Lautaro Martínez",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Atalanta",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": true
+                },
+                {
+                    "res": "Paulo Dybala",
+                    "status": false
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Napoli",
+                    "status": true
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Lazio",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Josip Iličić",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Atalanta",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Luis Muriel",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Atalanta",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Dusan Vlahovic",
+                    "status": true
+                },
+                {
+                    "res": "Lautaro Martínez",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Edin Džeko",
+                    "status": true
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                },
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": false
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Fabio Quagliarella",
+                    "status": true
+                },
+                {
+                    "res": "Duván Zapata",
+                    "status": false
+                },
+                {
+                    "res": "Krzysztof Piątek",
+                    "status": false
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Inter de Milão",
+                    "status": true
+                },
+                {
+                    "res": "AC Milan",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2021-2022?",
+            "respostas": [
+                {
+                    "res": "Dusan Vlahovic",
+                    "status": true
+                },
+                {
+                    "res": "Lautaro Martínez",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Lazio",
+                    "status": true
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2020-2021?",
+            "respostas": [
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Luis Muriel",
+                    "status": false
+                },
+                {
+                    "res": "Andrea Belotti",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Edin Džeko",
+                    "status": true
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                },
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": false
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": true
+                },
+                {
+                    "res": "Paulo Dybala",
+                    "status": false
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Milan",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": true
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Paulo Dybala",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                },
+                {
+                    "res": "Milan",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Edin Džeko",
+                    "status": true
+                },
+                {
+                    "res": "Gonzalo Higuaín",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                },
+                {
+                    "res": "Lazio",
+                    "status": false
+                },
+                {
+                    "res": "Milan",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Mauro Icardi",
+                    "status": false
+                },
+                {
+                    "res": "Dries Mertens",
+                    "status": false
+                },
+                {
+                    "res": "Paulo Dybala",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Serie A na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Juventus",
+                    "status": true
+                },
+                {
+                    "res": "Napoli",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                },
+                {
+                    "res": "Roma",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Fabio Quagliarella",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Duván Zapata",
+                    "status": false
+                },
+                {
+                    "res": "Krzysztof Piątek",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da Itália na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Napoli",
+                    "status": true
+                },
+                {
+                    "res": "Juventus",
+                    "status": false
+                },
+                {
+                    "res": "Atalanta",
+                    "status": false
+                },
+                {
+                    "res": "Inter de Milão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Serie A na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Ciro Immobile",
+                    "status": true
+                },
+                {
+                    "res": "Cristiano Ronaldo",
+                    "status": false
+                },
+                {
+                    "res": "Romelu Lukaku",
+                    "status": false
+                },
+                {
+                    "res": "Josip Iličić",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Ligue 1 na temporada 2015-2016?",
+            "respostas": [
+                {
+                    "res": "Zlatan Ibrahimović",
+                    "status": true
+                },
+                {
+                    "res": "Edinson Cavani",
+                    "status": false
+                },
+                {
+                    "res": "Alexandre Lacazette",
+                    "status": false
+                },
+                {
+                    "res": "Radamel Falcao",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da França na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Paris Saint-Germain (PSG)",
+                    "status": true
+                },
+                {
+                    "res": "AS Monaco",
+                    "status": false
+                },
+                {
+                    "res": "Olympique de Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Ligue 1 na temporada 2016-2017?",
+            "respostas": [
+                {
+                    "res": "Edinson Cavani",
+                    "status": true
+                },
+                {
+                    "res": "Zlatan Ibrahimović",
+                    "status": false
+                },
+                {
+                    "res": "Kylian Mbappé",
+                    "status": false
+                },
+                {
+                    "res": "Neymar",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Ligue 1 na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Paris Saint-Germain (PSG)",
+                    "status": true
+                },
+                {
+                    "res": "AS Monaco",
+                    "status": false
+                },
+                {
+                    "res": "Olympique de Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Ligue 1 na temporada 2017-2018?",
+            "respostas": [
+                {
+                    "res": "Edinson Cavani",
+                    "status": true
+                },
+                {
+                    "res": "Kylian Mbappé",
+                    "status": false
+                },
+                {
+                    "res": "Neymar",
+                    "status": false
+                },
+                {
+                    "res": "Radamel Falcao",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Taça da França na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Stade Rennais FC",
+                    "status": true
+                },
+                {
+                    "res": "Paris Saint-Germain (PSG)",
+                    "status": false
+                },
+                {
+                    "res": "Olympique de Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quem foi o artilheiro da Ligue 1 na temporada 2018-2019?",
+            "respostas": [
+                {
+                    "res": "Kylian Mbappé",
+                    "status": true
+                },
+                {
+                    "res": "Edinson Cavani",
+                    "status": false
+                },
+                {
+                    "res": "Neymar",
+                    "status": false
+                },
+                {
+                    "res": "Radamel Falcao",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual clube venceu a Ligue 1 na temporada 2019-2020?",
+            "respostas": [
+                {
+                    "res": "Paris Saint-Germain (PSG)",
+                    "status": true
+                },
+                {
+                    "res": "Olympique de Marseille",
+                    "status": false
+                },
+                {
+                    "res": "Lille",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                }
+            ]
+        }
+    ]
+}
