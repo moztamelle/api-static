@@ -88,7 +88,7 @@
       "questao": "Qual dos discípulos negou a Jesus?",
       "respostas": [
         {
-          "res": "Judas Iscariotes",
+          "res": "Pedro",
           "status": true
         },
         {
@@ -96,7 +96,7 @@
           "status": false
         },
         {
-          "res": "Pedro",
+          "res": "Judas Iscariotes",
           "status": false
         },
         {
