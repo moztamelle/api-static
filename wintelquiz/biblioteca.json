@@ -4,23 +4,5 @@
         "description":"Manuas de matemática e outros artigos",
         "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
         "dev":""
-    },
-    {
-        "title": "Biologia",
-        "description":"Manuas de Biologia e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/biologia.json",
-        "dev":""
-    },
-    {
-        "title": "História",
-        "description":"Manuas de História e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/historia.json",
-        "dev":""
-    },
-    {
-        "title": "Geografia",
-        "description":"Manuas de História e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/geografia.json",
-        "dev":""
     }
 ]
