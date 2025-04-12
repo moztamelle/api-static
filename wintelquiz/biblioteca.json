@@ -1,8 +1,8 @@
 [
     {
         "title": "Matemática",
-        "description":"Manuas de matemática e outros artigos",
+        "description": "Manuas de ensino médio de matemática e outros artigos",
         "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
-        "dev":""
+        "dev": ""
     }
 ]
