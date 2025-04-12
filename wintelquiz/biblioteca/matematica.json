@@ -12,6 +12,18 @@
         "type" : "BOOK"
     },
     {
+        "title" : "Matemática 10ª Classe (Plural Editores)",
+        "url" : "https://drive.google.com/file/d/1P3yDVsw-cHN_NZ8KXwE6M6gE95wu_Fn9/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
+    },
+    {
+        "title" : "Matemática 10ª Classe (Texto Editores)",
+        "url" : "https://drive.google.com/file/d/13w7asoVlR6gtPWETNAlIOLz-D3ODoDHx/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
+    },
+    {
         "title" : "Matematica 11ª Classe (Longman)",
         "url" : "https://drive.google.com/file/d/1T7OUKW6VOkvvaKqwJdFDfYgfwm5Kw6cl/view?usp=sharing",
         "shared" : "Desconhecido",
@@ -43,6 +55,12 @@
     },
     {
         "title" : "Matemática Básica Explicada Passo",
+        "url" : "https://drive.google.com/file/d/1zeeY153L6WqpQJNhvkQZaaBlTRYgHLaT/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "AUX"
+    },
+    {
+        "title" : "Matemática Caderno de Exercícios 10ª Classe",
         "url" : "https://drive.google.com/file/d/1zeeY153L6WqpQJNhvkQZaaBlTRYgHLaT/view?usp=sharing",
         "shared" : "Desconhecido",
         "type" : "AUX"
