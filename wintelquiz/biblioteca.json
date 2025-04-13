@@ -4,5 +4,23 @@
         "description": "Manuas de ensino médio de matemática e outros artigos",
         "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
         "dev": ""
+    },
+    {
+        "title": "Agro-Pecuaria",
+        "description": "Manuas de ensino médio de Agro-Pecuaria e outros artigos",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/agropecuaria.json",
+        "dev": ""
+    },
+    {
+        "title": "Biologia",
+        "description": "Manuas de ensino médio de Biologia e outros artigos",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/biologia.json",
+        "dev": ""
+    },
+    {
+        "title": "DGD",
+        "description": "Manuas de ensino médio de DGD e outros artigos",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/dgd.json",
+        "dev": ""
     }
 ]
