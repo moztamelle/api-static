@@ -2,73 +2,73 @@
     {
         "title": "Matemática",
         "description": "Manuas de ensino médio de matemática e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/matematica.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/matematica.json",
         "dev": ""
     },
     {
         "title": "Agro-Pecuaria",
         "description": "Manuas de ensino médio de Agro-Pecuaria e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/agropecuaria.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/agropecuaria.json",
         "dev": ""
     },
     {
         "title": "Biologia",
         "description": "Manuas de ensino médio de Biologia e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/biologia.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/biologia.json",
         "dev": ""
     },
     {
         "title": "DGD",
         "description": "Manuas de ensino médio de DGD e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/dgd.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/dgd.json",
         "dev": ""
     },
     {
         "title": "Educação Visual",
         "description": "Manuas de ensino médio de Educação Visual e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/educacaovisual.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/educacaovisual.json",
         "dev": ""
     },
     {
         "title": "Física",
         "description": "Manuas de ensino médio de Física e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/fisica.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/fisica.json",
         "dev": ""
     },
     {
         "title": "Geografia",
         "description": "Manuas de ensino médio de Geografia e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/geografia.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/geografia.json",
         "dev": ""
     },
     {
         "title": "Hístoria",
         "description": "Manuas de ensino médio de Hístoria e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/historia.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/historia.json",
         "dev": ""
     },
     {
         "title": "Inglês",
         "description": "Manuas de ensino médio de Inglês e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ingles.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/ingles.json",
         "dev": ""
     },
     {
         "title": "Português",
         "description": "Manuas de ensino médio de Português e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/portugues.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/portugues.json",
         "dev": ""
     },
     {
         "title": "Quimica",
         "description": "Manuas de ensino médio de Quimica e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/quimica.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/quimica.json",
         "dev": ""
     },
     {
         "title": "TICs",
         "description": "Manuas de ensino médio de TICs e outros artigos",
-        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/tics.json",
+        "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/biblioteca/ensinomedio/tics.json",
         "dev": ""
     }
 ]

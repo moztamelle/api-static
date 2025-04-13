@@ -1,2 +1,0 @@
-O type de cada documento pode ser BOOK | AUX
-O type de cada exame é que será o nome da universidade ou classe, se for nome da universidade deve estar abreviado
