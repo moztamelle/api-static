@@ -22,5 +22,29 @@
         "url" : "https://drive.google.com/file/d/1L4Tufys_cZOVIEMjEXi0ZOftk3fRdbEc/view?usp=sharing",
         "shared" : "Desconhecido",
         "type" : "BOOK"
+    },
+    {
+        "title": "O lado feio do amor - Colleen Hoover",
+        "url": "https://drive.google.com/file/d/1-iU5Q-mpr6mieLHqrGTv5RE-Ost8PxQE/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "É assim que começa - Colleen Hoover",
+        "url": "https://drive.google.com/file/d/1-kejDKCcNnIVv6Q5_DIbNArtby7IXoI7/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "As Mil Partes do meu Coração - Colleen Hoover",
+        "url": "https://drive.google.com/file/d/1-i-3vzIunRK4ibSlZ_9_9f7wHqYhmDzs/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "A Menina do Vale",
+        "url": "https://drive.google.com/file/d/1-kzt8XFp_C6qs6alMmUGJVfg7k7trwAR/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
     }
 ]
