@@ -16,5 +16,23 @@
         "url" : "https://drive.google.com/file/d/1ZbFjtB205M8ynEgslT-uIjqvaJxlVr17/view?usp=sharing",
         "shared" : "Desconhecido",
         "type" : "BOOK"
+    },
+    {
+        "title" : "Francês Básico Livro",
+        "url" : "https://drive.google.com/file/d/1JbfsuagagyH5uXfr92krDhDTdrFfBf9b/view?usp=sharing",
+        "shared" : "Jorge Mubala",
+        "type" : "BOOK"
+    },
+    {
+        "title" : "Dicionário Francês-Português Português-Francês",
+        "url" : "https://drive.google.com/file/d/1s4cNjyUvYFGOl36IyUCzgFQZP58LQlfj/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
+    },
+    {
+        "title" : "600 Confusing English Words Explained",
+        "url" : "https://drive.google.com/file/d/1zwCx-lXxDtBx07KrP56IwR1e3ZxIg1_U/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
     }
 ]
