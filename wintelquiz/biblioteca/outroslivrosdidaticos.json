@@ -34,5 +34,23 @@
         "url" : "https://drive.google.com/file/d/1zwCx-lXxDtBx07KrP56IwR1e3ZxIg1_U/view?usp=sharing",
         "shared" : "Desconhecido",
         "type" : "BOOK"
+    },
+    {
+        "title" : "O Guia Definitivo do Inglês (Jerry Machado Costa)",
+        "url" : "https://drive.google.com/file/d/1-wRC2jeqkgJDzlrdiZxj96njEyz4BluK/view?usp=sharing",
+        "shared" : "Jorge Mubala",
+        "type" : "BOOK"
+    },
+    {
+        "title" : "Dicionário Moderno de Francês-Português (Porto Editora)",
+        "url" : "https://drive.google.com/file/d/1-vNAGg6pBFZi5HIleFMdX1SLSJMyosf7/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
+    },
+    {
+        "title" : "Dicionário Inglês-Português Collins (Collins)",
+        "url" : "https://drive.google.com/file/d/1-mf114GpSR1dt7DtVQP-xZDd9QVOk2Pv/view?usp=sharing",
+        "shared" : "Desconhecido",
+        "type" : "BOOK"
     }
 ]
