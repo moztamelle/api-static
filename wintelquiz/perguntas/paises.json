@@ -1,0 +1,4208 @@
+{
+    "easy":[
+        {
+            "questao": "Qual é a capital do Afeganistão?",
+            "respostas": [
+                {
+                    "res": "Cabul",
+                    "status": true
+                },
+                {
+                    "res": "Herat",
+                    "status": false
+                },
+                {
+                    "res": "Kandahar",
+                    "status": false
+                },
+                {
+                    "res": "Mazar-i-Sharif",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Albânia?",
+            "respostas": [
+                {
+                    "res": "Tirana",
+                    "status": true
+                },
+                {
+                    "res": "Durrës",
+                    "status": false
+                },
+                {
+                    "res": "Vlorë",
+                    "status": false
+                },
+                {
+                    "res": "Shkodër",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Alemanha?",
+            "respostas": [
+                {
+                    "res": "Berlim",
+                    "status": true
+                },
+                {
+                    "res": "Munique",
+                    "status": false
+                },
+                {
+                    "res": "Hamburgo",
+                    "status": false
+                },
+                {
+                    "res": "Colônia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Andorra?",
+            "respostas": [
+                {
+                    "res": "Andorra-a-Velha",
+                    "status": true
+                },
+                {
+                    "res": "La Massana",
+                    "status": false
+                },
+                {
+                    "res": "Encamp",
+                    "status": false
+                },
+                {
+                    "res": "Canillo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Angola?",
+            "respostas": [
+                {
+                    "res": "Luanda",
+                    "status": true
+                },
+                {
+                    "res": "Cabinda",
+                    "status": false
+                },
+                {
+                    "res": "Lubango",
+                    "status": false
+                },
+                {
+                    "res": "Benguela",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Antígua e Barbuda?",
+            "respostas": [
+                {
+                    "res": "Saint John's",
+                    "status": true
+                },
+                {
+                    "res": "English Harbour",
+                    "status": false
+                },
+                {
+                    "res": "Codrington",
+                    "status": false
+                },
+                {
+                    "res": "Liberta",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Argentina?",
+            "respostas": [
+                {
+                    "res": "Buenos Aires",
+                    "status": true
+                },
+                {
+                    "res": "Córdoba",
+                    "status": false
+                },
+                {
+                    "res": "Rosário",
+                    "status": false
+                },
+                {
+                    "res": "Mendoza",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Armênia?",
+            "respostas": [
+                {
+                    "res": "Erevan",
+                    "status": true
+                },
+                {
+                    "res": "Gyumri",
+                    "status": false
+                },
+                {
+                    "res": "Vanadzor",
+                    "status": false
+                },
+                {
+                    "res": "Hrazdan",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Austrália?",
+            "respostas": [
+                {
+                    "res": "Canberra",
+                    "status": true
+                },
+                {
+                    "res": "Sydney",
+                    "status": false
+                },
+                {
+                    "res": "Melbourne",
+                    "status": false
+                },
+                {
+                    "res": "Brisbane",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Áustria?",
+            "respostas": [
+                {
+                    "res": "Viena",
+                    "status": true
+                },
+                {
+                    "res": "Graz",
+                    "status": false
+                },
+                {
+                    "res": "Linz",
+                    "status": false
+                },
+                {
+                    "res": "Salzburgo",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Azerbaijão?",
+            "respostas": [
+                {
+                    "res": "Baku",
+                    "status": true
+                },
+                {
+                    "res": "Ganja",
+                    "status": false
+                },
+                {
+                    "res": "Sumgait",
+                    "status": false
+                },
+                {
+                    "res": "Lankaran",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Bahamas?",
+            "respostas": [
+                {
+                    "res": "Nassau",
+                    "status": true
+                },
+                {
+                    "res": "Freeport",
+                    "status": false
+                },
+                {
+                    "res": "Lucaya",
+                    "status": false
+                },
+                {
+                    "res": "Andros Town",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Bahrain?",
+            "respostas": [
+                {
+                    "res": "Manama",
+                    "status": true
+                },
+                {
+                    "res": "Riffa",
+                    "status": false
+                },
+                {
+                    "res": "Muharraq",
+                    "status": false
+                },
+                {
+                    "res": "Hamad Town",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Bangladesh?",
+            "respostas": [
+                {
+                    "res": "Daca",
+                    "status": true
+                },
+                {
+                    "res": "Chittagong",
+                    "status": false
+                },
+                {
+                    "res": "Khulna",
+                    "status": false
+                },
+                {
+                    "res": "Rajshahi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Barbados?",
+            "respostas": [
+                {
+                    "res": "Bridgetown",
+                    "status": true
+                },
+                {
+                    "res": "Speightstown",
+                    "status": false
+                },
+                {
+                    "res": "Oistins",
+                    "status": false
+                },
+                {
+                    "res": "Hastings",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Bielorrússia?",
+            "respostas": [
+                {
+                    "res": "Minsk",
+                    "status": true
+                },
+                {
+                    "res": "Gomel",
+                    "status": false
+                },
+                {
+                    "res": "Mogilev",
+                    "status": false
+                },
+                {
+                    "res": "Brest",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Bélgica?",
+            "respostas": [
+                {
+                    "res": "Bruxelas",
+                    "status": true
+                },
+                {
+                    "res": "Antuérpia",
+                    "status": false
+                },
+                {
+                    "res": "Gante",
+                    "status": false
+                },
+                {
+                    "res": "Charleroi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Belize?",
+            "respostas": [
+                {
+                    "res": "Belmopan",
+                    "status": true
+                },
+                {
+                    "res": "Cidade de Belize",
+                    "status": false
+                },
+                {
+                    "res": "San Ignacio",
+                    "status": false
+                },
+                {
+                    "res": "Orange Walk",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Benin?",
+            "respostas": [
+                {
+                    "res": "Porto Novo",
+                    "status": true
+                },
+                {
+                    "res": "Cotonou",
+                    "status": false
+                },
+                {
+                    "res": "Parakou",
+                    "status": false
+                },
+                {
+                    "res": "Djougou",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Butão?",
+            "respostas": [
+                {
+                    "res": "Timbu",
+                    "status": true
+                },
+                {
+                    "res": "Phuntsholing",
+                    "status": false
+                },
+                {
+                    "res": "Paro",
+                    "status": false
+                },
+                {
+                    "res": "Punakha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Birmânia (Mianmar)?",
+            "respostas": [
+                {
+                    "res": "Naypyidaw",
+                    "status": true
+                },
+                {
+                    "res": "Yangon",
+                    "status": false
+                },
+                {
+                    "res": "Mandalay",
+                    "status": false
+                },
+                {
+                    "res": "Taunggyi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Botsuana?",
+            "respostas": [
+                {
+                    "res": "Gaborone",
+                    "status": true
+                },
+                {
+                    "res": "Francistown",
+                    "status": false
+                },
+                {
+                    "res": "Molepolole",
+                    "status": false
+                },
+                {
+                    "res": "Selebi-Phikwe",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Brasil?",
+            "respostas": [
+                {
+                    "res": "Brasília",
+                    "status": true
+                },
+                {
+                    "res": "Rio de Janeiro",
+                    "status": false
+                },
+                {
+                    "res": "São Paulo",
+                    "status": false
+                },
+                {
+                    "res": "Belo Horizonte",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Brunei?",
+            "respostas": [
+                {
+                    "res": "Bandar Seri Begawan",
+                    "status": true
+                },
+                {
+                    "res": "Kuala Belait",
+                    "status": false
+                },
+                {
+                    "res": "Seria",
+                    "status": false
+                },
+                {
+                    "res": "Tutong",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Bulgária?",
+            "respostas": [
+                {
+                    "res": "Sófia",
+                    "status": true
+                },
+                {
+                    "res": "Plovdiv",
+                    "status": false
+                },
+                {
+                    "res": "Varna",
+                    "status": false
+                },
+                {
+                    "res": "Burgas",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Burquina Faso?",
+            "respostas": [
+                {
+                    "res": "Uagadugu",
+                    "status": true
+                },
+                {
+                    "res": "Bobo-Dioulasso",
+                    "status": false
+                },
+                {
+                    "res": "Koudougou",
+                    "status": false
+                },
+                {
+                    "res": "Ouagadougou",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Burundi?",
+            "respostas": [
+                {
+                    "res": "Bujumbura",
+                    "status": true
+                },
+                {
+                    "res": "Gitega",
+                    "status": false
+                },
+                {
+                    "res": "Ngozi",
+                    "status": false
+                },
+                {
+                    "res": "Ruyigi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Cabo Verde?",
+            "respostas": [
+                {
+                    "res": "Praia",
+                    "status": true
+                },
+                {
+                    "res": "Mindelo",
+                    "status": false
+                },
+                {
+                    "res": "Assomada",
+                    "status": false
+                },
+                {
+                    "res": "Espargos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Camarões?",
+            "respostas": [
+                {
+                    "res": "Yaoundé",
+                    "status": true
+                },
+                {
+                    "res": "Duala",
+                    "status": false
+                },
+                {
+                    "res": "Bamenda",
+                    "status": false
+                },
+                {
+                    "res": "Bafoussam",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Camboja?",
+            "respostas": [
+                {
+                    "res": "Phnom Penh",
+                    "status": true
+                },
+                {
+                    "res": "Siem Reap",
+                    "status": false
+                },
+                {
+                    "res": "Battambang",
+                    "status": false
+                },
+                {
+                    "res": "Sihanoukville",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Camarões?",
+            "respostas": [
+                {
+                    "res": "Yaoundé",
+                    "status": true
+                },
+                {
+                    "res": "Duala",
+                    "status": false
+                },
+                {
+                    "res": "Bamenda",
+                    "status": false
+                },
+                {
+                    "res": "Bafoussam",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Canadá?",
+            "respostas": [
+                {
+                    "res": "Ottawa",
+                    "status": true
+                },
+                {
+                    "res": "Toronto",
+                    "status": false
+                },
+                {
+                    "res": "Montreal",
+                    "status": false
+                },
+                {
+                    "res": "Vancouver",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Cazaquistão?",
+            "respostas": [
+                {
+                    "res": "Nur-Sultan",
+                    "status": true
+                },
+                {
+                    "res": "Almaty",
+                    "status": false
+                },
+                {
+                    "res": "Shymkent",
+                    "status": false
+                },
+                {
+                    "res": "Karaganda",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Chéquia (República Checa)?",
+            "respostas": [
+                {
+                    "res": "Praga",
+                    "status": true
+                },
+                {
+                    "res": "Brno",
+                    "status": false
+                },
+                {
+                    "res": "Ostrava",
+                    "status": false
+                },
+                {
+                    "res": "Pilsen",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Chile?",
+            "respostas": [
+                {
+                    "res": "Santiago",
+                    "status": true
+                },
+                {
+                    "res": "Valparaíso",
+                    "status": false
+                },
+                {
+                    "res": "Concepción",
+                    "status": false
+                },
+                {
+                    "res": "Viña del Mar",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da China?",
+            "respostas": [
+                {
+                    "res": "Pequim",
+                    "status": true
+                },
+                {
+                    "res": "Xangai",
+                    "status": false
+                },
+                {
+                    "res": "Cantão",
+                    "status": false
+                },
+                {
+                    "res": "Shenzhen",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Chipre?",
+            "respostas": [
+                {
+                    "res": "Nicósia",
+                    "status": true
+                },
+                {
+                    "res": "Limassol",
+                    "status": false
+                },
+                {
+                    "res": "Lárnaca",
+                    "status": false
+                },
+                {
+                    "res": "Pafos",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Colômbia?",
+            "respostas": [
+                {
+                    "res": "Bogotá",
+                    "status": true
+                },
+                {
+                    "res": "Medellín",
+                    "status": false
+                },
+                {
+                    "res": "Cali",
+                    "status": false
+                },
+                {
+                    "res": "Barranquilla",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Comores?",
+            "respostas": [
+                {
+                    "res": "Moroni",
+                    "status": true
+                },
+                {
+                    "res": "Fomboni",
+                    "status": false
+                },
+                {
+                    "res": "Mamoudzou",
+                    "status": false
+                },
+                {
+                    "res": "Domoni",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Coreia do Norte?",
+            "respostas": [
+                {
+                    "res": "Piongue Yang",
+                    "status": true
+                },
+                {
+                    "res": "Seul",
+                    "status": false
+                },
+                {
+                    "res": "Busan",
+                    "status": false
+                },
+                {
+                    "res": "Incheon",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Coreia do Sul?",
+            "respostas": [
+                {
+                    "res": "Seul",
+                    "status": true
+                },
+                {
+                    "res": "Piongue Yang",
+                    "status": false
+                },
+                {
+                    "res": "Busan",
+                    "status": false
+                },
+                {
+                    "res": "Incheon",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Costa do Marfim?",
+            "respostas": [
+                {
+                    "res": "Iamussucro",
+                    "status": true
+                },
+                {
+                    "res": "Abidjã",
+                    "status": false
+                },
+                {
+                    "res": "Bouaké",
+                    "status": false
+                },
+                {
+                    "res": "Yamoussoukro",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Costa Rica?",
+            "respostas": [
+                {
+                    "res": "San José",
+                    "status": true
+                },
+                {
+                    "res": "Alajuela",
+                    "status": false
+                },
+                {
+                    "res": "Heredia",
+                    "status": false
+                },
+                {
+                    "res": "Liberia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Croácia?",
+            "respostas": [
+                {
+                    "res": "Zagreb",
+                    "status": true
+                },
+                {
+                    "res": "Split",
+                    "status": false
+                },
+                {
+                    "res": "Rijeka",
+                    "status": false
+                },
+                {
+                    "res": "Osijek",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Cuba?",
+            "respostas": [
+                {
+                    "res": "Havana",
+                    "status": true
+                },
+                {
+                    "res": "Santiago de Cuba",
+                    "status": false
+                },
+                {
+                    "res": "Camagüey",
+                    "status": false
+                },
+                {
+                    "res": "Holguín",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Curaçao?",
+            "respostas": [
+                {
+                    "res": "Willemstad",
+                    "status": true
+                },
+                {
+                    "res": "Oranjestad",
+                    "status": false
+                },
+                {
+                    "res": "Kralendijk",
+                    "status": false
+                },
+                {
+                    "res": "The Bottom",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Chade?",
+            "respostas": [
+                {
+                    "res": "N'Djamena",
+                    "status": true
+                },
+                {
+                    "res": "Moundou",
+                    "status": false
+                },
+                {
+                    "res": "Sarh",
+                    "status": false
+                },
+                {
+                    "res": "Abéché",
+                    "status": false
+                }
+            ]
+        }
+    ],
+    "medium":[
+        {
+            "questao": "Qual é a capital do Dinamarca?",
+            "respostas": [
+                {
+                    "res": "Copenhaga",
+                    "status": true
+                },
+                {
+                    "res": "Aarhus",
+                    "status": false
+                },
+                {
+                    "res": "Odense",
+                    "status": false
+                },
+                {
+                    "res": "Aalborg",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Djibuti?",
+            "respostas": [
+                {
+                    "res": "Djibuti",
+                    "status": true
+                },
+                {
+                    "res": "Ali Sabieh",
+                    "status": false
+                },
+                {
+                    "res": "Tadjoura",
+                    "status": false
+                },
+                {
+                    "res": "Obock",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Dominica?",
+            "respostas": [
+                {
+                    "res": "Roseau",
+                    "status": true
+                },
+                {
+                    "res": "Portsmouth",
+                    "status": false
+                },
+                {
+                    "res": "Marigot",
+                    "status": false
+                },
+                {
+                    "res": "Saint Joseph",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Egito?",
+            "respostas": [
+                {
+                    "res": "Cairo",
+                    "status": true
+                },
+                {
+                    "res": "Alexandria",
+                    "status": false
+                },
+                {
+                    "res": "Giza",
+                    "status": false
+                },
+                {
+                    "res": "Luxor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Emirados Árabes Unidos?",
+            "respostas": [
+                {
+                    "res": "Abu Dhabi",
+                    "status": true
+                },
+                {
+                    "res": "Dubai",
+                    "status": false
+                },
+                {
+                    "res": "Sharjah",
+                    "status": false
+                },
+                {
+                    "res": "Al Ain",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Equador?",
+            "respostas": [
+                {
+                    "res": "Quito",
+                    "status": true
+                },
+                {
+                    "res": "Guayaquil",
+                    "status": false
+                },
+                {
+                    "res": "Cuenca",
+                    "status": false
+                },
+                {
+                    "res": "Ambato",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Eslováquia?",
+            "respostas": [
+                {
+                    "res": "Bratislava",
+                    "status": true
+                },
+                {
+                    "res": "Košice",
+                    "status": false
+                },
+                {
+                    "res": "Prešov",
+                    "status": false
+                },
+                {
+                    "res": "Nitra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Eslovênia?",
+            "respostas": [
+                {
+                    "res": "Liubliana",
+                    "status": true
+                },
+                {
+                    "res": "Maribor",
+                    "status": false
+                },
+                {
+                    "res": "Celje",
+                    "status": false
+                },
+                {
+                    "res": "Kranj",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Espanha?",
+            "respostas": [
+                {
+                    "res": "Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Valência",
+                    "status": false
+                },
+                {
+                    "res": "Sevilha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Estados Unidos?",
+            "respostas": [
+                {
+                    "res": "Washington, D.C.",
+                    "status": true
+                },
+                {
+                    "res": "Nova Iorque",
+                    "status": false
+                },
+                {
+                    "res": "Los Angeles",
+                    "status": false
+                },
+                {
+                    "res": "Chicago",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Estônia?",
+            "respostas": [
+                {
+                    "res": "Tallinn",
+                    "status": true
+                },
+                {
+                    "res": "Tartu",
+                    "status": false
+                },
+                {
+                    "res": "Narva",
+                    "status": false
+                },
+                {
+                    "res": "Pärnu",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Etiópia?",
+            "respostas": [
+                {
+                    "res": "Adis Abeba",
+                    "status": true
+                },
+                {
+                    "res": "Addis Ababa",
+                    "status": false
+                },
+                {
+                    "res": "Dire Dawa",
+                    "status": false
+                },
+                {
+                    "res": "Mek'ele",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Fiji?",
+            "respostas": [
+                {
+                    "res": "Suva",
+                    "status": true
+                },
+                {
+                    "res": "Nadi",
+                    "status": false
+                },
+                {
+                    "res": "Lautoka",
+                    "status": false
+                },
+                {
+                    "res": "Labasa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Egito?",
+            "respostas": [
+                {
+                    "res": "Cairo",
+                    "status": true
+                },
+                {
+                    "res": "Alexandria",
+                    "status": false
+                },
+                {
+                    "res": "Giza",
+                    "status": false
+                },
+                {
+                    "res": "Luxor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Emirados Árabes Unidos?",
+            "respostas": [
+                {
+                    "res": "Abu Dhabi",
+                    "status": true
+                },
+                {
+                    "res": "Dubai",
+                    "status": false
+                },
+                {
+                    "res": "Sharjah",
+                    "status": false
+                },
+                {
+                    "res": "Al Ain",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Equador?",
+            "respostas": [
+                {
+                    "res": "Quito",
+                    "status": true
+                },
+                {
+                    "res": "Guayaquil",
+                    "status": false
+                },
+                {
+                    "res": "Cuenca",
+                    "status": false
+                },
+                {
+                    "res": "Ambato",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Eslováquia?",
+            "respostas": [
+                {
+                    "res": "Bratislava",
+                    "status": true
+                },
+                {
+                    "res": "Košice",
+                    "status": false
+                },
+                {
+                    "res": "Prešov",
+                    "status": false
+                },
+                {
+                    "res": "Nitra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Eslovênia?",
+            "respostas": [
+                {
+                    "res": "Liubliana",
+                    "status": true
+                },
+                {
+                    "res": "Maribor",
+                    "status": false
+                },
+                {
+                    "res": "Celje",
+                    "status": false
+                },
+                {
+                    "res": "Kranj",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Espanha?",
+            "respostas": [
+                {
+                    "res": "Madrid",
+                    "status": true
+                },
+                {
+                    "res": "Barcelona",
+                    "status": false
+                },
+                {
+                    "res": "Valência",
+                    "status": false
+                },
+                {
+                    "res": "Sevilha",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital dos Estados Unidos?",
+            "respostas": [
+                {
+                    "res": "Washington, D.C.",
+                    "status": true
+                },
+                {
+                    "res": "Nova Iorque",
+                    "status": false
+                },
+                {
+                    "res": "Los Angeles",
+                    "status": false
+                },
+                {
+                    "res": "Chicago",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Estônia?",
+            "respostas": [
+                {
+                    "res": "Tallinn",
+                    "status": true
+                },
+                {
+                    "res": "Tartu",
+                    "status": false
+                },
+                {
+                    "res": "Narva",
+                    "status": false
+                },
+                {
+                    "res": "Pärnu",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Etiópia?",
+            "respostas": [
+                {
+                    "res": "Adis Abeba",
+                    "status": true
+                },
+                {
+                    "res": "Addis Ababa",
+                    "status": false
+                },
+                {
+                    "res": "Dire Dawa",
+                    "status": false
+                },
+                {
+                    "res": "Mek'ele",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Fiji?",
+            "respostas": [
+                {
+                    "res": "Suva",
+                    "status": true
+                },
+                {
+                    "res": "Nadi",
+                    "status": false
+                },
+                {
+                    "res": "Lautoka",
+                    "status": false
+                },
+                {
+                    "res": "Labasa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Finlândia?",
+            "respostas": [
+                {
+                    "res": "Helsínquia",
+                    "status": true
+                },
+                {
+                    "res": "Espoo",
+                    "status": false
+                },
+                {
+                    "res": "Tampere",
+                    "status": false
+                },
+                {
+                    "res": "Vantaa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da França?",
+            "respostas": [
+                {
+                    "res": "Paris",
+                    "status": true
+                },
+                {
+                    "res": "Marselha",
+                    "status": false
+                },
+                {
+                    "res": "Lyon",
+                    "status": false
+                },
+                {
+                    "res": "Toulouse",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Gabão?",
+            "respostas": [
+                {
+                    "res": "Libreville",
+                    "status": true
+                },
+                {
+                    "res": "Port-Gentil",
+                    "status": false
+                },
+                {
+                    "res": "Franceville",
+                    "status": false
+                },
+                {
+                    "res": "Oyem",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Gâmbia?",
+            "respostas": [
+                {
+                    "res": "Banjul",
+                    "status": true
+                },
+                {
+                    "res": "Serekunda",
+                    "status": false
+                },
+                {
+                    "res": "Brikama",
+                    "status": false
+                },
+                {
+                    "res": "Bakau",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Geórgia?",
+            "respostas": [
+                {
+                    "res": "Tbilisi",
+                    "status": true
+                },
+                {
+                    "res": "Kutaisi",
+                    "status": false
+                },
+                {
+                    "res": "Batumi",
+                    "status": false
+                },
+                {
+                    "res": "Rustavi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Gana?",
+            "respostas": [
+                {
+                    "res": "Acra",
+                    "status": true
+                },
+                {
+                    "res": "Kumasi",
+                    "status": false
+                },
+                {
+                    "res": "Tamale",
+                    "status": false
+                },
+                {
+                    "res": "Tema",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Grécia?",
+            "respostas": [
+                {
+                    "res": "Atenas",
+                    "status": true
+                },
+                {
+                    "res": "Salónica",
+                    "status": false
+                },
+                {
+                    "res": "Pireu",
+                    "status": false
+                },
+                {
+                    "res": "Heraklion",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Granada?",
+            "respostas": [
+                {
+                    "res": "Saint George's",
+                    "status": true
+                },
+                {
+                    "res": "Grenville",
+                    "status": false
+                },
+                {
+                    "res": "Gouyave",
+                    "status": false
+                },
+                {
+                    "res": "Victoria",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Guatemala?",
+            "respostas": [
+                {
+                    "res": "Cidade da Guatemala",
+                    "status": true
+                },
+                {
+                    "res": "Mixco",
+                    "status": false
+                },
+                {
+                    "res": "Villa Nueva",
+                    "status": false
+                },
+                {
+                    "res": "Petapa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Guiana?",
+            "respostas": [
+                {
+                    "res": "Georgetown",
+                    "status": true
+                },
+                {
+                    "res": "Linden",
+                    "status": false
+                },
+                {
+                    "res": "New Amsterdam",
+                    "status": false
+                },
+                {
+                    "res": "Bartica",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Haiti?",
+            "respostas": [
+                {
+                    "res": "Porto Príncipe",
+                    "status": true
+                },
+                {
+                    "res": "Carrefour",
+                    "status": false
+                },
+                {
+                    "res": "Delmas",
+                    "status": false
+                },
+                {
+                    "res": "Pétionville",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Honduras?",
+            "respostas": [
+                {
+                    "res": "Tegucigalpa",
+                    "status": true
+                },
+                {
+                    "res": "San Pedro Sula",
+                    "status": false
+                },
+                {
+                    "res": "Choloma",
+                    "status": false
+                },
+                {
+                    "res": "La Ceiba",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Hungria?",
+            "respostas": [
+                {
+                    "res": "Budapeste",
+                    "status": true
+                },
+                {
+                    "res": "Debrecen",
+                    "status": false
+                },
+                {
+                    "res": "Miskolc",
+                    "status": false
+                },
+                {
+                    "res": "Szeged",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Islândia?",
+            "respostas": [
+                {
+                    "res": "Reykjavik",
+                    "status": true
+                },
+                {
+                    "res": "Kópavogur",
+                    "status": false
+                },
+                {
+                    "res": "Hafnarfjörður",
+                    "status": false
+                },
+                {
+                    "res": "Akureyri",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Índia?",
+            "respostas": [
+                {
+                    "res": "Nova Deli",
+                    "status": true
+                },
+                {
+                    "res": "Mumbai",
+                    "status": false
+                },
+                {
+                    "res": "Bangalore",
+                    "status": false
+                },
+                {
+                    "res": "Calcutá",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Indonésia?",
+            "respostas": [
+                {
+                    "res": "Jacarta",
+                    "status": true
+                },
+                {
+                    "res": "Surabaia",
+                    "status": false
+                },
+                {
+                    "res": "Bandung",
+                    "status": false
+                },
+                {
+                    "res": "Medan",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Irã?",
+            "respostas": [
+                {
+                    "res": "Teerã",
+                    "status": true
+                },
+                {
+                    "res": "Mashhad",
+                    "status": false
+                },
+                {
+                    "res": "Isfahan",
+                    "status": false
+                },
+                {
+                    "res": "Tabriz",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Iraque?",
+            "respostas": [
+                {
+                    "res": "Bagdá",
+                    "status": true
+                },
+                {
+                    "res": "Basra",
+                    "status": false
+                },
+                {
+                    "res": "Irbil",
+                    "status": false
+                },
+                {
+                    "res": "Najaf",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Irlanda?",
+            "respostas": [
+                {
+                    "res": "Dublin",
+                    "status": true
+                },
+                {
+                    "res": "Cork",
+                    "status": false
+                },
+                {
+                    "res": "Limerick",
+                    "status": false
+                },
+                {
+                    "res": "Galway",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Israel?",
+            "respostas": [
+                {
+                    "res": "Jerusalém",
+                    "status": true
+                },
+                {
+                    "res": "Tel Aviv",
+                    "status": false
+                },
+                {
+                    "res": "Haifa",
+                    "status": false
+                },
+                {
+                    "res": "Rishon LeZion",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Itália?",
+            "respostas": [
+                {
+                    "res": "Roma",
+                    "status": true
+                },
+                {
+                    "res": "Milão",
+                    "status": false
+                },
+                {
+                    "res": "Nápoles",
+                    "status": false
+                },
+                {
+                    "res": "Turim",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Jamaica?",
+            "respostas": [
+                {
+                    "res": "Kingston",
+                    "status": true
+                },
+                {
+                    "res": "Montego Bay",
+                    "status": false
+                },
+                {
+                    "res": "Spanish Town",
+                    "status": false
+                },
+                {
+                    "res": "Portmore",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Japão?",
+            "respostas": [
+                {
+                    "res": "Tóquio",
+                    "status": true
+                },
+                {
+                    "res": "Osaka",
+                    "status": false
+                },
+                {
+                    "res": "Nagoya",
+                    "status": false
+                },
+                {
+                    "res": "Fukuoka",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Jordânia?",
+            "respostas": [
+                {
+                    "res": "Amã",
+                    "status": true
+                },
+                {
+                    "res": "Zarqa",
+                    "status": false
+                },
+                {
+                    "res": "Irbid",
+                    "status": false
+                },
+                {
+                    "res": "Aqaba",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Cazaquistão?",
+            "respostas": [
+                {
+                    "res": "Nur-Sultan",
+                    "status": true
+                },
+                {
+                    "res": "Almaty",
+                    "status": false
+                },
+                {
+                    "res": "Shymkent",
+                    "status": false
+                },
+                {
+                    "res": "Karaganda",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Quênia?",
+            "respostas": [
+                {
+                    "res": "Nairobi",
+                    "status": true
+                },
+                {
+                    "res": "Mombaça",
+                    "status": false
+                },
+                {
+                    "res": "Kisumu",
+                    "status": false
+                },
+                {
+                    "res": "Nakuru",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Kuwait?",
+            "respostas": [
+                {
+                    "res": "Cidade do Kuwait",
+                    "status": true
+                },
+                {
+                    "res": "Hawalli",
+                    "status": false
+                },
+                {
+                    "res": "Farwaniya",
+                    "status": false
+                },
+                {
+                    "res": "Ahmadi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Quirguistão?",
+            "respostas": [
+                {
+                    "res": "Bisqueque",
+                    "status": true
+                },
+                {
+                    "res": "Osh",
+                    "status": false
+                },
+                {
+                    "res": "Jalal-Abad",
+                    "status": false
+                },
+                {
+                    "res": "Karakol",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Laos?",
+            "respostas": [
+                {
+                    "res": "Vientiane",
+                    "status": true
+                },
+                {
+                    "res": "Pakse",
+                    "status": false
+                },
+                {
+                    "res": "Savannakhet",
+                    "status": false
+                },
+                {
+                    "res": "Luang Prabang",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Letônia?",
+            "respostas": [
+                {
+                    "res": "Riga",
+                    "status": true
+                },
+                {
+                    "res": "Daugavpils",
+                    "status": false
+                },
+                {
+                    "res": "Liepaja",
+                    "status": false
+                },
+                {
+                    "res": "Jelgava",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Líbano?",
+            "respostas": [
+                {
+                    "res": "Beirute",
+                    "status": true
+                },
+                {
+                    "res": "Trípoli",
+                    "status": false
+                },
+                {
+                    "res": "Sidon",
+                    "status": false
+                },
+                {
+                    "res": "Baabda",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Lesoto?",
+            "respostas": [
+                {
+                    "res": "Maseru",
+                    "status": true
+                },
+                {
+                    "res": "Teyateyaneng",
+                    "status": false
+                },
+                {
+                    "res": "Mafeteng",
+                    "status": false
+                },
+                {
+                    "res": "Hlotse",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Libéria?",
+            "respostas": [
+                {
+                    "res": "Monróvia",
+                    "status": true
+                },
+                {
+                    "res": "Gbarnga",
+                    "status": false
+                },
+                {
+                    "res": "Buchanan",
+                    "status": false
+                },
+                {
+                    "res": "Harper",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Líbia?",
+            "respostas": [
+                {
+                    "res": "Trípoli",
+                    "status": true
+                },
+                {
+                    "res": "Benghazi",
+                    "status": false
+                },
+                {
+                    "res": "Misurata",
+                    "status": false
+                },
+                {
+                    "res": "Zawiya",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Liechtenstein?",
+            "respostas": [
+                {
+                    "res": "Vaduz",
+                    "status": true
+                },
+                {
+                    "res": "Schaan",
+                    "status": false
+                },
+                {
+                    "res": "Triesen",
+                    "status": false
+                },
+                {
+                    "res": "Balzers",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Lituânia?",
+            "respostas": [
+                {
+                    "res": "Vilnius",
+                    "status": true
+                },
+                {
+                    "res": "Kaunas",
+                    "status": false
+                },
+                {
+                    "res": "Klaipeda",
+                    "status": false
+                },
+                {
+                    "res": "Šiauliai",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Luxemburgo?",
+            "respostas": [
+                {
+                    "res": "Luxemburgo",
+                    "status": true
+                },
+                {
+                    "res": "Esch-sur-Alzette",
+                    "status": false
+                },
+                {
+                    "res": "Dudelange",
+                    "status": false
+                },
+                {
+                    "res": "Echternach",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Madagascar?",
+            "respostas": [
+                {
+                    "res": "Antananarivo",
+                    "status": true
+                },
+                {
+                    "res": "Toamasina",
+                    "status": false
+                },
+                {
+                    "res": "Antsirabe",
+                    "status": false
+                },
+                {
+                    "res": "Fianarantsoa",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do Malaui?",
+            "respostas": [
+                {
+                    "res": "Lilongwe",
+                    "status": true
+                },
+                {
+                    "res": "Blantyre",
+                    "status": false
+                },
+                {
+                    "res": "Mzuzu",
+                    "status": false
+                },
+                {
+                    "res": "Zomba",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Malásia?",
+            "respostas": [
+                {
+                    "res": "Kuala Lumpur",
+                    "status": true
+                },
+                {
+                    "res": "George Town",
+                    "status": false
+                },
+                {
+                    "res": "Johor Bahru",
+                    "status": false
+                },
+                {
+                    "res": "Kuching",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Maldivas?",
+            "respostas": [
+                {
+                    "res": "Malé",
+                    "status": true
+                },
+                {
+                    "res": "Addu City",
+                    "status": false
+                },
+                {
+                    "res": "Fuvahmulah",
+                    "status": false
+                },
+                {
+                    "res": "Kulhudhuffushi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Malta?",
+            "respostas": [
+                {
+                    "res": "Valeta",
+                    "status": true
+                },
+                {
+                    "res": "Birkirkara",
+                    "status": false
+                },
+                {
+                    "res": "Mosta",
+                    "status": false
+                },
+                {
+                    "res": "Qormi",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital das Ilhas Marshall?",
+            "respostas": [
+                {
+                    "res": "Majuro",
+                    "status": true
+                },
+                {
+                    "res": "Ebeye",
+                    "status": false
+                },
+                {
+                    "res": "Arno",
+                    "status": false
+                },
+                {
+                    "res": "Wotje",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Mauritânia?",
+            "respostas": [
+                {
+                    "res": "Nouakchott",
+                    "status": true
+                },
+                {
+                    "res": "Nouadhibou",
+                    "status": false
+                },
+                {
+                    "res": "Kiffa",
+                    "status": false
+                },
+                {
+                    "res": "Zouérat",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital da Mauritius?",
+            "respostas": [
+                {
+                    "res": "Port Louis",
+                    "status": true
+                },
+                {
+                    "res": "Beau Bassin-Rose Hill",
+                    "status": false
+                },
+                {
+                    "res": "Vacoas-Phoenix",
+                    "status": false
+                },
+                {
+                    "res": "Curepipe",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital do México?",
+            "respostas": [
+                {
+                    "res": "Cidade do México",
+                    "status": true
+                },
+                {
+                    "res": "Guadalajara",
+                    "status": false
+                },
+                {
+                    "res": "Monterrey",
+                    "status": false
+                },
+                {
+                    "res": "Puebla",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Micronésia?",
+            "respostas": [
+                {
+                    "res": "Palikir",
+                    "status": true
+                },
+                {
+                    "res": "Weno",
+                    "status": false
+                },
+                {
+                    "res": "Kolonia",
+                    "status": false
+                },
+                {
+                    "res": "Tofol",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Moçambique?",
+            "respostas": [
+                {
+                    "res": "Maputo",
+                    "status": true
+                },
+                {
+                    "res": "Matola",
+                    "status": false
+                },
+                {
+                    "res": "Beira",
+                    "status": false
+                },
+                {
+                    "res": "Nampula",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é a capital de Mônaco?",
+            "respostas": [
+                {
+                    "res": "Mônaco",
+                    "status": true
+                },
+                {
+                    "res": "Monte Carlo",
+                    "status": false
+                },
+                {
+                    "res": "La Condamine",
+                    "status": false
+                },
+                {
+                    "res": "Fontvieille",
+                    "status": false
+                }
+            ]
+        }
+    ],
+   "dificult":[
+    {
+        "questao": "Qual é a capital da Mongólia?",
+        "respostas": [
+            {
+                "res": "Ulã Bator",
+                "status": true
+            },
+            {
+                "res": "Darkhan",
+                "status": false
+            },
+            {
+                "res": "Erdenet",
+                "status": false
+            },
+            {
+                "res": "Choibalsan",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Montenegro?",
+        "respostas": [
+            {
+                "res": "Podgorica",
+                "status": true
+            },
+            {
+                "res": "Nikšić",
+                "status": false
+            },
+            {
+                "res": "Cetinje",
+                "status": false
+            },
+            {
+                "res": "Budva",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Marrocos?",
+        "respostas": [
+            {
+                "res": "Rabat",
+                "status": true
+            },
+            {
+                "res": "Casablanca",
+                "status": false
+            },
+            {
+                "res": "Marrakech",
+                "status": false
+            },
+            {
+                "res": "Fès",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Moçambique?",
+        "respostas": [
+            {
+                "res": "Maputo",
+                "status": true
+            },
+            {
+                "res": "Beira",
+                "status": false
+            },
+            {
+                "res": "Nampula",
+                "status": false
+            },
+            {
+                "res": "Matola",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Myanmar?",
+        "respostas": [
+            {
+                "res": "Naypyidaw",
+                "status": true
+            },
+            {
+                "res": "Yangon",
+                "status": false
+            },
+            {
+                "res": "Mandalay",
+                "status": false
+            },
+            {
+                "res": "Bago",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Nepal?",
+        "respostas": [
+            {
+                "res": "Catmandu",
+                "status": true
+            },
+            {
+                "res": "Biratnagar",
+                "status": false
+            },
+            {
+                "res": "Pokhara",
+                "status": false
+            },
+            {
+                "res": "Lalitpur",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Níger?",
+        "respostas": [
+            {
+                "res": "Niamey",
+                "status": true
+            },
+            {
+                "res": "Zinder",
+                "status": false
+            },
+            {
+                "res": "Maradi",
+                "status": false
+            },
+            {
+                "res": "Tahoua",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Nigéria?",
+        "respostas": [
+            {
+                "res": "Abuja",
+                "status": true
+            },
+            {
+                "res": "Lagos",
+                "status": false
+            },
+            {
+                "res": "Kano",
+                "status": false
+            },
+            {
+                "res": "Ibadan",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Noruega?",
+        "respostas": [
+            {
+                "res": "Oslo",
+                "status": true
+            },
+            {
+                "res": "Bergen",
+                "status": false
+            },
+            {
+                "res": "Trondheim",
+                "status": false
+            },
+            {
+                "res": "Stavanger",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Nova Zelândia?",
+        "respostas": [
+            {
+                "res": "Wellington",
+                "status": true
+            },
+            {
+                "res": "Auckland",
+                "status": false
+            },
+            {
+                "res": "Christchurch",
+                "status": false
+            },
+            {
+                "res": "Hamilton",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Omã?",
+        "respostas": [
+            {
+                "res": "Mascate",
+                "status": true
+            },
+            {
+                "res": "Salalah",
+                "status": false
+            },
+            {
+                "res": "Suhar",
+                "status": false
+            },
+            {
+                "res": "Nizwa",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Paquistão?",
+        "respostas": [
+            {
+                "res": "Islamabad",
+                "status": true
+            },
+            {
+                "res": "Karachi",
+                "status": false
+            },
+            {
+                "res": "Lahore",
+                "status": false
+            },
+            {
+                "res": "Rawalpindi",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Palau?",
+        "respostas": [
+            {
+                "res": "Ngerulmud",
+                "status": true
+            },
+            {
+                "res": "Koror",
+                "status": false
+            },
+            {
+                "res": "Melekeok",
+                "status": false
+            },
+            {
+                "res": "Airai",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Panamá?",
+        "respostas": [
+            {
+                "res": "Cidade do Panamá",
+                "status": true
+            },
+            {
+                "res": "Colón",
+                "status": false
+            },
+            {
+                "res": "David",
+                "status": false
+            },
+            {
+                "res": "Tocumen",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Papua-Nova Guiné?",
+        "respostas": [
+            {
+                "res": "Port Moresby",
+                "status": true
+            },
+            {
+                "res": "Lae",
+                "status": false
+            },
+            {
+                "res": "Mount Hagen",
+                "status": false
+            },
+            {
+                "res": "Madang",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Paraguai?",
+        "respostas": [
+            {
+                "res": "Assunção",
+                "status": true
+            },
+            {
+                "res": "Ciudad del Este",
+                "status": false
+            },
+            {
+                "res": "San Lorenzo",
+                "status": false
+            },
+            {
+                "res": "Luque",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Peru?",
+        "respostas": [
+            {
+                "res": "Lima",
+                "status": true
+            },
+            {
+                "res": "Arequipa",
+                "status": false
+            },
+            {
+                "res": "Trujillo",
+                "status": false
+            },
+            {
+                "res": "Chiclayo",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital das Filipinas?",
+        "respostas": [
+            {
+                "res": "Manila",
+                "status": true
+            },
+            {
+                "res": "Quezon City",
+                "status": false
+            },
+            {
+                "res": "Cebu City",
+                "status": false
+            },
+            {
+                "res": "Davao City",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Polônia?",
+        "respostas": [
+            {
+                "res": "Varsóvia",
+                "status": true
+            },
+            {
+                "res": "Cracóvia",
+                "status": false
+            },
+            {
+                "res": "Łódź",
+                "status": false
+            },
+            {
+                "res": "Wrocław",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Portugal?",
+        "respostas": [
+            {
+                "res": "Lisboa",
+                "status": true
+            },
+            {
+                "res": "Porto",
+                "status": false
+            },
+            {
+                "res": "Amadora",
+                "status": false
+            },
+            {
+                "res": "Vila Nova de Gaia",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Porto Rico?",
+        "respostas": [
+            {
+                "res": "San Juan",
+                "status": true
+            },
+            {
+                "res": "Bayamón",
+                "status": false
+            },
+            {
+                "res": "Carolina",
+                "status": false
+            },
+            {
+                "res": "Ponce",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Qatar?",
+        "respostas": [
+            {
+                "res": "Doha",
+                "status": true
+            },
+            {
+                "res": "Al Wakrah",
+                "status": false
+            },
+            {
+                "res": "Ar Rayyan",
+                "status": false
+            },
+            {
+                "res": "Umm Salal",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da República Centro-Africana?",
+        "respostas": [
+            {
+                "res": "Bangui",
+                "status": true
+            },
+            {
+                "res": "Bimbo",
+                "status": false
+            },
+            {
+                "res": "Berbérati",
+                "status": false
+            },
+            {
+                "res": "Bambari",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da República Democrática do Congo?",
+        "respostas": [
+            {
+                "res": "Kinshasa",
+                "status": true
+            },
+            {
+                "res": "Lubumbashi",
+                "status": false
+            },
+            {
+                "res": "Mbuji-Mayi",
+                "status": false
+            },
+            {
+                "res": "Kananga",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da República Dominicana?",
+        "respostas": [
+            {
+                "res": "Santo Domingo",
+                "status": true
+            },
+            {
+                "res": "Santiago",
+                "status": false
+            },
+            {
+                "res": "La Romana",
+                "status": false
+            },
+            {
+                "res": "San Pedro de Macorís",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Romênia?",
+        "respostas": [
+            {
+                "res": "Bucareste",
+                "status": true
+            },
+            {
+                "res": "Cluj-Napoca",
+                "status": false
+            },
+            {
+                "res": "Timișoara",
+                "status": false
+            },
+            {
+                "res": "Iași",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Ruanda?",
+        "respostas": [
+            {
+                "res": "Kigali",
+                "status": true
+            },
+            {
+                "res": "Butare",
+                "status": false
+            },
+            {
+                "res": "Gisenyi",
+                "status": false
+            },
+            {
+                "res": "Ruhengeri",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de São Cristóvão e Nevis?",
+        "respostas": [
+            {
+                "res": "Basseterre",
+                "status": true
+            },
+            {
+                "res": "Charlestown",
+                "status": false
+            },
+            {
+                "res": "Dieppe Bay Town",
+                "status": false
+            },
+            {
+                "res": "Tabernacle",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Santa Lúcia?",
+        "respostas": [
+            {
+                "res": "Castries",
+                "status": true
+            },
+            {
+                "res": "Vieux Fort",
+                "status": false
+            },
+            {
+                "res": "Micoud",
+                "status": false
+            },
+            {
+                "res": "Soufrière",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de São Vicente e Granadinas?",
+        "respostas": [
+            {
+                "res": "Kingstown",
+                "status": true
+            },
+            {
+                "res": "Arnos Vale",
+                "status": false
+            },
+            {
+                "res": "Port Elizabeth",
+                "status": false
+            },
+            {
+                "res": "Georgetown",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital das Seicheles?",
+        "respostas": [
+            {
+                "res": "Victoria",
+                "status": true
+            },
+            {
+                "res": "Anse Boileau",
+                "status": false
+            },
+            {
+                "res": "Beau Vallon",
+                "status": false
+            },
+            {
+                "res": "Takamaka",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Senegal?",
+        "respostas": [
+            {
+                "res": "Dacar",
+                "status": true
+            },
+            {
+                "res": "Thiès",
+                "status": false
+            },
+            {
+                "res": "Kaolack",
+                "status": false
+            },
+            {
+                "res": "Ziguinchor",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Sérvia?",
+        "respostas": [
+            {
+                "res": "Belgrado",
+                "status": true
+            },
+            {
+                "res": "Novi Sad",
+                "status": false
+            },
+            {
+                "res": "Niš",
+                "status": false
+            },
+            {
+                "res": "Kragujevac",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital das Seicheles?",
+        "respostas": [
+            {
+                "res": "Victoria",
+                "status": true
+            },
+            {
+                "res": "Anse Boileau",
+                "status": false
+            },
+            {
+                "res": "Beau Vallon",
+                "status": false
+            },
+            {
+                "res": "Takamaka",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Serra Leoa?",
+        "respostas": [
+            {
+                "res": "Freetown",
+                "status": true
+            },
+            {
+                "res": "Bo",
+                "status": false
+            },
+            {
+                "res": "Kenema",
+                "status": false
+            },
+            {
+                "res": "Koidu",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Síria?",
+        "respostas": [
+            {
+                "res": "Damasco",
+                "status": true
+            },
+            {
+                "res": "Alepo",
+                "status": false
+            },
+            {
+                "res": "Homs",
+                "status": false
+            },
+            {
+                "res": "Latakia",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Somália?",
+        "respostas": [
+            {
+                "res": "Mogadíscio",
+                "status": true
+            },
+            {
+                "res": "Hargeisa",
+                "status": false
+            },
+            {
+                "res": "Bosaso",
+                "status": false
+            },
+            {
+                "res": "Kismayo",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sri Lanka?",
+        "respostas": [
+            {
+                "res": "Colombo",
+                "status": true
+            },
+            {
+                "res": "Kandy",
+                "status": false
+            },
+            {
+                "res": "Galle",
+                "status": false
+            },
+            {
+                "res": "Jaffna",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sudão?",
+        "respostas": [
+            {
+                "res": "Cartum",
+                "status": true
+            },
+            {
+                "res": "Omdurman",
+                "status": false
+            },
+            {
+                "res": "Cadarf",
+                "status": false
+            },
+            {
+                "res": "Port Sudan",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sudão do Sul?",
+        "respostas": [
+            {
+                "res": "Juba",
+                "status": true
+            },
+            {
+                "res": "Wau",
+                "status": false
+            },
+            {
+                "res": "Malakal",
+                "status": false
+            },
+            {
+                "res": "Bor",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Suriname?",
+        "respostas": [
+            {
+                "res": "Paramaribo",
+                "status": true
+            },
+            {
+                "res": "Lelydorp",
+                "status": false
+            },
+            {
+                "res": "Nieuw Nickerie",
+                "status": false
+            },
+            {
+                "res": "Moengo",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Tadjiquistão?",
+        "respostas": [
+            {
+                "res": "Duchambe",
+                "status": true
+            },
+            {
+                "res": "Khujand",
+                "status": false
+            },
+            {
+                "res": "Kulob",
+                "status": false
+            },
+            {
+                "res": "Qurghonteppa",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Tailândia?",
+        "respostas": [
+            {
+                "res": "Bangcoc",
+                "status": true
+            },
+            {
+                "res": "Chiang Mai",
+                "status": false
+            },
+            {
+                "res": "Pattaya",
+                "status": false
+            },
+            {
+                "res": "Phuket",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Taiwan?",
+        "respostas": [
+            {
+                "res": "Taipé",
+                "status": true
+            },
+            {
+                "res": "Kaohsiung",
+                "status": false
+            },
+            {
+                "res": "Taoyuan",
+                "status": false
+            },
+            {
+                "res": "Tainan",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Tajiquistão?",
+        "respostas": [
+            {
+                "res": "Duchambe",
+                "status": true
+            },
+            {
+                "res": "Khujand",
+                "status": false
+            },
+            {
+                "res": "Kulob",
+                "status": false
+            },
+            {
+                "res": "Qurghonteppa",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Trinidad e Tobago?",
+        "respostas": [
+            {
+                "res": "Port of Spain",
+                "status": true
+            },
+            {
+                "res": "San Fernando",
+                "status": false
+            },
+            {
+                "res": "Chaguanas",
+                "status": false
+            },
+            {
+                "res": "Arima",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Togo?",
+        "respostas": [
+            {
+                "res": "Lomé",
+                "status": true
+            },
+            {
+                "res": "Sokodé",
+                "status": false
+            },
+            {
+                "res": "Kara",
+                "status": false
+            },
+            {
+                "res": "Kpalimé",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Tonga?",
+        "respostas": [
+            {
+                "res": "Nuku'alofa",
+                "status": true
+            },
+            {
+                "res": "Neiafu",
+                "status": false
+            },
+            {
+                "res": "Haveluloto",
+                "status": false
+            },
+            {
+                "res": "Pangai",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Trindade e Tobago?",
+        "respostas": [
+            {
+                "res": "Port of Spain",
+                "status": true
+            },
+            {
+                "res": "San Fernando",
+                "status": false
+            },
+            {
+                "res": "Chaguanas",
+                "status": false
+            },
+            {
+                "res": "Arima",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Tunísia?",
+        "respostas": [
+            {
+                "res": "Túnis",
+                "status": true
+            },
+            {
+                "res": "Sfax",
+                "status": false
+            },
+            {
+                "res": "Kairouan",
+                "status": false
+            },
+            {
+                "res": "Sousse",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Turquemenistão?",
+        "respostas": [
+            {
+                "res": "Asgabate",
+                "status": true
+            },
+            {
+                "res": "Turkmenabat",
+                "status": false
+            },
+            {
+                "res": "Dasoguz",
+                "status": false
+            },
+            {
+                "res": "Mary",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Turquia?",
+        "respostas": [
+            {
+                "res": "Ancara",
+                "status": true
+            },
+            {
+                "res": "Istambul",
+                "status": false
+            },
+            {
+                "res": "Izmir",
+                "status": false
+            },
+            {
+                "res": "Bursa",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Tuvalu?",
+        "respostas": [
+            {
+                "res": "Funafuti",
+                "status": true
+            },
+            {
+                "res": "Fongafale",
+                "status": false
+            },
+            {
+                "res": "Vaiaku",
+                "status": false
+            },
+            {
+                "res": "Asau",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Uganda?",
+        "respostas": [
+            {
+                "res": "Kampala",
+                "status": true
+            },
+            {
+                "res": "Entebbe",
+                "status": false
+            },
+            {
+                "res": "Kira",
+                "status": false
+            },
+            {
+                "res": "Gulu",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Uruguai?",
+        "respostas": [
+            {
+                "res": "Montevidéu",
+                "status": true
+            },
+            {
+                "res": "Salto",
+                "status": false
+            },
+            {
+                "res": "Paysandú",
+                "status": false
+            },
+            {
+                "res": "Las Piedras",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Uzbequistão?",
+        "respostas": [
+            {
+                "res": "Tashkent",
+                "status": true
+            },
+            {
+                "res": "Samarcanda",
+                "status": false
+            },
+            {
+                "res": "Andijan",
+                "status": false
+            },
+            {
+                "res": "Namangan",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Vanuatu?",
+        "respostas": [
+            {
+                "res": "Port Vila",
+                "status": true
+            },
+            {
+                "res": "Luganville",
+                "status": false
+            },
+            {
+                "res": "Norsup",
+                "status": false
+            },
+            {
+                "res": "Isangel",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Cidade do Vaticano?",
+        "respostas": [
+            {
+                "res": "Cidade do Vaticano",
+                "status": true
+            },
+            {
+                "res": "Roma",
+                "status": false
+            },
+            {
+                "res": "Milão",
+                "status": false
+            },
+            {
+                "res": "Florença",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Venezuela?",
+        "respostas": [
+            {
+                "res": "Caracas",
+                "status": true
+            },
+            {
+                "res": "Maracaibo",
+                "status": false
+            },
+            {
+                "res": "Valência",
+                "status": false
+            },
+            {
+                "res": "Barquisimeto",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Vietnã?",
+        "respostas": [
+            {
+                "res": "Hanói",
+                "status": true
+            },
+            {
+                "res": "Cidade de Ho Chi Minh",
+                "status": false
+            },
+            {
+                "res": "Haiphong",
+                "status": false
+            },
+            {
+                "res": "Da Nang",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Iémen?",
+        "respostas": [
+            {
+                "res": "Sana'a",
+                "status": true
+            },
+            {
+                "res": "Aden",
+                "status": false
+            },
+            {
+                "res": "Taiz",
+                "status": false
+            },
+            {
+                "res": "Hodeida",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Zâmbia?",
+        "respostas": [
+            {
+                "res": "Lusaka",
+                "status": true
+            },
+            {
+                "res": "Ndola",
+                "status": false
+            },
+            {
+                "res": "Kitwe",
+                "status": false
+            },
+            {
+                "res": "Kabwe",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Zimbabwe?",
+        "respostas": [
+            {
+                "res": "Harare",
+                "status": true
+            },
+            {
+                "res": "Bulawayo",
+                "status": false
+            },
+            {
+                "res": "Chitungwiza",
+                "status": false
+            },
+            {
+                "res": "Mutare",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Quirguistão?",
+        "respostas": [
+            {
+                "res": "Bisqueque",
+                "status": true
+            },
+            {
+                "res": "Oexac",
+                "status": false
+            },
+            {
+                "res": "Jalal-Abad",
+                "status": false
+            },
+            {
+                "res": "Kara-Balta",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da República Checa?",
+        "respostas": [
+            {
+                "res": "Praga",
+                "status": true
+            },
+            {
+                "res": "Brno",
+                "status": false
+            },
+            {
+                "res": "Ostrava",
+                "status": false
+            },
+            {
+                "res": "Pilsen",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da República Dominicana?",
+        "respostas": [
+            {
+                "res": "Santo Domingo",
+                "status": true
+            },
+            {
+                "res": "Santiago",
+                "status": false
+            },
+            {
+                "res": "La Romana",
+                "status": false
+            },
+            {
+                "res": "San Pedro de Macorís",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Roménia?",
+        "respostas": [
+            {
+                "res": "Bucareste",
+                "status": true
+            },
+            {
+                "res": "Cluj-Napoca",
+                "status": false
+            },
+            {
+                "res": "Timișoara",
+                "status": false
+            },
+            {
+                "res": "Iași",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Ruanda?",
+        "respostas": [
+            {
+                "res": "Kigali",
+                "status": true
+            },
+            {
+                "res": "Butare",
+                "status": false
+            },
+            {
+                "res": "Gisenyi",
+                "status": false
+            },
+            {
+                "res": "Ruhengeri",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Santa Lúcia?",
+        "respostas": [
+            {
+                "res": "Castries",
+                "status": true
+            },
+            {
+                "res": "Vieux Fort",
+                "status": false
+            },
+            {
+                "res": "Soufrière",
+                "status": false
+            },
+            {
+                "res": "Dennery",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de São Vicente e Granadinas?",
+        "respostas": [
+            {
+                "res": "Kingstown",
+                "status": true
+            },
+            {
+                "res": "Georgetown",
+                "status": false
+            },
+            {
+                "res": "Byera Village",
+                "status": false
+            },
+            {
+                "res": "Barrouallie",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital das Seychelles?",
+        "respostas": [
+            {
+                "res": "Victoria",
+                "status": true
+            },
+            {
+                "res": "Anse Boileau",
+                "status": false
+            },
+            {
+                "res": "Beau Vallon",
+                "status": false
+            },
+            {
+                "res": "Cascade",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Singapura?",
+        "respostas": [
+            {
+                "res": "Singapura",
+                "status": true
+            },
+            {
+                "res": "Cingapura",
+                "status": false
+            },
+            {
+                "res": "Jurong",
+                "status": false
+            },
+            {
+                "res": "Kallang",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Síria?",
+        "respostas": [
+            {
+                "res": "Damasco",
+                "status": true
+            },
+            {
+                "res": "Alepo",
+                "status": false
+            },
+            {
+                "res": "Homs",
+                "status": false
+            },
+            {
+                "res": "Latakia",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sri Lanka?",
+        "respostas": [
+            {
+                "res": "Colombo",
+                "status": true
+            },
+            {
+                "res": "Kandy",
+                "status": false
+            },
+            {
+                "res": "Galle",
+                "status": false
+            },
+            {
+                "res": "Jaffna",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sudão?",
+        "respostas": [
+            {
+                "res": "Cartum",
+                "status": true
+            },
+            {
+                "res": "Omdurman",
+                "status": false
+            },
+            {
+                "res": "Khartoum North",
+                "status": false
+            },
+            {
+                "res": "Porto Sudão",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital do Sudão do Sul?",
+        "respostas": [
+            {
+                "res": "Juba",
+                "status": true
+            },
+            {
+                "res": "Bor",
+                "status": false
+            },
+            {
+                "res": "Malakal",
+                "status": false
+            },
+            {
+                "res": "Wau",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Suécia?",
+        "respostas": [
+            {
+                "res": "Estocolmo",
+                "status": true
+            },
+            {
+                "res": "Gotemburgo",
+                "status": false
+            },
+            {
+                "res": "Malmö",
+                "status": false
+            },
+            {
+                "res": "Uppsala",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Suíça?",
+        "respostas": [
+            {
+                "res": "Berna",
+                "status": true
+            },
+            {
+                "res": "Zurique",
+                "status": false
+            },
+            {
+                "res": "Genebra",
+                "status": false
+            },
+            {
+                "res": "Basileia",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Suriname?",
+        "respostas": [
+            {
+                "res": "Paramaribo",
+                "status": true
+            },
+            {
+                "res": "Lelydorp",
+                "status": false
+            },
+            {
+                "res": "Nieuw Nickerie",
+                "status": false
+            },
+            {
+                "res": "Moengo",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital da Tailândia?",
+        "respostas": [
+            {
+                "res": "Bangkok",
+                "status": true
+            },
+            {
+                "res": "Phuket",
+                "status": false
+            },
+            {
+                "res": "Chiang Mai",
+                "status": false
+            },
+            {
+                "res": "Pattaya",
+                "status": false
+            }
+        ]
+    },
+    {
+        "questao": "Qual é a capital de Taiwan?",
+        "respostas": [
+            {
+                "res": "Taipé",
+                "status": true
+            },
+            {
+                "res": "Kaohsiung",
+                "status": false
+            },
+            {
+                "res": "Taichung",
+                "status": false
+            },
+            {
+                "res": "Tainan",
+                "status": false
+            }
+        ]
+    }
+   ]
+}
