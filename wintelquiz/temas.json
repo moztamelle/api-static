@@ -4,19 +4,19 @@
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biblia.json"
   },
   {
-    "nome": "Biologia",
+    "nome": "Biologia[SNE]",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/biologia.json"
   },
   {
-    "nome": "Fisíca",
+    "nome": "Fisíca[SNE]",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/fisica.json"
   },
   {
-    "nome": "Geografia",
+    "nome": "Geografia[SNE]",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/geografia.json"
   },
   {
-    "nome": "Quimica",
+    "nome": "Quimica[SNE]",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/quimica.json"
   },
   {

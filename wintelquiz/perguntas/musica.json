@@ -1,0 +1,393 @@
+{
+    "easy": [
+        {
+            "questao": "Em que ano foi lançado o álbum 'Cubaliwa'?",
+            "respostas": [
+                {
+                    "res": "2013",
+                    "status": true
+                },
+                {
+                    "res": "2015",
+                    "status": false
+                },
+                {
+                    "res": "2007",
+                    "status": false
+                },
+                {
+                    "res": "2009",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Azagaia foi conhecido por usar a música como:",
+            "respostas": [
+                {
+                    "res": "Ferramenta de entretenimento",
+                    "status": false
+                },
+                {
+                    "res": "Meio de propaganda política",
+                    "status": false
+                },
+                {
+                    "res": "Ferramenta de crítica social",
+                    "status": true
+                },
+                {
+                    "res": "Divulgação de moda urbana",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O que significa 'Cubaliwa' em sua língua de origem?",
+            "respostas": [
+                {
+                    "res": "Nascimento",
+                    "status": true
+                },
+                {
+                    "res": "Resistência",
+                    "status": false
+                },
+                {
+                    "res": "Justiça",
+                    "status": false
+                },
+                {
+                    "res": "Liberdade",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Azagaia é considerado um símbolo de:",
+            "respostas": [
+                {
+                    "res": "Sucesso empresarial",
+                    "status": false
+                },
+                {
+                    "res": "Música romântica",
+                    "status": false
+                },
+                {
+                    "res": "Resistência e consciência social",
+                    "status": true
+                },
+                {
+                    "res": "Cultura tradicional",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano faleceu Azagaia?",
+            "respostas": [
+                {
+                    "res": "2022",
+                    "status": false
+                },
+                {
+                    "res": "2023",
+                    "status": true
+                },
+                {
+                    "res": "2021",
+                    "status": false
+                },
+                {
+                    "res": "2020",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano faleceu Afonso Dhlakama?",
+            "respostas": [
+                {
+                    "res": "2017",
+                    "status": false
+                },
+                {
+                    "res": "2018",
+                    "status": true
+                },
+                {
+                    "res": "2016",
+                    "status": false
+                },
+                {
+                    "res": "2015",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual foi a potência colonial que dominou Moçambique até 1975?",
+            "respostas": [
+                {
+                    "res": "França",
+                    "status": false
+                },
+                {
+                    "res": "Bélgica",
+                    "status": false
+                },
+                {
+                    "res": "Portugal",
+                    "status": true
+                },
+                {
+                    "res": "Inglaterra",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Quando foi assinado o Acordo Geral de Paz?",
+            "respostas": [
+                {
+                    "res": "1994",
+                    "status": false
+                },
+                {
+                    "res": "1992",
+                    "status": true
+                },
+                {
+                    "res": "1989",
+                    "status": false
+                },
+                {
+                    "res": "1990",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual desses países faz fronteira com Moçambique?",
+            "respostas": [
+                {
+                    "res": "Namíbia",
+                    "status": false
+                },
+                {
+                    "res": "Quénia",
+                    "status": false
+                },
+                {
+                    "res": "Tanzânia",
+                    "status": true
+                },
+                {
+                    "res": "Gabão",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual é nome completo de Afonso Dhlakama?",
+            "respostas": [
+                {
+                    "res": "Afonso Marceta Dhlakama",
+                    "status": false
+                },
+                {
+                    "res": "Afonso Macacho Dhlakam",
+                    "status": false
+                },
+                {
+                    "res": "Afonso Macacho Marceta Dhlakama",
+                    "status": true
+                },
+                {
+                    "res": "Afonso Marceta Macacho Dhlakama",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano Moçambique se tornou independente de Portugal?",
+            "respostas": [
+                {
+                    "res": "1964",
+                    "status": false
+                },
+                {
+                    "res": "1975",
+                    "status": true
+                },
+                {
+                    "res": "1980",
+                    "status": false
+                },
+                {
+                    "res": "1987",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Antes de se tornar presidente, Samora Machel era:",
+            "respostas": [
+                {
+                    "res": "Agricultor",
+                    "status": false
+                },
+                {
+                    "res": "Médico",
+                    "status": false
+                },
+                {
+                    "res": "Enfermeiro",
+                    "status": true
+                },
+                {
+                    "res": "Professor",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Samora Machel foi líder de qual movimento de libertação?",
+            "respostas": [
+                {
+                    "res": "RENAMO",
+                    "status": false
+                },
+                {
+                    "res": "ANC",
+                    "status": false
+                },
+                {
+                    "res": "FRELIMO",
+                    "status": true
+                },
+                {
+                    "res": "MPLA",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano Samora Machel faleceu tragicamente num acidente aéreo?",
+            "respostas": [
+                {
+                    "res": "1983",
+                    "status": false
+                },
+                {
+                    "res": "1986",
+                    "status": true
+                },
+                {
+                    "res": "1990",
+                    "status": false
+                },
+                {
+                    "res": "1989",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "O acidente aéreo que causou a morte de Samora Machel ocorreu em qual país?",
+            "respostas": [
+                {
+                    "res": "Moçambique",
+                    "status": false
+                },
+                {
+                    "res": "Zâmbia",
+                    "status": false
+                },
+                {
+                    "res": "África do Sul",
+                    "status": true
+                },
+                {
+                    "res": "Suazilândia",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual destas frases é famosa de Samora Machel?",
+            "respostas": [
+                {
+                    "res": "A luta continua.",
+                    "status": true
+                },
+                {
+                    "res": "Um povo unido jamais será vencido.",
+                    "status": false
+                },
+                {
+                    "res": "Independência ou morte.",
+                    "status": false
+                },
+                {
+                    "res": "Paz, pão, terra, educação.",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Eduardo Mondlane estudou em qual destes países?",
+            "respostas": [
+                {
+                    "res": "Brasil",
+                    "status": false
+                },
+                {
+                    "res": "Estados Unidos da América",
+                    "status": true
+                },
+                {
+                    "res": "Portugal",
+                    "status": false
+                },
+                {
+                    "res": "França",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Em que ano Eduardo Mondlane foi assassinado?",
+            "respostas": [
+                {
+                    "res": "1975",
+                    "status": false
+                },
+                {
+                    "res": "1969",
+                    "status": true
+                },
+                {
+                    "res": "1980",
+                    "status": false
+                },
+                {
+                    "res": "1964",
+                    "status": false
+                }
+            ]
+        },
+        {
+            "questao": "Qual era a principal missão de Eduardo Mondlane?",
+            "respostas": [
+              { "res": "Fundar um partido político", "status": false },
+              { "res": "Negociar acordos com Portugal", "status": false },
+              { "res": "Unir os moçambicanos na luta contra o colonialismo", "status": true },
+              { "res": "Concorrer à presidência", "status": false }
+            ]
+          }
+    ],
+    "medium": [],
+    "dificult": []
+}
