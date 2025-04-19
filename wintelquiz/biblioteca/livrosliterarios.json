@@ -47,10 +47,6 @@
         "shared": "Internet",
         "type": "BOOK"
     },
-
-
-
-
     {
         "title": "Me Ajude a Falar - Mayra Gaiato",
         "url": "https://drive.google.com/file/d/1ilibN_wQl0nZ-hbZqSQsapIQg84vsNKB/view?usp=sharing",
@@ -73,6 +69,60 @@
         "title": "35 Verdades Sobre a Mente - Mateus Mutola, PhD",
         "url": "https://drive.google.com/file/d/1MreiDWGk1RDybqL0nu9Gt8IvjR3ghCWv/view?usp=sharing",
         "shared": "Edson Semente",
+        "type": "BOOK"
+    },
+    {
+        "title": "12 Regras para a Vida - Jordan B. Peterson",
+        "url": "https://drive.google.com/file/d/10N8K5Yr3oDnGzSDTv7novG4A1BmMasts/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Didática 2ª Edição – Cortez Editora",
+        "url": "https://drive.google.com/file/d/10ERbgJs_gWkwFL_ZCsIo5RWS61YQeMPq/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Fora de Serie - Outliers - Malcolm Gladwell",
+        "url": "https://drive.google.com/file/d/10Lnz7Ay42h_nZwvb4iKg00jcZ01Qgybw/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Inteligência Multifocal - Augusto Cury",
+        "url": "https://drive.google.com/file/d/10Ldg_8QO8V2z4g6mvpgWqhDSCOBu4lAp/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Rápido e Devagar: Duas Formas de Pensar - Daniel Kahneman",
+        "url": "https://drive.google.com/file/d/10JroZyuTTwuhZ1zs3Tp1GU1AJEwZwqFM/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "O Milagre da Manhã - Hal Elrod",
+        "url": "https://drive.google.com/file/d/10HEjh8uoWwkFmD-fZ62wN5g3LNkCSNQ8/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "O Ponto da Virada - Malcolm Gladwell",
+        "url": "https://drive.google.com/file/d/10F-hthdY4dno1IjadzWVC_fcSX8zQFVL/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Segredos do Relacionamento - John C. Maxwell",
+        "url": "https://drive.google.com/file/d/10UB2SDAoRfimE4e1IVDzm_FynCTsSO-Z/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Trabalhe 4 Horas Por Semana",
+        "url": "https://drive.google.com/file/d/10TjOaIAULQgJxuH5izSN5vXJ6kWAfN9k/view?usp=sharing",
+        "shared": "Internet",
         "type": "BOOK"
     }
 ]
