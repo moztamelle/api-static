@@ -26,5 +26,9 @@
   {
     "nome": "Capital de Países",
     "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/paises.json"
+  },
+  {
+    "nome": "Conceitos jurídicos",
+    "url": "https://raw.githubusercontent.com/moztamelle/api-static/refs/heads/main/wintelquiz/perguntas/termosjuridicos.json"
   }
 ]

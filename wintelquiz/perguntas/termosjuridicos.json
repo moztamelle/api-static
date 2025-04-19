@@ -1,0 +1,1336 @@
+{
+    "easy": [
+        {
+            "questao": "O que é um *réu*?",
+            "respostas": [
+              {
+                "res": "Juiz do processo",
+                "status": false
+              },
+              {
+                "res": "Pessoa acusada em um processo",
+                "status": true
+              },
+              {
+                "res": "Testemunha do crime",
+                "status": false
+              },
+              {
+                "res": "Advogado de defesa",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é *ação penal*?",
+            "respostas": [
+              {
+                "res": "Pedido de habeas corpus",
+                "status": false
+              },
+              {
+                "res": "Processo movido pelo Ministério Público ou vítima",
+                "status": true
+              },
+              {
+                "res": "Pedido de apelação",
+                "status": false
+              },
+              {
+                "res": "Recurso de decisão judicial",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *procurador*?",
+            "respostas": [
+              {
+                "res": "Advogado da vítima",
+                "status": false
+              },
+              {
+                "res": "Juiz substituto",
+                "status": false
+              },
+              {
+                "res": "Pessoa nomeada para agir em nome de outra",
+                "status": true
+              },
+              {
+                "res": "Servidor do tribunal",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *mandado de segurança*?",
+            "respostas": [
+              {
+                "res": "Ordem de prisão",
+                "status": false
+              },
+              {
+                "res": "Ação contra ato ilegal de autoridade",
+                "status": true
+              },
+              {
+                "res": "Convocação de testemunha",
+                "status": false
+              },
+              {
+                "res": "Pedido de indenização",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é *litigante*?",
+            "respostas": [
+              {
+                "res": "Pessoa neutra no processo",
+                "status": false
+              },
+              {
+                "res": "Pessoa que representa o juiz",
+                "status": false
+              },
+              {
+                "res": "Parte envolvida em um litígio",
+                "status": true
+              },
+              {
+                "res": "Advogado assistente",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é uma *testemunha*?",
+            "respostas": [
+              {
+                "res": "Réu do processo",
+                "status": false
+              },
+              {
+                "res": "Conhecedor de fatos relevantes ao processo",
+                "status": true
+              },
+              {
+                "res": "Advogado de defesa",
+                "status": false
+              },
+              {
+                "res": "Juiz auxiliar",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em disfarçar a origem ilícita de dinheiro?",
+            "respostas": [
+              {
+                "res": "Branqueamento de capitais",
+                "status": true
+              },
+              {
+                "res": "Corrupção",
+                "status": false
+              },
+              {
+                "res": "Extorsão",
+                "status": false
+              },
+              {
+                "res": "Peculato",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é cometido ao tomar algo de alguém com uso de violência?",
+            "respostas": [
+              {
+                "res": "Roubo",
+                "status": true
+              },
+              {
+                "res": "Furto",
+                "status": false
+              },
+              {
+                "res": "Estelionato",
+                "status": false
+              },
+              {
+                "res": "Apropriação indébita",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é caracterizado por desviar dinheiro público?",
+            "respostas": [
+              {
+                "res": "Peculato",
+                "status": true
+              },
+              {
+                "res": "Suborno",
+                "status": false
+              },
+              {
+                "res": "Corrupção passiva",
+                "status": false
+              },
+              {
+                "res": "Prevaricação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime envolve oferecer vantagem indevida a funcionário público?",
+            "respostas": [
+              {
+                "res": "Corrupção ativa",
+                "status": true
+              },
+              {
+                "res": "Concussão",
+                "status": false
+              },
+              {
+                "res": "Extorsão",
+                "status": false
+              },
+              {
+                "res": "Nepotismo",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de invadir propriedade alheia sem autorização?",
+            "respostas": [
+              {
+                "res": "Invasão de domicílio",
+                "status": true
+              },
+              {
+                "res": "Furto qualificado",
+                "status": false
+              },
+              {
+                "res": "Sequestro",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em obter vantagem por meio de engano?",
+            "respostas": [
+              {
+                "res": "Estelionato",
+                "status": true
+              },
+              {
+                "res": "Fraude processual",
+                "status": false
+              },
+              {
+                "res": "Furto simples",
+                "status": false
+              },
+              {
+                "res": "Pirataria",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é cometido ao manter alguém em cativeiro contra a vontade?",
+            "respostas": [
+              {
+                "res": "Sequestro",
+                "status": true
+              },
+              {
+                "res": "Coação",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              },
+              {
+                "res": "Homicídio",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime ocorre quando um funcionário público exige vantagem indevida?",
+            "respostas": [
+              {
+                "res": "Concussão",
+                "status": true
+              },
+              {
+                "res": "Corrupção passiva",
+                "status": false
+              },
+              {
+                "res": "Estelionato",
+                "status": false
+              },
+              {
+                "res": "Nepotismo",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de falsificar documentos?",
+            "respostas": [
+              {
+                "res": "Falsificação documental",
+                "status": true
+              },
+              {
+                "res": "Estelionato",
+                "status": false
+              },
+              {
+                "res": "Injúria",
+                "status": false
+              },
+              {
+                "res": "Prevaricação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime envolve a prática de violência para obter confissão ou informação?",
+            "respostas": [
+              {
+                "res": "Tortura",
+                "status": true
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              },
+              {
+                "res": "Coação",
+                "status": false
+              },
+              {
+                "res": "Constrangimento ilegal",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é caracterizado por matar alguém com intenção?",
+            "respostas": [
+              {
+                "res": "Homicídio doloso",
+                "status": true
+              },
+              {
+                "res": "Homicídio culposo",
+                "status": false
+              },
+              {
+                "res": "Lesão corporal",
+                "status": false
+              },
+              {
+                "res": "Tentativa de homicídio",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de divulgar informações confidenciais sem autorização?",
+            "respostas": [
+              {
+                "res": "Violação de sigilo",
+                "status": true
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Pirataria",
+                "status": false
+              },
+              {
+                "res": "Dano moral",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é praticado ao causar dano material a bem público?",
+            "respostas": [
+              {
+                "res": "Dano ao patrimônio público",
+                "status": true
+              },
+              {
+                "res": "Peculato",
+                "status": false
+              },
+              {
+                "res": "Prevaricação",
+                "status": false
+              },
+              {
+                "res": "Corrupção ativa",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de mentir ou distorcer informações perante autoridade?",
+            "respostas": [
+              {
+                "res": "Falso testemunho",
+                "status": true
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Injúria",
+                "status": false
+              },
+              {
+                "res": "Difamação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o nome do crime de destruir provas para prejudicar a justiça?",
+            "respostas": [
+              {
+                "res": "Fraude processual",
+                "status": true
+              },
+              {
+                "res": "Falsidade ideológica",
+                "status": false
+              },
+              {
+                "res": "Corrupção",
+                "status": false
+              },
+              {
+                "res": "Abuso de autoridade",
+                "status": false
+              }
+            ]
+          }
+          
+    ],
+    "medium": [
+        {
+            "questao": "Qual o significado de *jurisprudência*?",
+            "respostas": [
+              {
+                "res": "Sentença do juiz",
+                "status": false
+              },
+              {
+                "res": "Conjunto de leis de um país",
+                "status": false
+              },
+              {
+                "res": "Decisões anteriores usadas como referência",
+                "status": true
+              },
+              {
+                "res": "Código penal",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *alvará*?",
+            "respostas": [
+              {
+                "res": "Um tipo de pena",
+                "status": false
+              },
+              {
+                "res": "Autorização oficial para algo",
+                "status": true
+              },
+              {
+                "res": "Testemunho registrado",
+                "status": false
+              },
+              {
+                "res": "Despacho do juiz",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que significa *foro competente*?",
+            "respostas": [
+              {
+                "res": "O juiz mais experiente",
+                "status": false
+              },
+              {
+                "res": "O tribunal responsável por julgar um caso",
+                "status": true
+              },
+              {
+                "res": "Local onde o réu mora",
+                "status": false
+              },
+              {
+                "res": "Sala onde o julgamento ocorre",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *acórdão*?",
+            "respostas": [
+              {
+                "res": "Decisão de um juiz de primeira instância",
+                "status": false
+              },
+              {
+                "res": "Acordo entre partes",
+                "status": false
+              },
+              {
+                "res": "Decisão tomada por um colegiado de juízes",
+                "status": true
+              },
+              {
+                "res": "Resumo de um processo",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que significa *sentença transitada em julgado*?",
+            "respostas": [
+              {
+                "res": "Sentença cancelada",
+                "status": false
+              },
+              {
+                "res": "Sentença provisória",
+                "status": false
+              },
+              {
+                "res": "Sentença que não cabe mais recurso",
+                "status": true
+              },
+              {
+                "res": "Sentença com erro formal",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é *domínio público*?",
+            "respostas": [
+              {
+                "res": "Propriedade do governo",
+                "status": true
+              },
+              {
+                "res": "Área de livre comércio",
+                "status": false
+              },
+              {
+                "res": "Espaço urbano privado",
+                "status": false
+              },
+              {
+                "res": "Bem de posse de uma empresa pública",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *interdito*?",
+            "respostas": [
+              {
+                "res": "Pessoa que cometeu crime hediondo",
+                "status": false
+              },
+              {
+                "res": "Impedimento legal de praticar certos atos",
+                "status": true
+              },
+              {
+                "res": "Reu reincidente",
+                "status": false
+              },
+              {
+                "res": "Pessoa que testemunha contra o réu",
+                "status": false
+              }
+            ]
+          },
+        
+          {
+            "questao": "O que é um *jurado*?",
+            "respostas": [
+              {
+                "res": "Juiz responsável pelo processo",
+                "status": false
+              },
+              {
+                "res": "Cidadão que participa de julgamento no tribunal do júri",
+                "status": true
+              },
+              {
+                "res": "Advogado da parte acusadora",
+                "status": false
+              },
+              {
+                "res": "Secretário do tribunal",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que significa *ônus da prova*?",
+            "respostas": [
+              {
+                "res": "Direito de apresentar provas",
+                "status": false
+              },
+              {
+                "res": "Obrigação de fornecer provas",
+                "status": true
+              },
+              {
+                "res": "Provas colhidas pela polícia",
+                "status": false
+              },
+              {
+                "res": "Prova testemunhal",
+                "status": false
+              }
+            ]
+          },
+        
+          {
+            "questao": "O que significa *presunção de inocência*?",
+            "respostas": [
+              {
+                "res": "Réu é culpado até prova em contrário",
+                "status": false
+              },
+              {
+                "res": "Réu só é julgado com provas",
+                "status": false
+              },
+              {
+                "res": "Réu é inocente até que se prove o contrário",
+                "status": true
+              },
+              {
+                "res": "Réu não pode ser julgado por falta de provas",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *advogado dativo*?",
+            "respostas": [
+              {
+                "res": "Advogado que defende a acusação",
+                "status": false
+              },
+              {
+                "res": "Advogado pago pelo réu",
+                "status": false
+              },
+              {
+                "res": "Advogado nomeado pelo juiz para defender o réu",
+                "status": true
+              },
+              {
+                "res": "Advogado que atua como juiz para o réu",
+                "status": false
+              }
+            ]
+          },
+        
+          {
+            "questao": "O que é uma *citação judicial*?",
+            "respostas": [
+              {
+                "res": "Frase da Constituição",
+                "status": false
+              },
+              {
+                "res": "Notificação formal para comparecer em juízo",
+                "status": true
+              },
+              {
+                "res": "Resumo de uma sentença",
+                "status": false
+              },
+              {
+                "res": "Recurso do Ministério Público",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "O que é um *contrato*?",
+            "respostas": [
+              {
+                "res": "Acordo informal",
+                "status": false
+              },
+              {
+                "res": "Documento oficial da Receita Federal",
+                "status": false
+              },
+              {
+                "res": "Acordo com valor jurídico as partes",
+                "status": true
+              },
+              {
+                "res": "Nota promissória",
+                "status": false
+              }
+            ]
+          },
+          
+  {
+    "questao": "O que é *fiança*?",
+    "respostas": [
+      {
+        "res": "Multa aplicada ao réu",
+        "status": false
+      },
+      {
+        "res": "Valor pago para garantir liberdade provisória",
+        "status": true
+      },
+      {
+        "res": "Taxa cobrada pelo tribunal",
+        "status": false
+      },
+      {
+        "res": "Pagamento obrigatório por testemunhas",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que significa *litigância de má-fé*?",
+    "respostas": [
+      {
+        "res": "Discussão entre advogados",
+        "status": false
+      },
+      {
+        "res": "Mentir intencionalmente no processo",
+        "status": true
+      },
+      {
+        "res": "Erro cometido pelo juiz",
+        "status": false
+      },
+      {
+        "res": "Erro intencional do Juiz",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que é *penhora*?",
+    "respostas": [
+      {
+        "res": "Ato de prender alguém",
+        "status": false
+      },
+      {
+        "res": "Ato judicial de apreensão de bens",
+        "status": true
+      },
+      {
+        "res": "Doação judicial",
+        "status": false
+      },
+      {
+        "res": "Transferência de herança",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que é uma *liminar*?",
+    "respostas": [
+      {
+        "res": "Sentença final",
+        "status": false
+      },
+      {
+        "res": "Decisão provisória e urgente",
+        "status": true
+      },
+      {
+        "res": "Despacho policial",
+        "status": false
+      },
+      {
+        "res": "Pedido de habeas corpus",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que é um *recurso*?",
+    "respostas": [
+      {
+        "res": "Pedido de desculpas do réu",
+        "status": false
+      },
+      {
+        "res": "Pedido de revisão de uma decisão judicial",
+        "status": true
+      },
+      {
+        "res": "Decisão final tomada pelo Juiz",
+        "status": false
+      },
+      {
+        "res": "Documentação de acusação",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que é *prisão preventiva*?",
+    "respostas": [
+      {
+        "res": "Prisão após condenação",
+        "status": false
+      },
+      {
+        "res": "Prisão para proteção de testemunhas",
+        "status": false
+      },
+      {
+        "res": "Prisão decretada antes do julgamento",
+        "status": true
+      },
+      {
+        "res": "Prisão domiciliar",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que significa *crime hediondo*?",
+    "respostas": [
+      {
+        "res": "Crime leve",
+        "status": false
+      },
+      {
+        "res": "Crime cometido sem intenção",
+        "status": false
+      },
+      {
+        "res": "Crime considerado extremamente grave",
+        "status": true
+      },
+      {
+        "res": "Crime contra o meio ambiente",
+        "status": false
+      }
+    ]
+  },
+  {
+    "questao": "O que é uma *intimação*?",
+    "respostas": [
+      {
+        "res": "Convocação para pagar multa",
+        "status": false
+      },
+      {
+        "res": "Notificação para cumprir ordem judicial",
+        "status": true
+      },
+      {
+        "res": "Pedido de desculpas do juiz",
+        "status": false
+      },
+      {
+        "res": "Solicitação de provas",
+        "status": false
+      }
+    ]
+  }
+    ],
+    "dificult": [
+        {
+            "questao": "O que é um *jurisconsulto*?",
+            "respostas": [
+              {
+                "res": "Promotor de justiça",
+                "status": false
+              },
+              {
+                "res": "Pessoa que interpretas as leis",
+                "status": false
+              },
+              {
+                "res": "Pessoa com profundo conhecimento em leis",
+                "status": true
+              },
+              {
+                "res": "Assistente de cartório",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de inserir informações falsas em documentos verdadeiros?",
+            "respostas": [
+              {
+                "res": "Falsidade ideológica",
+                "status": true
+              },
+              {
+                "res": "Estelionato",
+                "status": false
+              },
+              {
+                "res": "Peculato",
+                "status": false
+              },
+              {
+                "res": "Furto qualificado",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em acusar alguém falsamente de um crime?",
+            "respostas": [
+              {
+                "res": "Denunciação caluniosa",
+                "status": true
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Difamação",
+                "status": false
+              },
+              {
+                "res": "Falso testemunho",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime ocorre ao apropriar-se de algo que foi entregue de boa fé?",
+            "respostas": [
+              {
+                "res": "Apropriação indébita",
+                "status": true
+              },
+              {
+                "res": "Furto",
+                "status": false
+              },
+              {
+                "res": "Estelionato",
+                "status": false
+              },
+              {
+                "res": "Corrupção",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é cometido ao copiar e distribuir obras protegidas sem autorização?",
+            "respostas": [
+              {
+                "res": "Pirataria",
+                "status": true
+              },
+              {
+                "res": "Falsidade ideológica",
+                "status": false
+              },
+              {
+                "res": "Plágio acadêmico",
+                "status": false
+              },
+              {
+                "res": "Injúria",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de agredir alguém fisicamente, causando lesões?",
+            "respostas": [
+              {
+                "res": "Lesão corporal",
+                "status": true
+              },
+              {
+                "res": "Tortura",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              },
+              {
+                "res": "Coação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em difamar a honra de alguém?",
+            "respostas": [
+              {
+                "res": "Difamação",
+                "status": true
+              },
+              {
+                "res": "Injúria",
+                "status": false
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Desacato",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de insultar ou ofender alguém verbalmente?",
+            "respostas": [
+              {
+                "res": "Injúria",
+                "status": true
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Difamação",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em mentir para induzir a vítima a erro, obtendo vantagem?",
+            "respostas": [
+              {
+                "res": "Estelionato",
+                "status": true
+              },
+              {
+                "res": "Furto",
+                "status": false
+              },
+              {
+                "res": "Coação",
+                "status": false
+              },
+              {
+                "res": "Peculato",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime ocorre ao constranger alguém com violência para que faça algo?",
+            "respostas": [
+              {
+                "res": "Coação",
+                "status": true
+              },
+              {
+                "res": "Extorsão",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              },
+              {
+                "res": "Sequestro",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de induzir alguém a realizar ato sexual sem consentimento?",
+            "respostas": [
+              {
+                "res": "Estupro",
+                "status": true
+              },
+              {
+                "res": "Coação",
+                "status": false
+              },
+              {
+                "res": "Lesão corporal",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é cometido ao matar alguém sem intenção?",
+            "respostas": [
+              {
+                "res": "Homicídio culposo",
+                "status": true
+              },
+              {
+                "res": "Homicídio doloso",
+                "status": false
+              },
+              {
+                "res": "Lesão corporal",
+                "status": false
+              },
+              {
+                "res": "Ameaça",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é praticado por servidor que deixa de cumprir dever legal?",
+            "respostas": [
+              {
+                "res": "Prevaricação",
+                "status": true
+              },
+              {
+                "res": "Peculato",
+                "status": false
+              },
+              {
+                "res": "Corrupção passiva",
+                "status": false
+              },
+              {
+                "res": "Nepotismo",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime é cometido ao impedir o livre exercício de um direito?",
+            "respostas": [
+              {
+                "res": "Abuso de autoridade",
+                "status": true
+              },
+              {
+                "res": "Prevaricação",
+                "status": false
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Difamação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual crime consiste em causar pânico coletivo através de alarme falso?",
+            "respostas": [
+              {
+                "res": "Alarme falso",
+                "status": true
+              },
+              {
+                "res": "Calúnia",
+                "status": false
+              },
+              {
+                "res": "Difamação",
+                "status": false
+              },
+              {
+                "res": "Injúria",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o crime de ameaçar alguém com causar mal injusto e grave?",
+            "respostas": [
+              {
+                "res": "Ameaça",
+                "status": true
+              },
+              {
+                "res": "Coação",
+                "status": false
+              },
+              {
+                "res": "Extorsão",
+                "status": false
+              },
+              {
+                "res": "Furto",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual termo jurídico representa o 'ato de perdoar uma pena' concedido pelo Presidente da República?",
+            "respostas": [
+              {
+                "res": "Anistia",
+                "status": false
+              },
+              {
+                "res": "Indulto",
+                "status": true
+              },
+              {
+                "res": "Suspensão condicional",
+                "status": false
+              },
+              {
+                "res": "Reabilitação",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Como é chamado o documento que permite a alguém representar outra pessoa legalmente?",
+            "respostas": [
+              {
+                "res": "Certidão",
+                "status": false
+              },
+              {
+                "res": "Alvará",
+                "status": false
+              },
+              {
+                "res": "Procuração",
+                "status": true
+              },
+              {
+                "res": "Mandado",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual é o nome do local onde se registram atos e contratos públicos?",
+            "respostas": [
+              {
+                "res": "Tribunal",
+                "status": false
+              },
+              {
+                "res": "Cartório",
+                "status": true
+              },
+              {
+                "res": "Fórum",
+                "status": false
+              },
+              {
+                "res": "Defensoria",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Que termo jurídico descreve a perda de um bem obtido de forma ilícita?",
+            "respostas": [
+              {
+                "res": "Confisco",
+                "status": true
+              },
+              {
+                "res": "Hipoteca",
+                "status": false
+              },
+              {
+                "res": "Apreensão",
+                "status": false
+              },
+              {
+                "res": "Sequestro",
+                "status": false
+              }
+            ]
+          },
+          {
+            "questao": "Qual termo representa o ato de registrar formalmente uma queixa ou denúncia?",
+            "respostas": [
+              {
+                "res": "Audiência",
+                "status": false
+              },
+              {
+                "res": "Depoimento",
+                "status": false
+              },
+              {
+                "res": "Petição",
+                "status": true
+              },
+              {
+                "res": "Citação",
+                "status": false
+              }
+            ]
+          }
+    ]
+}
