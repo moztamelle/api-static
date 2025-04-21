@@ -976,27 +976,6 @@
             ]
           },
           {
-            "questao": "Qual crime é cometido ao copiar e distribuir obras protegidas sem autorização?",
-            "respostas": [
-              {
-                "res": "Pirataria",
-                "status": true
-              },
-              {
-                "res": "Falsidade ideológica",
-                "status": false
-              },
-              {
-                "res": "Plágio acadêmico",
-                "status": false
-              },
-              {
-                "res": "Injúria",
-                "status": false
-              }
-            ]
-          },
-          {
             "questao": "Qual é o crime de agredir alguém fisicamente, causando lesões?",
             "respostas": [
               {
