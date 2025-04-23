@@ -14,19 +14,19 @@
     {
         "title": "UEM",
         "description":"Exames de Admissão da UEM",
-        "url": [2024,2023,2022],
+        "url": ["2024","2023","2022"],
         "dev":""
     },
     {
         "title": "UP",
         "description":"Exames de Admissão da UP",
-        "url": [2024],
+        "url": ["2024"],
         "dev":""
     },
     {
         "title": "ISCISA",
         "description":"Exames de Admissão da ISCISA",
-        "url": [2023],
+        "url": ["2023"],
         "dev":"ISCISA"
     }
 ]
