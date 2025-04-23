@@ -2,31 +2,31 @@
     {
         "title": "10ª Classe",
         "description":"Exames do SNE da 10ª Classe",
-        "url": "",
+        "url": [],
         "dev":"10ª Classe"
     },
     {
         "title": "12ª Classe",
         "description":"Exames do SNE da 12ª Classe",
-        "url": "",
+        "url": [],
         "dev":"12ª Classe"
     },
     {
         "title": "UEM",
         "description":"Exames de Admissão da UEM",
-        "url": "",
+        "url": [2024,2023,2022],
         "dev":""
     },
     {
         "title": "UP",
         "description":"Exames de Admissão da UP",
-        "url": "",
+        "url": [2024],
         "dev":""
     },
     {
         "title": "ISCISA",
         "description":"Exames de Admissão da ISCISA",
-        "url": "",
+        "url": [2023],
         "dev":"ISCISA"
     }
 ]
