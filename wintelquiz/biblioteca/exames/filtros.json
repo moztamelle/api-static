@@ -1,0 +1,32 @@
+[
+    {
+        "title": "10ª Classe",
+        "description":"Exames do SNE da 10ª Classe",
+        "url": "",
+        "dev":"10ª Classe"
+    },
+    {
+        "title": "12ª Classe",
+        "description":"Exames do SNE da 12ª Classe",
+        "url": "",
+        "dev":"12ª Classe"
+    },
+    {
+        "title": "UEM",
+        "description":"Exames de Admissão da UEM",
+        "url": "",
+        "dev":""
+    },
+    {
+        "title": "UP",
+        "description":"Exames de Admissão da UP",
+        "url": "",
+        "dev":""
+    },
+    {
+        "title": "ISCISA",
+        "description":"Exames de Admissão da ISCISA",
+        "url": "",
+        "dev":"ISCISA"
+    }
+]
