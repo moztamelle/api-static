@@ -13,6 +13,20 @@
         "dev": "10ª Classe"
     },
     {
+        "title": "12ª Classe",
+        "description": "Exames do SNE da 12ª Classe",
+        "url": [
+            "2022",
+            "2020",
+            "2019",
+            "2018",
+            "2017",
+            "2016",
+            "2015 abaixo"
+        ],
+        "dev": "12ª Classe"
+    },
+    {
         "title": "UEM",
         "description": "Exames de Admissão da UEM",
         "url": [
