@@ -5,11 +5,17 @@
         "shared": "Internet",
         "type": "BOOK"
     },
+        {
+        "title": "Inglês 8ª Classe - Ensino a Distância - (PESD)",
+        "url": "https://drive.google.com/file/d/1VYi8iwWO-tJJRHVBweP0qtMeBpsZKiBv/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
     {
         "title": "Inglés 8ª Classe - Caderno de Actividades",
         "url": "https://drive.google.com/file/d/1jB-Vk1tRqaTxGr5eCL1Oc5YHmuvLTLb-/view?usp=sharing",
         "shared": "Internet",
-        "type": "BOOK"
+        "type": "AUX"
     },
     {
         "title": "Inglés 11ª Classe (Longman)",
@@ -22,5 +28,11 @@
         "url": "https://drive.google.com/file/d/14hD7wXkZQZDYdWjrAH3qrClx71U1L1W9/view?usp=sharing",
         "shared": "Internet",
         "type": "BOOK"
+    },
+        {
+        "title": "Caderno de Actividades - Inglês 11ª Classe",
+        "url": "https://drive.google.com/file/d/1W5yOgPFBxl00qUuf9_M4ou0HrmGg8QDL/view?usp=sharing",
+        "shared": "Internet",
+        "type": "AUX"
     }
 ]

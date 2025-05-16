@@ -1,27 +1,27 @@
 [
     {
-        "title" : "MS Word Guião Aula Prática",
-        "url" : "https://drive.google.com/file/d/1PgAndKo5UZDzBLBFNdTT4b-c8coCe0Em/view?usp=sharing",
-        "shared" : "Desconhecido",
-        "type" : "BOOK"
+        "title": "MS Word Guião Aula Prática",
+        "url": "https://drive.google.com/file/d/1PgAndKo5UZDzBLBFNdTT4b-c8coCe0Em/view?usp=sharing",
+        "shared": "Desconhecido",
+        "type": "BOOK"
     },
     {
-        "title" : "JavaFX Programming Cookbook",
-        "url" : "https://drive.google.com/file/d/1hqaKy8EYxkVuOj3jUYf9bQGgVmm0wT7q/view?usp=sharing",
-        "shared" : "Desconhecido",
-        "type" : "BOOK"
+        "title": "JavaFX Programming Cookbook",
+        "url": "https://drive.google.com/file/d/1hqaKy8EYxkVuOj3jUYf9bQGgVmm0wT7q/view?usp=sharing",
+        "shared": "Desconhecido",
+        "type": "BOOK"
     },
     {
-        "title" : "Excel(Planilha Eletrônica) - Clayton Ferreira Santos",
-        "url" : "https://drive.google.com/file/d/1nGKfQxJO69zXTEHtr9Og8YqpK4LWVzyo/view?usp=sharing",
-        "shared" : "Desconhecido",
-        "type" : "BOOK"
+        "title": "Excel(Planilha Eletrônica) - Clayton Ferreira Santos",
+        "url": "https://drive.google.com/file/d/1nGKfQxJO69zXTEHtr9Og8YqpK4LWVzyo/view?usp=sharing",
+        "shared": "Desconhecido",
+        "type": "BOOK"
     },
     {
-        "title" : "Manual Psicopedagogia",
-        "url" : "https://drive.google.com/file/d/1I7n4b8JwbKbLmzmiWYhfzqd_DOIKkQCy/view?usp=sharing",
-        "shared" : "Desconhecido",
-        "type" : "BOOK"
+        "title": "Manual Psicopedagogia",
+        "url": "https://drive.google.com/file/d/1I7n4b8JwbKbLmzmiWYhfzqd_DOIKkQCy/view?usp=sharing",
+        "shared": "Desconhecido",
+        "type": "BOOK"
     },
     {
         "title": "Programação para iniciantes",
@@ -122,6 +122,60 @@
     {
         "title": "Instrumentação Eletroeletrônica - Hugo Tanzarella Teixeira",
         "url": "https://drive.google.com/file/d/10YcLFzcJRKDgecJPCzdSLgc0YA1R69_J/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "1000 frases mais usadas no inglês",
+        "url": "https://drive.google.com/file/d/1VR7RasVWFZEB1VVAawNMq3Qnu4jz9UeS/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Apostila inglês para iniciantes",
+        "url": "https://drive.google.com/file/d/1WWtnBFteijXvLX3pEyZE4r-llEKWgqMT/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Combinando Palavras em Inglês – Deniso de Lima",
+        "url": "https://drive.google.com/file/d/1WUTIAKrWeEiIw7P_4n6pTk8TtGKmgA-X/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Como Melhorar Seu Inglês em 18 Dias - Adir Ferreira",
+        "url": "https://drive.google.com/file/d/1WOLDBMRxZImoLqCCQ8DefZa7C55Bd3qO/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Fale Inglês Mais Rápido - Rich Johnson",
+        "url": "https://drive.google.com/file/d/1WL7HP-vQER3ZhR8BTqIsyJGVvEdIQnkY/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Gramática Inglês Elemental",
+        "url": "https://drive.google.com/file/d/1WD2T2ewjLDQ_pHKt4BnMRhZavhew2PGB/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Inglês DAN",
+        "url": "https://drive.google.com/file/d/1VsrOK98nnTdmGL-ViSKxJQ1QqjOtfNiq/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "O Espião Inglês - Daniel Silva",
+        "url": "https://drive.google.com/file/d/1VUo-VN4tw8pu2ugVEBPOnf_ygYpZBAro/view?usp=sharing",
+        "shared": "Internet",
+        "type": "BOOK"
+    },
+    {
+        "title": "Sou Péssimo Em Inglês – Carina Fragozo",
+        "url": "https://drive.google.com/file/d/1W_JBkyqkrp39gIW-oju-1ulfyFE_eBee/view?usp=sharing",
         "shared": "Internet",
         "type": "BOOK"
     }
